@@ -1,0 +1,4564 @@
+ABERRATION 		ae b E R e I S 2 n		2
+ABILITY 		2 b I l 2 t i		2
+ABOMINATION 		2 b a m 2 n e I S 2 n		2
+ABOVE 		2 b 2 v		2
+ABSENCE 		ae b s 2 n s		0
+ABSORPTION 		2 b z O r p S 2 n		2
+ABSTINENCE 		ae b s t 2 n 2 n s		0
+ABSTRACTION 		ae b s t r ae k S 2 n		2
+ABSURDITY 		2 b s E R d 2 t i		2
+ABUNDANCE 		2 b 2 n d 2 n s		0
+ABUSE 		2 b j u s		0
+ABUSER 		2 b j u z E R		2
+ABYSS 		2 b I s		0
+ACCENT 		2 k s E n t		1
+ACCEPTANCE 		ae k s E p t 2 n s		0
+ACCESS 		ae k s E s		0
+ACCESSIBILITY 		ae k s E s 2 b I l I t i		2
+ACCESSORY 		ae k s E s E R i		2
+ACCIDENT 		ae k s 2 d 2 n t		1
+ACCOMMODATION 		2 k a m 2 d e I S 2 n		2
+ACCOMPLICE 		2 k a m p l 2 s		0
+ACCOMPLISHMENT 		2 k a m p l I S m 2 n t		1
+ACCORD 		2 k O r d		2
+ACCOUNT 		2 k E U n t		1
+ACCOUNTABILITY 		2 k E U n t 2 b I l I t i		2
+ACCOUNTANT 		2 k E U n t 2 n t		1
+ACCOUNTING 		2 k E U n t I N		2
+ACCUMULATION 		2 k j u m j 2 l e I S 2 n		2
+ACCURACY 		ae k j E R 2 s i		2
+ACHIEVEMENT 		2 tS i v m 2 n t		1
+ACIDITY 		2 s I d 2 t i		2
+ACQUAINTANCE 		2 k w e I n t 2 n s		0
+ACQUISITION 		ae k w 2 z I S 2 n		2
+ACRONYM 		ae k r 2 n I m		2
+ACT 		ae k t		1
+ACTION 		ae k S 2 n		2
+ACTIVIST 		ae k t I v I s t		1
+ACTIVITY 		ae k t I v I t i		2
+ACTRESS 		ae k t r 2 s		0
+ACUPUNCTURE 		ae k j u p 2 N k tS E R		2
+ACUPUNCTURIST 		ae k j 2 p 2 N k t j 2 r 2 s t		1
+ADAPTATION 		ae d 2 p t e I S 2 n		2
+ADDENDUM 		2 d E n d 2 m		2
+ADDICT 		2 d I k t		1
+ADDICTION 		2 d I k S 2 n		2
+ADDITION 		2 d I S 2 n		2
+ADDITIVE 		ae d I t I v		2
+ADDRESS 		ae d r E s		0
+ADHERENT 		2 d h I r 2 n t		1
+ADJUSTMENT 		2 dZ 2 s t m 2 n t		1
+ADMINISTRATION 		ae d m I n I s t r e I S 2 n		2
+ADMINISTRATOR 		2 d m I n I s t r e I t E R		2
+ADMIRATION 		ae d m E R e I S 2 n		2
+ADMISSION 		ae d m I S 2 n		2
+ADOLESCENT 		ae d 2 l E s 2 n t		1
+ADOPTION 		2 d a p S 2 n		2
+ADULT 		2 d 2 l t		1
+ADVANCE 		2 d v ae n s		0
+ADVANCEMENT 		2 d v ae n s m 2 n t		1
+ADVANTAGE 		ae d v ae n t I dZ		0
+ADVENTURE 		ae d v E n tS E R		2
+ADVERT 		ae d v E R t		1
+ADVERTISING 		ae d v E R t E I z I N		2
+ADVICE 		ae d v E I s		0
+ADVISE 		ae d v E I z		0
+ADVISER 		ae d v E I z E R		2
+ADVISOR 		ae d v E I z E R		2
+ADVOCATE 		ae d v 2 k 2 t		1
+AFFAIR 		2 f E r		2
+AFFECTATION 		ae f E k t e I S 2 n		2
+AFFECTION 		2 f E k S 2 n		2
+AFFILIATE 		2 f I l i e I t		1
+AFFINITY 		2 f I n I t i		2
+AFICIONADO 		2 f i S j 2 n a d o U		2
+AFTERMATH 		ae f t E R m ae T		1
+AFTERNOON 		ae f t E R n u n		2
+AFTERSHOCK 		ae f t E R S a k		1
+AGE 		e I dZ		0
+AGENCY 		e I dZ 2 n s i		2
+AGENDA 		2 dZ E n d 2		2
+AGENT 		e I dZ 2 n t		1
+AGGRAVATION 		ae g r 2 v e I S 2 n		2
+AGGREGATION 		ae g r 2 g e I S 2 n		2
+AGGRESSION 		2 g r E S 2 n		2
+AGREEMENT 		2 g r i m 2 n t		1
+AHEAD 		2 h E d		2
+AID 		e I d		2
+AILMENT 		e I l m 2 n t		1
+AIM 		e I m		2
+AIR 		E r		2
+AIRCRAFT 		E r k r ae f t		1
+AIRFARE 		E r f E r		2
+AIRLIFT 		E r l I f t		1
+AIRLINE 		E r l E I n		2
+AIRLINER 		E r l E I n E R		2
+AIRPLANE 		E r p l e I n		2
+AIRPORT 		E r p O r t		1
+AIRWAY 		E r w e I		2
+ALARM 		2 l a r m		2
+ALCOHOL 		ae l k 2 h a l		2
+ALCOHOLISM 		ae l k 2 h O l I z 2 m		2
+ALE 		e I l		2
+ALERT 		2 l E R t		1
+ALGA 		ae l g 2		2
+ALIAS 		e I l i 2 s		0
+ALIGNMENT 		2 l E I n m 2 n t		1
+ALL 		O l		2
+ALLEGATION 		ae l 2 g e I S 2 n		2
+ALLIANCE 		2 l E I 2 n s		0
+ALLOCATION 		ae l 2 k e I S 2 n		2
+ALLOWANCE 		2 l E U 2 n s		0
+ALLY 		ae l E I		2
+ALTAR 		O l t E R		2
+ALTERATION 		O l t E R e I S 2 n		2
+ALTERNATE 		O l t E R n 2 t		1
+ALTERNATIVE 		O l t E R n 2 t I v		2
+ALTITUDE 		ae l t 2 t u d		2
+ALUMINUM 		2 l u m 2 n 2 m		2
+AMALGAM 		2 m ae l g 2 m		2
+AMBASSADOR 		ae m b ae s 2 d E R		2
+AMBIANCE 		ae m b i 2 n s		0
+AMBITION 		ae m b I S 2 n		2
+AMBULANCE 		ae m b j 2 l 2 n s		0
+AMENDED 		2 m E n d I d		2
+AMENDMENT 		2 m E n d m 2 n t		1
+AMMONIA 		2 m o U n j 2		2
+AMMUNITION 		ae m j 2 n I S 2 n		2
+AMNESTY 		ae m n 2 s t i		2
+AMOUNT 		2 m E U n t		1
+AMUSE 		2 m j u z		0
+AMUSEMENT 		2 m j u z m 2 n t		1
+ANALYSIS 		ae n ae l I s I s		0
+ANALYST 		ae n 2 l I s t		1
+ANESTHETIC 		ae n 2 s T E t I k		1
+ANGEL 		e I n dZ 2 l		2
+ANGER 		ae N g E R		2
+ANGLE 		ae N g 2 l		2
+ANIMAL 		ae n 2 m 2 l		2
+ANNEX 		ae n E k s		0
+ANNEXATION 		ae n E k s e I S 2 n		2
+ANNIVERSARY 		ae n 2 v E R s E R i		2
+ANNOUNCEMENT 		2 n E U n s m E n t		1
+ANSWER 		ae n s E R		2
+ANT 		ae n t		1
+ANTHRAX 		ae n T r ae k s		0
+ANTIBIOTIC 		ae n t i b E I a t I k		1
+ANTIPASTO 		ae n t 2 p ae s t o U		2
+ANTIQUE 		ae n t i k		1
+ANTIQUITY 		ae n t I k w 2 t i		2
+ANYTIME 		E n i t E I m		2
+ANYWHERE 		E n i w E r		2
+APARTMENT 		2 p a r t m 2 n t		1
+APERTURE 		ae p E R tS E R		2
+APOGEE 		ae p 2 dZ i		2
+APOLOGY 		2 p a l 2 dZ i		2
+APPARATUS 		ae p E R ae t 2 s		0
+APPEAL 		2 p i l		2
+APPEARANCE 		2 p I r 2 n s		0
+APPELLATION 		ae p 2 l e I S 2 n		2
+APPENDIX 		2 p E n d I k s		0
+APPETITE 		ae p 2 t E I t		1
+APPETIZER 		ae p 2 t E I z E R		2
+APPLIANCE 		2 p l E I 2 n s		0
+APPLICANT 		ae p l I k 2 n t		1
+APPLICATION 		ae p l 2 k e I S 2 n		2
+APPOINTEE 		2 p U I n t i		2
+APPOINTMENT 		2 p U I n t m 2 n t		1
+APPRECIATION 		2 p r i S i e I S 2 n		2
+APPREHENSION 		ae p r I h E n S 2 n		2
+APPRENTICE 		2 p r E n t 2 s		0
+APPROACH 		2 p r o U tS		0
+APPROPRIATION 		2 p r o U p r i e I S 2 n		2
+APPROVAL 		2 p r u v 2 l		2
+APPROVED 		2 p r u v d		2
+APPROXIMATION 		2 p r a k s 2 m e I S 2 n		2
+APRON 		e I p r 2 n		2
+AQUARIUM 		2 k w E r i 2 m		2
+ARBITRATION 		a r b I t r e I S 2 n		2
+ARBITRATOR 		a r b I t r e I t E R		2
+ARCHIPELAGO 		a r k 2 p E l 2 g o U		2
+ARCHIVE 		a r k E I v		2
+AREA 		E r i 2		2
+ARENA 		E R i n 2		2
+ARGUMENT 		a r g j 2 m 2 n t		1
+ARM 		a r m		2
+ARMAMENT 		a r m 2 m 2 n t		1
+ARMATURE 		a r m 2 tS E R		2
+ARMY 		a r m i		2
+AROUND 		E R E U n d		2
+ARRANGEMENT 		E R e I n dZ m 2 n t		1
+ARREST 		E R E s t		1
+ARRIVAL 		E R E I v 2 l		2
+ARROGANCE 		E r 2 g 2 n s		0
+ARSENAL 		a r s 2 n 2 l		2
+ARSENIC 		a r s 2 n I k		1
+ART 		a r t		1
+ARTERY 		a r t E R i		2
+ARTHRITIS 		a r T r E I t 2 s		0
+ARTICLE 		a r t 2 k 2 l		2
+ARTICULATING 		a r t I k j 2 l e I t I N		2
+ARTILLERY 		a r t I l E R i		2
+ARTIST 		a r t 2 s t		1
+ARTWORK 		a r t w E R k		1
+ASBESTOS 		ae s b E s t 2 s		0
+ASPARAGUS 		2 s p E r 2 g 2 s		0
+ASPECT 		ae s p E k t		1
+ASPEN 		ae s p 2 n		2
+ASPIRATION 		ae s p E R e I S 2 n		2
+ASPIRIN 		ae s p r I n		2
+ASS 		ae s		0
+ASSAILANT 		2 s e I l 2 n t		1
+ASSASSIN 		2 s ae s 2 n		2
+ASSASSINATION 		2 s ae s 2 n e I S 2 n		2
+ASSAULT 		2 s O l t		1
+ASSEMBLY 		2 s E m b l i		2
+ASSERTION 		2 s E R S 2 n		2
+ASSESSMENT 		2 s E s m 2 n t		1
+ASSET 		ae s E t		1
+ASSIGNMENT 		2 s E I n m 2 n t		1
+ASSISTANCE 		2 s I s t 2 n s		0
+ASSISTANT 		2 s I s t 2 n t		1
+ASSOCIATE 		2 s o U s i 2 t		1
+ASSOCIATION 		2 s o U s i e I S 2 n		2
+ASSORTMENT 		2 s O r t m 2 n t		1
+ASSUMPTION 		2 s 2 m p S 2 n		2
+ASSURANCE 		2 S U r 2 n s		0
+ASTRONAUT 		ae s t r 2 n a t		1
+ASTRONOMY 		2 s t r a n 2 m i		2
+ATMOSPHERE 		ae t m 2 s f I r		2
+ATROCITY 		2 t r a s 2 t i		2
+ATROPHY 		ae t r 2 f i		2
+ATTACHMENT 		2 t ae tS m 2 n t		1
+ATTACK 		2 t ae k		1
+ATTEMPT 		2 t E m p t		1
+ATTENDANCE 		2 t E n d 2 n s		0
+ATTENDANT 		2 t E n d 2 n t		1
+ATTENTION 		2 t E n S 2 n		2
+ATTITUDE 		ae t 2 t u d		2
+ATTORNEY 		2 t E R n i		2
+ATTRACTION 		2 t r ae k S 2 n		2
+AUCTION 		a k S 2 n		2
+AUDACITY 		a d ae s 2 t i		2
+AUDIENCE 		a d i 2 n s		0
+AUDIO 		a d i o U		2
+AUDIT 		O d I t		1
+AUNT 		ae n t		1
+AUSPICES 		O s p I s I z		0
+AUTHOR 		O T E R		2
+AUTHORITY 		2 T O r 2 t i		2
+AUTHORIZATION 		O T E R 2 z e I S 2 n		2
+AUTO 		O t o U		2
+AUTONOMY 		O t a n 2 m i		2
+AUTUMN 		O t 2 m		2
+AVAIL 		2 v e I l		2
+AVAILABILITY 		2 v e I l 2 b I l 2 t i		2
+AVENGER 		2 v E n dZ E R		2
+AVERAGE 		ae v E R I dZ		0
+AVERSION 		2 v E R Z 2 n		2
+AVIATION 		e I v i e I S 2 n		2
+AVOIDANCE 		2 v U I d 2 n s		0
+AWARD 		2 w O r d		2
+AWARENESS 		2 w E r n 2 s		0
+AWAY 		2 w e I		2
+BABY 		b e I b i		2
+BACHELOR 		b ae tS 2 l E R		2
+BACK 		b ae k		1
+BACKGROUND 		b ae k g r E U n d		2
+BACKPACK 		b ae k p ae k		1
+BACKSIDE 		b ae k s E I d		2
+BACKUP 		b ae k 2 p		1
+BACTERIOLOGIST 		b ae k t 2 r i a l 2 dZ 2 s t		1
+BAD 		b ae d		2
+BADGE 		b ae dZ		0
+BAG 		b ae g		2
+BAGEL 		b e I g 2 l		2
+BAGGAGE 		b ae g I dZ		0
+BAIL 		b e I l		2
+BAIT 		b e I t		1
+BAKER 		b e I k E R		2
+BAKERY 		b e I k E R i		2
+BAKING 		b e I k I N		2
+BALANCE 		b ae l 2 n s		0
+BALCONY 		b ae l k 2 n i		2
+BALDNESS 		b O l d n 2 s		0
+BALL 		b O l		2
+BALLERINA 		b ae l E R i n 2		2
+BALLET 		b ae l e I		2
+BALLOT 		b ae l 2 t		1
+BALLOTING 		b ae l 2 t I N		2
+BALLROOM 		b O l r u m		2
+BALSA 		b O l s 2		2
+BAN 		b ae n		2
+BANANA 		b 2 n ae n 2		2
+BAND 		b ae n d		2
+BANDWIDTH 		b ae n d w I d T		1
+BANG 		b ae N		2
+BANK 		b ae N k		1
+BANKING 		b ae N k I N		2
+BANKRUPTCY 		b ae N k r 2 p s i		2
+BANNER 		b ae n E R		2
+BAR 		b a r		2
+BARBECUE 		b a r b I k j u		2
+BARBER 		b a r b E R		2
+BARBERSHOP 		b a r b E R S a p		1
+BARGE 		b a r dZ		0
+BARN 		b a r n		2
+BAROMETER 		b E R a m I t E R		2
+BARREL 		b ae r 2 l		2
+BARRIER 		b ae r i E R		2
+BARTENDER 		b a r t E n d E R		2
+BASE 		b e I s		0
+BASEBALL 		b e I s b O l		2
+BASHING 		b ae S I N		2
+BASIS 		b e I s 2 s		0
+BASKET 		b ae s k 2 t		1
+BASKING 		b ae s k I N		2
+BASS 		b ae s		0
+BAT 		b ae t		1
+BATCH 		b ae tS		0
+BATH 		b ae T		1
+BATHING 		b e I D I N		2
+BATHROOM 		b ae T r u m		2
+BATTER 		b ae t E R		2
+BATTERY 		b ae t E R i		2
+BATTLE 		b ae t 2 l		2
+BATTLEFIELD 		b ae t 2 l f i l d		2
+BAY 		b e I		2
+BEACH 		b i tS		0
+BEAK 		b i k		1
+BEAM 		b i m		2
+BEAN 		b i n		2
+BEAR 		b E r		2
+BEARD 		b I r d		2
+BEAT 		b i t		1
+BEATING 		b i t I N		2
+BEAUTY 		b j u t i		2
+BEAVER 		b i v E R		2
+BED 		b E d		2
+BEDDING 		b E d I N		2
+BEDLAM 		b E d l 2 m		2
+BEDROOM 		b E d r u m		2
+BEE 		b i		2
+BEEF 		b i f		1
+BEER 		b I r		2
+BEGINNER 		b I g I n E R		2
+BEGINNING 		b I g I n I N		2
+BEHALF 		b I h ae f		1
+BEHAVIOR 		b I h e I v j E R		2
+BEING 		b i I N		2
+BELIEF 		b I l i f		1
+BELIEVER 		b I l i v E R		2
+BELL 		b E l		2
+BELLY 		b E l i		2
+BELT 		b E l t		1
+BENCH 		b E n tS		0
+BENEFICIARY 		b E n 2 f I S i E r i		2
+BENEFIT 		b E n 2 f I t		1
+BERRY 		b E r i		2
+BET 		b E t		1
+BETA 		b e I t 2		2
+BEVERAGE 		b E v E R I dZ		0
+BICYCLE 		b E I s I k 2 l		2
+BID 		b I d		2
+BIDDER 		b I d E R		2
+BIKE 		b E I k		1
+BILL 		b I l		2
+BILLIARD 		b I l j E R d		2
+BILLING 		b I l I N		2
+BILLION 		b I l j 2 n		2
+BINARY 		b E I n 2 r i		2
+BIND 		b E I n d		2
+BIOCHEMIST 		b E I o U k E m I s t		1
+BIOLOGIST 		b E I a l 2 dZ I s t		1
+BIOLOGY 		b E I a l 2 dZ i		2
+BIOSPHERE 		b E I o U s f I r		2
+BIRD 		b E R d		2
+BIRDIE 		b E R d i		2
+BIRTH 		b E R T		1
+BIRTHDAY 		b E R T d e I		2
+BIT 		b I t		1
+BITE 		b E I t		1
+BITING 		b E I t I N		2
+BITMAP 		b I t m ae p		1
+BLACK 		b l ae k		1
+BLACKMAIL 		b l ae k m e I l		2
+BLACKOUT 		b l ae k E U t		1
+BLADDER 		b l ae d E R		2
+BLADE 		b l e I d		2
+BLAME 		b l e I m		2
+BLANKET 		b l ae N k 2 t		1
+BLAST 		b l ae s t		1
+BLEND 		b l E n d		2
+BLENDER 		b l E n d E R		2
+BLESSING 		b l E s I N		2
+BLINDFOLD 		b l E I n d f o U l d		2
+BLINDNESS 		b l E I n d n 2 s		0
+BLOCK 		b l a k		1
+BLOG 		b l O g		2
+BLOOD 		b l 2 d		2
+BLOSSOMING 		b l a s 2 m I N		2
+BLOW 		b l o U		2
+BLOWER 		b l o U E R		2
+BLOWING 		b l o U I N		2
+BLOWOUT 		b l o U E U t		1
+BLUE 		b l u		2
+BLUFF 		b l 2 f		1
+BLUNDER 		b l 2 n d E R		2
+BOARD 		b O r d		2
+BOARDER 		b O r d E R		2
+BOARDING 		b O r d I N		2
+BOARDROOM 		b O r d r u m		2
+BOAST 		b o U s t		1
+BOAT 		b o U t		1
+BODICE 		b a d I s		0
+BODY 		b a d i		2
+BODYGUARD 		b a d i g a r d		2
+BOIL 		b U I l		2
+BOMB 		b a m		2
+BOMBAST 		b a m b ae s t		1
+BOMBER 		b a m E R		2
+BOMBING 		b a m I N		2
+BOND 		b a n d		2
+BONE 		b o U n		2
+BONUS 		b o U n 2 s		0
+BOOB 		b u b		2
+BOOK 		b U k		1
+BOOKING 		b U k I N		2
+BOOST 		b u s t		1
+BOOSTER 		b u s t E R		2
+BOOT 		b u t		1
+BOOTH 		b u T		1
+BORDER 		b O r d E R		2
+BORE 		b O r		2
+BOSS 		b a s		0
+BOTTLE 		b a t 2 l		2
+BOTTOM 		b a t 2 m		2
+BOULEVARD 		b U l 2 v a r d		2
+BOUNCE 		b E U n s		0
+BOUND 		b E U n d		2
+BOUT 		b E U t		1
+BOUTIQUE 		b u t i k		1
+BOWEL 		b E U 2 l		2
+BOWL 		b o U l		2
+BOX 		b a k s		0
+BOXER 		b a k s E R		2
+BOY 		b U I		2
+BOYCOTT 		b U I k a t		1
+BOYFRIEND 		b U I f r E n d		2
+BOZO 		b o U z o U		2
+BRAIN 		b r e I n		2
+BRAINWASHING 		b r e I n w a S I N		2
+BRAKE 		b r e I k		1
+BRANCH 		b r ae n tS		0
+BRAND 		b r ae n d		2
+BRAS 		b r ae s		0
+BRASS 		b r ae s		0
+BRAT 		b r ae t		1
+BRAVERY 		b r e I v E R i		2
+BREAD 		b r E d		2
+BREAK 		b r e I k		1
+BREAKDOWN 		b r e I k d E U n		2
+BREAKFAST 		b r E k f 2 s t		1
+BREAKING 		b r e I k I N		2
+BREAKTHROUGH 		b r e I k T r u		2
+BREAST 		b r E s t		1
+BREATH 		b r E T		1
+BREATHING 		b r i D I N		2
+BREED 		b r i d		2
+BREEDER 		b r i d E R		2
+BREEDING 		b r i d I N		2
+BREEZE 		b r i z		0
+BREWERY 		b r u E R i		2
+BRICK 		b r I k		1
+BRIDE 		b r E I d		2
+BRIDGE 		b r I dZ		0
+BRIEF 		b r i f		1
+BRIEFING 		b r i f I N		2
+BRIGADE 		b r 2 g e I d		2
+BRIGHTNESS 		b r E I t n 2 s		0
+BRINK 		b r I N k		1
+BRINKMANSHIP 		b r I N k m 2 n S I p		1
+BROCCOLI 		b r a k 2 l i		2
+BROCHURE 		b r o U S U r		2
+BROKER 		b r o U k E R		2
+BROKERAGE 		b r o U k E R I dZ		0
+BRONZE 		b r a n z		0
+BROTHEL 		b r a T 2 l		2
+BROTHER 		b r 2 D E R		2
+BROWN 		b r E U n		2
+BROWSER 		b r E U z E R		2
+BRUISE 		b r u z		0
+BRUNCH 		b r 2 n tS		0
+BRUNT 		b r 2 n t		1
+BUBBLE 		b 2 b 2 l		2
+BUCK 		b 2 k		1
+BUCKET 		b 2 k I t		1
+BUDDY 		b 2 d i		2
+BUDGET 		b 2 dZ I t		1
+BUDGIE 		b 2 dZ i		2
+BUG 		b 2 g		2
+BUILD 		b I l d		2
+BUILDER 		b I l d E R		2
+BUILDING 		b I l d I N		2
+BUILDUP 		b I l d 2 p		1
+BULB 		b 2 l b		2
+BULL 		b U l		2
+BULLET 		b U l 2 t		1
+BULLETIN 		b U l I t 2 n		2
+BULLFIGHT 		b U l f E I t		1
+BULLSHIT 		b U l S I t		1
+BUN 		b 2 n		2
+BUNCH 		b 2 n tS		0
+BUNDLE 		b 2 n d 2 l		2
+BUNGLING 		b 2 N g 2 l I N		2
+BURDEN 		b E R d 2 n		2
+BUREAU 		b j U r o U		2
+BURGER 		b E R g E R		2
+BURGLAR 		b E R g l E R		2
+BURIAL 		b E r i 2 l		2
+BURN 		b E R n		2
+BURNER 		b E R n E R		2
+BURST 		b E R s t		1
+BUS 		b 2 s		0
+BUSH 		b U S		0
+BUSINESS 		b I z n 2 s		0
+BUSTER 		b 2 s t E R		2
+BUSTLE 		b 2 s 2 l		2
+BUSYBODY 		b I z i b a d i		2
+BUT 		b 2 t		1
+BUTT 		b 2 t		1
+BUTTER 		b 2 t E R		2
+BUTTERFLY 		b 2 t E R f l E I		2
+BUTTON 		b 2 t 2 n		2
+BUY 		b E I		2
+BUYER 		b E I E R		2
+BUYING 		b E I I N		2
+BUZZING 		b 2 z I N		2
+CAB 		k ae b		2
+CABBAGE 		k ae b 2 dZ		0
+CABIN 		k ae b 2 n		2
+CABINET 		k ae b 2 n 2 t		1
+CACHE 		k ae S		0
+CACTUS 		k ae k t 2 s		0
+CAFETERIA 		k ae f 2 t I r i 2		2
+CAGE 		k e I dZ		0
+CAKE 		k e I k		1
+CALCIUM 		k ae l s i 2 m		2
+CALCULATION 		k ae l k j 2 l e I S 2 n		2
+CALENDAR 		k ae l 2 n d E R		2
+CALF 		k ae f		1
+CALICO 		k ae l 2 k o U		2
+CALL 		k O l		2
+CALLING 		k O l I N		2
+CALMNESS 		k a m n 2 s		0
+CAMEL 		k ae m 2 l		2
+CAMERA 		k ae m E R 2		2
+CAMP 		k ae m p		1
+CAMPAIGN 		k ae m p e I n		2
+CAMPAIGNING 		k ae m p e I n I N		2
+CAMPER 		k ae m p E R		2
+CAMPSITE 		k ae m p s E I t		1
+CAMPUS 		k ae m p 2 s		0
+CAN 		k ae n		2
+CANAL 		k 2 n ae l		2
+CANCELLATION 		k ae n s 2 l e I S 2 n		2
+CANCER 		k ae n s E R		2
+CANDIDATE 		k ae n d 2 d e I t		1
+CANDLE 		k ae n d 2 l		2
+CANDY 		k ae n d i		2
+CANISTER 		k ae n 2 s t E R		2
+CANNIBAL 		k ae n 2 b 2 l		2
+CANNON 		k ae n 2 n		2
+CANOE 		k 2 n u		2
+CAP 		k ae p		1
+CAPABILITY 		k e I p 2 b I l 2 t i		2
+CAPACITY 		k 2 p ae s 2 t i		2
+CAPE 		k e I p		1
+CAPER 		k e I p E R		2
+CAPITAL 		k ae p I t 2 l		2
+CAPSULE 		k ae p s 2 l		2
+CAPTAIN 		k ae p t 2 n		2
+CAPTURE 		k ae p tS E R		2
+CAR 		k a r		2
+CARBON 		k a r b 2 n		2
+CARCINOMA 		k a r s 2 n o U m 2		2
+CARD 		k a r d		2
+CARE 		k E r		2
+CAREER 		k E R I r		2
+CARGO 		k a r g o U		2
+CARING 		k E r I N		2
+CAROTID 		k E R a t I d		2
+CARPENTER 		k a r p 2 n t E R		2
+CARPET 		k a r p 2 t		1
+CARRIER 		k ae r i E R		2
+CARROT 		k ae r 2 t		1
+CARTON 		k a r t 2 n		2
+CARTOON 		k a r t u n		2
+CASCADE 		k ae s k e I d		2
+CASE 		k e I s		0
+CASH 		k ae S		0
+CASHIER 		k ae S I r		2
+CASINO 		k 2 s i n o U		2
+CAST 		k ae s t		1
+CASTING 		k ae s t I N		2
+CASTLING 		k ae s t l I N		2
+CASUALTY 		k ae Z 2 w 2 l t i		2
+CAT 		k ae t		1
+CATALOGUE 		k ae t 2 l O g		2
+CATASTROPHE 		k 2 t ae s t r 2 f i		2
+CATCH 		k ae tS		0
+CATEGORY 		k ae t 2 g O r i		2
+CATER 		k e I t E R		2
+CATERING 		k e I t E R I N		2
+CATFISH 		k ae t f I S		0
+CATTLE 		k ae t 2 l		2
+CAULDRON 		k a l d r 2 n		2
+CAULIFLOWER 		k a l 2 f l E U E R		2
+CAUSE 		k a z		0
+CAVE 		k e I v		2
+CEASEFIRE 		s i s f E I E R		2
+CEILING 		s i l I N		2
+CELEBRATION 		s E l 2 b r e I S 2 n		2
+CELEBRITY 		s 2 l E b r I t i		2
+CELERY 		s E l E R i		2
+CELL 		s E l		2
+CEMENT 		s 2 m E n t		1
+CENT 		s E n t		1
+CENTER 		s E n t E R		2
+CENTURY 		s E n tS E R i		2
+CEREAL 		s I r i 2 l		2
+CERTAINTY 		s E R t 2 n t i		2
+CERTIFICATE 		s E R t I f I k 2 t		1
+CERTIFICATION 		s E R t 2 f 2 k e I S 2 n		2
+CHAIN 		tS e I n		2
+CHAIR 		tS E r		2
+CHAIRPERSON 		tS E r p E R s 2 n		2
+CHALLENGE 		tS ae l 2 n dZ		0
+CHAMBER 		tS e I m b E R		2
+CHAMBERMAID 		tS e I m b E R m e I d		2
+CHANCE 		tS ae n s		0
+CHANDELIER 		S ae n d 2 l I r		2
+CHANGE 		tS e I n dZ		0
+CHANGING 		tS e I n dZ I N		2
+CHANNEL 		tS ae n 2 l		2
+CHANT 		tS ae n t		1
+CHAOS 		k e I a s		0
+CHAP 		tS ae p		1
+CHAPEL 		tS ae p 2 l		2
+CHAPTER 		tS ae p t E R		2
+CHARACTER 		k E r I k t E R		2
+CHARCOAL 		tS a r k o U l		2
+CHARGE 		tS a r dZ		0
+CHARITY 		tS E r I t i		2
+CHARM 		tS a r m		2
+CHART 		tS a r t		1
+CHASE 		tS e I s		0
+CHASM 		k ae z 2 m		2
+CHAT 		tS ae t		1
+CHAUVINISM 		S o U v 2 n I z 2 m		2
+CHECK 		tS E k		1
+CHECKOUT 		tS E k E U t		1
+CHEEK 		tS i k		1
+CHEER 		tS I r		2
+CHEESE 		tS i z		0
+CHEF 		S E f		1
+CHEMICAL 		k E m I k 2 l		2
+CHEMISTRY 		k E m I s t r i		2
+CHESS 		tS E s		0
+CHEST 		tS E s t		1
+CHEW 		tS u		2
+CHICK 		tS I k		1
+CHICKEN 		tS I k 2 n		2
+CHIEF 		tS i f		1
+CHILDBIRTH 		tS E I l d b E R T		1
+CHILDCARE 		tS E I l d k E r		2
+CHILDHOOD 		tS E I l d h U d		2
+CHILI 		tS I l i		2
+CHIP 		tS I p		1
+CHLORIDE 		k l O r E I d		2
+CHLORINATION 		k l o U r i n e I S 2 n		2
+CHLORINE 		k l O r i n		2
+CHOCOLATE 		tS O k l 2 t		1
+CHOICE 		tS U I s		0
+CHOIR 		k w E I E R		2
+CHORD 		k O r d		2
+CHORE 		tS O r		2
+CHROME 		k r o U m		2
+CHUNK 		tS 2 N k		1
+CHURCH 		tS E R tS		0
+CIGARETTE 		s I g 2 r E t		1
+CINEMA 		s I n 2 m 2		2
+CIRCLE 		s E R k 2 l		2
+CIRCUMSTANCE 		s E R k 2 m s t ae n s		0
+CITIZEN 		s I t 2 z 2 n		2
+CITIZENSHIP 		s I t I z 2 n S I p		1
+CITY 		s I t i		2
+CIVET 		s I v 2 t		1
+CIVILIAN 		s 2 v I l j 2 n		2
+CIVILIZATION 		s I v 2 l I z e I S 2 n		2
+CLAIM 		k l e I m		2
+CLAMORING 		k l ae m E R I N		2
+CLAMP 		k l ae m p		1
+CLAN 		k l ae n		2
+CLARIFICATION 		k l E r 2 f 2 k e I S 2 n		2
+CLASH 		k l ae S		0
+CLASS 		k l ae s		0
+CLASSIC 		k l ae s I k		1
+CLASSMATE 		k l ae s m e I t		1
+CLAUSE 		k l O z		0
+CLAW 		k l O		2
+CLAY 		k l e I		2
+CLEAN 		k l i n		2
+CLEANER 		k l i n E R		2
+CLEANING 		k l i n I N		2
+CLERGY 		k l E R dZ i		2
+CLERIC 		k l E r I k		1
+CLERK 		k l E R k		1
+CLIENT 		k l E I 2 n t		1
+CLIMATE 		k l E I m 2 t		1
+CLIMBER 		k l E I m E R		2
+CLINIC 		k l I n I k		1
+CLIP 		k l I p		1
+CLOAK 		k l o U k		1
+CLOCK 		k l a k		1
+CLOCKWORK 		k l a k w E R k		1
+CLOSE 		k l o U s		0
+CLOSING 		k l o U z I N		2
+CLOTH 		k l O T		1
+CLOTHING 		k l o U D I N		2
+CLOUD 		k l E U d		2
+CLUB 		k l 2 b		2
+CLUBHOUSE 		k l 2 b h E U s		0
+CLUE 		k l u		2
+CLUMP 		k l 2 m p		1
+CLUSTER 		k l 2 s t E R		2
+COACH 		k o U tS		0
+COAL 		k o U l		2
+COALITION 		k o U 2 l I S 2 n		2
+COAST 		k o U s t		1
+COASTAL 		k o U s t 2 l		2
+COASTLINE 		k o U s t l E I n		2
+COAT 		k o U t		1
+COATING 		k o U t I N		2
+COB 		k a b		2
+COCKTAIL 		k a k t e I l		2
+COCONUT 		k o U k 2 n 2 t		1
+CODE 		k o U d		2
+CODING 		k o U d I N		2
+COFFEE 		k a f i		2
+COFFIN 		k O f I n		2
+COIN 		k U I n		2
+COINCIDENCE 		k o U I n s I d 2 n s		0
+COLLABORATION 		k 2 l ae b E R e I S 2 n		2
+COLLAGE 		k 2 l a Z		0
+COLLAPSE 		k 2 l ae p s		0
+COLLAR 		k a l E R		2
+COLLATERAL 		k 2 l ae t E R 2 l		2
+COLLEAGUE 		k a l i g		2
+COLLECTION 		k 2 l E k S 2 n		2
+COLLEGE 		k a l I dZ		0
+COLLISION 		k 2 l I Z 2 n		2
+COLLUSION 		k 2 l u Z 2 n		2
+COLONIZATION 		k a l 2 n I z e I S 2 n		2
+COLONY 		k a l 2 n i		2
+COLOR 		k 2 l E R		2
+COLUMN 		k a l 2 m		2
+COLUMNIST 		k a l 2 m n 2 s t		1
+COMB 		k o U m		2
+COMBAT 		k a m b ae t		1
+COMBATANT 		k 2 m b ae t 2 n t		1
+COMBINATION 		k a m b 2 n e I S 2 n		2
+COMBO 		k a m b o U		2
+COMEDIAN 		k 2 m i d i 2 n		2
+COMEDY 		k a m 2 d i		2
+COMER 		k 2 m E R		2
+COMFORT 		k 2 m f E R t		1
+COMMA 		k a m 2		2
+COMMAND 		k 2 m ae n d		2
+COMMANDER 		k 2 m ae n d E R		2
+COMMENT 		k a m E n t		1
+COMMENTARY 		k a m 2 n t E r i		2
+COMMENTATOR 		k a m 2 n t e I t E R		2
+COMMERCIAL 		k 2 m E R S 2 l		2
+COMMISSION 		k 2 m I S 2 n		2
+COMMISSIONER 		k 2 m I S 2 n E R		2
+COMMITMENT 		k 2 m I t m 2 n t		1
+COMMITTEE 		k 2 m I t i		2
+COMMODITY 		k 2 m a d 2 t i		2
+COMMUNICATION 		k 2 m j u n 2 k e I S 2 n		2
+COMMUNICATOR 		k 2 m j u n 2 k e I t E R		2
+COMMUNITY 		k 2 m j u n 2 t i		2
+COMPANION 		k 2 m p ae n j 2 n		2
+COMPANY 		k 2 m p 2 n i		2
+COMPARISON 		k 2 m p E r 2 s 2 n		2
+COMPASSION 		k 2 m p ae S 2 n		2
+COMPENSATION 		k a m p 2 n s e I S 2 n		2
+COMPETITION 		k a m p 2 t I S 2 n		2
+COMPLAINT 		k 2 m p l e I n t		1
+COMPLETION 		k 2 m p l i S 2 n		2
+COMPLEX 		k a m p l E k s		0
+COMPLEXITY 		k 2 m p l E k s 2 t i		2
+COMPLIANCE 		k 2 m p l E I 2 n s		0
+COMPLICATION 		k a m p l 2 k e I S 2 n		2
+COMPLIMENT 		k a m p l 2 m E n t		1
+COMPONENT 		k 2 m p o U n 2 n t		1
+COMPOSITION 		k a m p 2 z I S 2 n		2
+COMPOUND 		k a m p E U n d		2
+COMPREHENSION 		k a m p r i h E n S 2 n		2
+COMPRESSION 		k 2 m p r E S 2 n		2
+COMPRESSOR 		k 2 m p r E s E R		2
+COMPROMISE 		k a m p r 2 m E I z		0
+COMPUTER 		k 2 m p j u t E R		2
+CON 		k a n		2
+CONCENTRATION 		k a n s 2 n t r e I S 2 n		2
+CONCEPT 		k a n s E p t		1
+CONCERN 		k 2 n s E R n		2
+CONCERT 		k a n s E R t		1
+CONCLUSION 		k 2 n k l u Z 2 n		2
+CONCRETE 		k 2 n k r i t		1
+CONDEMNATION 		k a n d 2 m n e I S 2 n		2
+CONDIMENT 		k a n d 2 m 2 n t		1
+CONDITION 		k 2 n d I S 2 n		2
+CONDITIONER 		k 2 n d I S 2 n E R		2
+CONDITIONING 		k 2 n d I S 2 n I N		2
+CONDO 		k a n d o U		2
+CONDOMINIUM 		k a n d 2 m I n i 2 m		2
+CONDUCT 		k a n d 2 k t		1
+CONDUIT 		k a n d u I t		1
+CONFERENCE 		k a n f E R 2 n s		0
+CONFESSION 		k 2 n f E S 2 n		2
+CONFIDANTE 		k a n f 2 d ae n t		1
+CONFIDENCE 		k a n f 2 d E n s		0
+CONFIDENTIALITY 		k a n f 2 d E n S i ae l 2 t i		2
+CONFINE 		k a n f E I n		2
+CONFIRM 		k 2 n f E R m		2
+CONFIRMATION 		k a n f E R m e I S 2 n		2
+CONFISCATION 		k a n f 2 s k e I S 2 n		2
+CONFLAGRATION 		k a n f l 2 g r e I S 2 n		2
+CONFLICT 		k a n f l I k t		1
+CONFLUENCE 		k a n f l u 2 n s		0
+CONFORMITY 		k 2 n f O r m 2 t i		2
+CONFRONTATION 		k a n f r 2 n t e I S 2 n		2
+CONFUSION 		k 2 n f j u Z 2 n		2
+CONGLOMERATE 		k 2 n g l a m E R 2 t		1
+CONGRATULATION 		k 2 n g r ae tS 2 l e I S 2 n		2
+CONGREGATION 		k a N g r 2 g e I S 2 n		2
+CONGRESS 		k a N g r 2 s		0
+CONJUNCTION 		k 2 n dZ 2 N k S 2 n		2
+CONNECTION 		k 2 n E k S 2 n		2
+CONNOISSEUR 		k a n 2 s E R		2
+CONQUEST 		k a N k w E s t		1
+CONSCIENCE 		k a n S 2 n s		0
+CONSCIOUSNESS 		k a n S 2 s n 2 s		0
+CONSENSUS 		k 2 n s E n s 2 s		0
+CONSENT 		k 2 n s E n t		1
+CONSEQUENCE 		k a n s 2 k w 2 n s		0
+CONSERVATION 		k a n s E R v e I S 2 n		2
+CONSERVATIONIST 		k a n s E R v e I S 2 n I s t		1
+CONSERVATIVE 		k 2 n s E R v 2 t I v		2
+CONSIDERATION 		k 2 n s I d E R e I S 2 n		2
+CONSISTENCY 		k 2 n s I s t 2 n s i		2
+CONSOLE 		k a n s o U l		2
+CONSOLIDATION 		k 2 n s a l 2 d e I S 2 n		2
+CONSORTIUM 		k 2 n s O r S i 2 m		2
+CONSPIRACY 		k 2 n s p I r 2 s i		2
+CONSPIRATOR 		k 2 n s p I r 2 t E R		2
+CONSTITUTION 		k a n s t 2 t u S 2 n		2
+CONSTRAINT 		k 2 n s t r e I n t		1
+CONSTRUCTION 		k 2 n s t r 2 k S 2 n		2
+CONSULATE 		k a n s 2 l 2 t		1
+CONSULTANT 		k 2 n s 2 l t 2 n t		1
+CONSULTING 		k 2 n s 2 l t I N		2
+CONSUMER 		k 2 n s u m E R		2
+CONSUMPTION 		k 2 n s 2 m p S 2 n		2
+CONTACT 		k a n t ae k t		1
+CONTAINER 		k 2 n t e I n E R		2
+CONTEMPORARY 		k 2 n t E m p E R E r i		2
+CONTENDER 		k 2 n t E n d E R		2
+CONTENT 		k a n t E n t		1
+CONTEST 		k a n t E s t		1
+CONTEXT 		k a n t E k s t		1
+CONTINENT 		k a n t 2 n 2 n t		1
+CONTINGENCY 		k 2 n t I n dZ 2 n s i		2
+CONTRACT 		k a n t r ae k t		1
+CONTRACTING 		k a n t r ae k t I N		2
+CONTRACTION 		k 2 n t r ae k S 2 n		2
+CONTRACTOR 		k a n t r ae k t E R		2
+CONTRAST 		k a n t r ae s t		1
+CONTRIBUTION 		k a n t r 2 b j u S 2 n		2
+CONTRIBUTOR 		k 2 n t r I b j 2 t E R		2
+CONTROL 		k 2 n t r o U l		2
+CONTROLLER 		k 2 n t r o U l E R		2
+CONTROVERSY 		k a n t r 2 v E R s i		2
+CONUNDRUM 		k 2 n 2 n d r 2 m		2
+CONVENIENCE 		k 2 n v i n j 2 n s		0
+CONVENTION 		k 2 n v E n S 2 n		2
+CONVERSATION 		k a n v E R s e I S 2 n		2
+CONVERTER 		k 2 n v E R t E R		2
+CONVEYOR 		k 2 n v e I E R		2
+CONVICT 		k a n v I k t		1
+CONVICTION 		k 2 n v I k S 2 n		2
+CONVOY 		k a n v U I		2
+COOKBOOK 		k U k b U k		1
+COOKIE 		k U k i		2
+COOKING 		k U k I N		2
+COOP 		k u p		1
+COOPERATION 		k o U a p E R e I S 2 n		2
+COORDINATION 		k o U O r d 2 n e I S 2 n		2
+COORDINATOR 		k o U O r d 2 n e I t E R		2
+COP 		k a p		1
+COPY 		k a p i		2
+COPYING 		k a p i I N		2
+COPYRIGHT 		k a p i r E I t		1
+CORD 		k O r d		2
+CORE 		k O r		2
+CORK 		k O r k		1
+CORKING 		k O r k I N		2
+CORN 		k O r n		2
+CORNER 		k O r n E R		2
+CORPORATION 		k O r p E R e I S 2 n		2
+CORRECTION 		k E R E k S 2 n		2
+CORRELATION 		k O r 2 l e I S 2 n		2
+CORRESPONDENCE 		k O r 2 s p a n d 2 n s		0
+CORRESPONDENT 		k O r 2 s p a n d 2 n t		1
+COSMOS 		k a z m o U s		0
+COST 		k a s t		1
+COSTUME 		k a s t u m		2
+COTTON 		k a t 2 n		2
+COTTONWOOD 		k a t 2 n w U d		2
+COUCH 		k E U tS		0
+COUNCIL 		k E U n s 2 l		2
+COUNSEL 		k E U n s 2 l		2
+COUNSELING 		k E U n s 2 l I N		2
+COUNSELOR 		k E U n s 2 l E R		2
+COUNT 		k E U n t		1
+COUNTER 		k E U n t E R		2
+COUNTERINTELLIGENCE 		k E U n t E R I n t E l I dZ 2 n s		0
+COUNTERWEIGHT 		k E U n t E R w e I t		1
+COUNTRY 		k 2 n t r i		2
+COUNTRYMAN 		k 2 n t r i m 2 n		2
+COUNTRYSIDE 		k 2 n t r i s E I d		2
+COUNTY 		k E U n t i		2
+COUP 		k u		2
+COUPLE 		k 2 p 2 l		2
+COUPON 		k u p O n		2
+COURAGE 		k E R I dZ		0
+COURSE 		k O r s		0
+COURT 		k O r t		1
+COURTESY 		k E R t 2 s i		2
+COUSIN 		k 2 z 2 n		2
+COVER 		k 2 v E R		2
+COVERAGE 		k 2 v E R 2 dZ		0
+COW 		k E U		2
+COWBOY 		k E U b U I		2
+COWORKER 		k o U w E R k E R		2
+CRAB 		k r ae b		2
+CRACK 		k r ae k		1
+CRACKDOWN 		k r ae k d E U n		2
+CRACKER 		k r ae k E R		2
+CRACKPOT 		k r ae k p a t		1
+CRAFT 		k r ae f t		1
+CRAP 		k r ae p		1
+CRASH 		k r ae S		0
+CRATE 		k r e I t		1
+CRAVING 		k r e I v I N		2
+CRAWFISH 		k r O f I S		0
+CREATION 		k r i e I S 2 n		2
+CREATIVITY 		k r i e I t I v 2 t i		2
+CREATURE 		k r i tS E R		2
+CREDENCE 		k r i d 2 n s		0
+CREDIBILITY 		k r E d 2 b I l I t i		2
+CREDIT 		k r E d 2 t		1
+CREDITOR 		k r E d 2 t E R		2
+CREPE 		k r e I p		1
+CREST 		k r E s t		1
+CRETIN 		k r i t 2 n		2
+CREW 		k r u		2
+CRICKET 		k r I k I t		1
+CRIME 		k r E I m		2
+CRIMINAL 		k r I m 2 n 2 l		2
+CRISIS 		k r E I s 2 s		0
+CRITERIA 		k r E I t I r i 2		2
+CRITERION 		k r E I t I r i 2 n		2
+CRITIC 		k r I t I k		1
+CRITICISM 		k r I t I s I z 2 m		2
+CRITTER 		k r I t E R		2
+CROISSANT 		k w a s a n t		1
+CROOK 		k r U k		1
+CROP 		k r a p		1
+CROSS 		k r O s		0
+CROSSING 		k r O s I N		2
+CROWD 		k r E U d		2
+CROWN 		k r E U n		2
+CRUCIBLE 		k r u s 2 b 2 l		2
+CRUDE 		k r u d		2
+CRUELTY 		k r u l t i		2
+CRUISE 		k r u z		0
+CRUSADER 		k r u s e I d E R		2
+CRUST 		k r 2 s t		1
+CRUSTACEAN 		k r 2 s t e I S 2 n		2
+CRY 		k r E I		2
+CUBE 		k j u b		2
+CUCKOO 		k 2 k u		2
+CUCUMBER 		k j u k 2 m b E R		2
+CUE 		k j u		2
+CUISINE 		k w I z i n		2
+CULPRIT 		k 2 l p r I t		1
+CULT 		k 2 l t		1
+CULTURE 		k 2 l tS E R		2
+CUP 		k 2 p		1
+CURATE 		k j U r 2 t		1
+CURB 		k E R b		2
+CURE 		k j U r		2
+CURFEW 		k E R f j u		2
+CURRENCY 		k E R 2 n s i		2
+CURRENT 		k E R 2 n t		1
+CURSE 		k E R s		0
+CURSOR 		k E R s E R		2
+CURTAIN 		k E R t 2 n		2
+CURVE 		k E R v		2
+CUSSING 		k 2 s I N		2
+CUSTODY 		k 2 s t 2 d i		2
+CUSTOM 		k 2 s t 2 m		2
+CUSTOMER 		k 2 s t 2 m E R		2
+CUT 		k 2 t		1
+CUTICLE 		k j u t 2 k 2 l		2
+CUTLERY 		k 2 t l E R i		2
+CUTTER 		k 2 t E R		2
+CUTTING 		k 2 t I N		2
+CYANIDE 		s E I 2 n E I d		2
+CYCLE 		s E I k 2 l		2
+CYCLING 		s E I k 2 l I N		2
+CYLINDER 		s I l 2 n d E R		2
+DAD 		d ae d		2
+DADDY 		d ae d i		2
+DAILY 		d e I l i		2
+DAISY 		d e I z i		2
+DALE 		d e I l		2
+DAMAGE 		d ae m 2 dZ		0
+DAMN 		d ae m		2
+DANCE 		d ae n s		0
+DANCER 		d ae n s E R		2
+DANCING 		d ae n s I N		2
+DANDELION 		d ae n d 2 l E I 2 n		2
+DANDY 		d ae n d i		2
+DANGER 		d e I n dZ E R		2
+DARK 		d a r k		1
+DARKNESS 		d a r k n 2 s		0
+DARKROOM 		d a r k r u m		2
+DARN 		d a r n		2
+DATA 		d e I t 2		2
+DATABASE 		d e I t 2 b e I s		0
+DATE 		d e I t		1
+DATING 		d e I t I N		2
+DAUGHTER 		d O t E R		2
+DAY 		d e I		2
+DAYTIME 		d e I t E I m		2
+DEACON 		d i k 2 n		2
+DEADLINE 		d E d l E I n		2
+DEAL 		d i l		2
+DEALER 		d i l E R		2
+DEALERSHIP 		d i l E R S I p		1
+DEAN 		d i n		2
+DEAR 		d I r		2
+DEATH 		d E T		1
+DEBATE 		d 2 b e I t		1
+DEBIT 		d E b I t		1
+DEBRIS 		d 2 b r i		2
+DEBT 		d E t		1
+DEBTOR 		d E t E R		2
+DECADE 		d E k e I d		2
+DECIDED 		d I s E I d I d		2
+DECISION 		d I s I Z 2 n		2
+DECK 		d E k		1
+DECKING 		d E k I N		2
+DECLARATION 		d E k l E R e I S 2 n		2
+DECLINE 		d I k l E I n		2
+DECOR 		d I k O r		2
+DECREASE 		d I k r i s		0
+DEDICATION 		d E d 2 k e I S 2 n		2
+DEED 		d i d		2
+DEFAMATION 		d E f 2 m e I S 2 n		2
+DEFAULT 		d I f O l t		1
+DEFEAT 		d I f i t		1
+DEFECT 		d i f E k t		1
+DEFENDANT 		d I f E n d 2 n t		1
+DEFENSE 		d I f E n s		0
+DEFICIENCY 		d I f I S 2 n s i		2
+DEFICIT 		d E f 2 s 2 t		1
+DEFINITION 		d E f 2 n I S 2 n		2
+DEGENERATE 		d I dZ E n E R 2 t		1
+DEGREE 		d I g r i		2
+DELAY 		d I l e I		2
+DELEGATE 		d E l 2 g e I t		1
+DELEGATION 		d E l 2 g e I S 2 n		2
+DELI 		d E l i		2
+DELICACY 		d E l 2 k 2 s i		2
+DELICIOUSNESS 		d I l I S 2 s n 2 s		0
+DELIGHT 		d I l E I t		1
+DELIVERY 		d I l I v E R i		2
+DELTA 		d E l t 2		2
+DEMAND 		d I m ae n d		2
+DEMISE 		d I m E I z		0
+DEMOCRACY 		d I m a k r 2 s i		2
+DEMOCRAT 		d E m 2 k r ae t		1
+DEMON 		d i m 2 n		2
+DEMONSTRATION 		d E m 2 n s t r e I S 2 n		2
+DEMOTION 		d I m o U S 2 n		2
+DENIAL 		d I n E I 2 l		2
+DENTIST 		d E n t 2 s t		1
+DENUNCIATION 		d I n 2 n s i e I S 2 n		2
+DEPARTMENT 		d I p a r t m 2 n t		1
+DEPARTURE 		d I p a r tS E R		2
+DEPENDENCY 		d I p E n d 2 n s i		2
+DEPICTION 		d I p I k S 2 n		2
+DEPLOYMENT 		d I p l U I m 2 n t		1
+DEPOSIT 		d 2 p a z I t		1
+DEPOSITION 		d E p 2 z I S 2 n		2
+DEPOT 		d i p o U		2
+DEPTH 		d E p T		1
+DEPUTY 		d E p j 2 t i		2
+DERAILING 		d I r e I l I N		2
+DEREGULATION 		d i r E g j 2 l e I S 2 n		2
+DERIVATIVE 		d E R I v 2 t I v		2
+DESCENDANT 		d I s E n d 2 n t		1
+DESCRIPTION 		d I s k r I p S 2 n		2
+DESIGN 		d I z E I n		2
+DESIGNER 		d I z E I n E R		2
+DESIRE 		d I z E I E R		2
+DESK 		d E s k		1
+DESPAIR 		d I s p E r		2
+DESPERATION 		d E s p E R e I S 2 n		2
+DESPOTISM 		d E s p 2 t I z 2 m		2
+DESSERT 		d I z E R t		1
+DESTINATION 		d E s t 2 n e I S 2 n		2
+DESTINY 		d E s t 2 n i		2
+DESTROYER 		d I s t r U I E R		2
+DESTRUCTION 		d I s t r 2 k S 2 n		2
+DETAIL 		d I t e I l		2
+DETECTION 		d I t E k S 2 n		2
+DETECTIVE 		d I t E k t I v		2
+DETECTOR 		d I t E k t E R		2
+DETENTION 		d I t E n S 2 n		2
+DETERIORATION 		d I t I r i E R e I S 2 n		2
+DETERMINATION 		d I t E R m 2 n e I S 2 n		2
+DETERMINER 		d i t E R m 2 n E R		2
+DETRACTOR 		d i t r ae k t E R		2
+DEVELOPER 		d I v E l 2 p E R		2
+DEVELOPMENT 		d I v E l 2 p m 2 n t		1
+DEVIATION 		d i v i e I S 2 n		2
+DEVICE 		d I v E I s		0
+DEVIL 		d E v 2 l		2
+DIAPER 		d E I p E R		2
+DIARRHEA 		d E I E R i 2		2
+DICTATOR 		d I k t e I t E R		2
+DICTATORSHIP 		d I k t e I t E R S I p		1
+DICTIONARY 		d I k S 2 n E r i		2
+DIET 		d E I 2 t		1
+DIFFERENCE 		d I f E R 2 n s		0
+DIFFERENT 		d I f E R 2 n t		1
+DIFFERENTIAL 		d I f E R E n S 2 l		2
+DIFFICULTY 		d I f 2 k 2 l t i		2
+DIGNITARY 		d I g n 2 t E r i		2
+DILEMMA 		d I l E m 2		2
+DILIGENCE 		d I l I dZ 2 n s		0
+DIME 		d E I m		2
+DINER 		d E I n E R		2
+DING 		d I N		2
+DINING 		d E I n I N		2
+DINNER 		d I n E R		2
+DIOXIDE 		d E I a k s E I d		2
+DIP 		d I p		1
+DIPLOMACY 		d I p l o U m 2 s i		2
+DIPLOMAT 		d I p l 2 m ae t		1
+DIRECTION 		d E R E k S 2 n		2
+DIRECTIVE 		d E R E k t I v		2
+DIRECTOR 		d E R E k t E R		2
+DIRT 		d E R t		1
+DISABILITY 		d I s 2 b I l I t i		2
+DISAPPEARANCE 		d I s 2 p I r 2 n s		0
+DISAPPOINTMENT 		d I s 2 p U I n t m 2 n t		1
+DISARMING 		d I s a r m I N		2
+DISASTER 		d I z ae s t E R		2
+DISC 		d I s k		1
+DISCHARGE 		d I s tS a r dZ		0
+DISCIPLINE 		d I s 2 p l 2 n		2
+DISCLAIMER 		d I s k l e I m E R		2
+DISCLOSURE 		d I s k l o U Z E R		2
+DISCO 		d I s k o U		2
+DISCOMFORT 		d I s k 2 m f E R t		1
+DISCONTENT 		d I s k 2 n t E n t		1
+DISCOUNT 		d I s k E U n t		1
+DISCOVERY 		d I s k 2 v E R i		2
+DISCREDITING 		d I s k r E d 2 t I N		2
+DISCREPANCY 		d I s k r E p 2 n s i		2
+DISCRETION 		d I s k r E S 2 n		2
+DISCRIMINATION 		d I s k r I m 2 n e I S 2 n		2
+DISCUSSION 		d I s k 2 S 2 n		2
+DISEASE 		d I z i z		0
+DISGRACE 		d I s g r e I s		0
+DISH 		d I S		0
+DISINFORMATION 		d I z I n f E R m e I S 2 n		2
+DISINTEGRATION 		d I s I n t 2 g r e I S 2 n		2
+DISK 		d I s k		1
+DISLIKE 		d I s l E I k		1
+DISMAY 		d I s m e I		2
+DISPATCH 		d I s p ae tS		0
+DISPERSAL 		d I s p E R s 2 l		2
+DISPLAY 		d I s p l e I		2
+DISPOSAL 		d I s p o U z 2 l		2
+DISPUTE 		d I s p j u t		1
+DISREGARD 		d I s r I g a r d		2
+DISREPAIR 		d I s r I p E r		2
+DISRUPTION 		d I s r 2 p S 2 n		2
+DISSATISFACTION 		d I s ae t I s f ae k S 2 n		2
+DISSEMINATION 		d I s E m 2 n e I S 2 n		2
+DISSIPATION 		d I s I p e I S 2 n		2
+DISTANCE 		d I s t 2 n s		0
+DISTINCTION 		d I s t I N k S 2 n		2
+DISTRESS 		d I s t r E s		0
+DISTRIBUTION 		d I s t r 2 b j u S 2 n		2
+DISTRICT 		d I s t r I k t		1
+DIVERSIFICATION 		d E I v E R s 2 f 2 k e I S 2 n		2
+DIVERSION 		d E I v E R Z 2 n		2
+DIVERSITY 		d I v E R s I t i		2
+DIVIDEND 		d I v I d E n d		2
+DIVING 		d E I v I N		2
+DIVINITY 		d I v I n 2 t i		2
+DIVISION 		d I v I Z 2 n		2
+DIVORCE 		d I v O r s		0
+DOC 		d a k		1
+DOCK 		d a k		1
+DOCKING 		d a k I N		2
+DOCTOR 		d a k t E R		2
+DOCUMENT 		d a k j 2 m E n t		1
+DOCUMENTATION 		d a k j 2 m E n t e I S 2 n		2
+DOER 		d u r		2
+DOG 		d O g		2
+DOGWOOD 		d O g w U d		2
+DOLLAR 		d a l E R		2
+DOMAIN 		d o U m e I n		2
+DOMESTIC 		d 2 m E s t I k		1
+DOMINANCE 		d a m 2 n 2 n s		0
+DONATION 		d o U n e I S 2 n		2
+DONOR 		d o U n E R		2
+DOOR 		d O r		2
+DOORSTEP 		d O r s t E p		1
+DOPE 		d o U p		1
+DOT 		d a t		1
+DOUBLE 		d 2 b 2 l		2
+DOUBT 		d E U t		1
+DOUGH 		d o U		2
+DOVE 		d 2 v		2
+DOWN 		d E U n		2
+DOWNFALL 		d E U n f O l		2
+DOWNLOAD 		d E U n l o U d		2
+DOWNLOADING 		d E U n l o U d I N		2
+DOWNSIZING 		d E U n s E I z I N		2
+DOWNTOWN 		d E U n t E U n		2
+DOZEN 		d 2 z 2 n		2
+DRAFT 		d r ae f t		1
+DRAG 		d r ae g		2
+DRAGON 		d r ae g 2 n		2
+DRAMA 		d r a m 2		2
+DRAW 		d r O		2
+DRAWER 		d r O r		2
+DRAWING 		d r O I N		2
+DREAM 		d r i m		2
+DRESS 		d r E s		0
+DRESSAGE 		d r E s a Z		0
+DRESSER 		d r E s E R		2
+DRIFTWOOD 		d r I f t w U d		2
+DRILL 		d r I l		2
+DRILLING 		d r I l I N		2
+DRINK 		d r I N k		1
+DRINKING 		d r I N k I N		2
+DRIP 		d r I p		1
+DRIVE 		d r E I v		2
+DRIVER 		d r E I v E R		2
+DRIVEWAY 		d r E I v w e I		2
+DRIVING 		d r E I v I N		2
+DROP 		d r a p		1
+DRUG 		d r 2 g		2
+DRY 		d r E I		2
+DRYER 		d r E I E R		2
+DRYING 		d r E I I N		2
+DUALITY 		d u ae l 2 t i		2
+DUCK 		d 2 k		1
+DUCT 		d 2 k t		1
+DUDE 		d u d		2
+DUPLICITY 		d u p l I s I t i		2
+DURABILITY 		d E R 2 b I l I t i		2
+DURATION 		d U r e I S 2 n		2
+DURESS 		d U r E s		0
+DUST 		d 2 s t		1
+DUSTER 		d 2 s t E R		2
+DUSTING 		d 2 s t I N		2
+DUTY 		d u t i		2
+DWARF 		d w O r f		1
+DWELLER 		d w E l E R		2
+DYNAMIC 		d E I n ae m I k		1
+DYSENTERY 		d I s 2 n t E r i		2
+DYSPEPSIA 		d I s E p s i 2		2
+EAGLE 		i g 2 l		2
+EAR 		i r		2
+EARMUFF 		I r m 2 f		1
+EARNING 		E R n I N		2
+EARRING 		I r I N		2
+EARTH 		E R T		1
+EARTHQUAKE 		E R T k w e I k		1
+EARTHWORM 		E R T w E R m		2
+EASE 		i z		0
+EAST 		i s t		1
+EAT 		i t		1
+EATABLE 		i t 2 b 2 l		2
+EATER 		i t E R		2
+EATING 		i t I N		2
+ECLIPSE 		I k l I p s		0
+ECOLOGIST 		I k a l 2 dZ I s t		1
+ECOLOGY 		I k a l 2 dZ i		2
+ECONOMICS 		E k 2 n a m I k s		0
+ECONOMIST 		I k a n 2 m I s t		1
+ECONOMY 		I k a n 2 m i		2
+ECOSYSTEM 		i k o U s I s t 2 m		2
+EDGE 		E dZ		0
+EDIT 		E d 2 t		1
+EDITING 		E d 2 t I N		2
+EDITOR 		E d 2 t E R		2
+EDITORIAL 		E d 2 t O r i 2 l		2
+EDUCATION 		E dZ 2 k e I S 2 n		2
+EDUCATOR 		E dZ 2 k e I t E R		2
+EFFECT 		I f E k t		1
+EFFECTIVENESS 		I f E k t I v n 2 s		0
+EFFICIENCY 		I f I S 2 n s i		2
+EFFORT 		E f E R t		1
+EGG 		E g		2
+EGO 		i g o U		2
+EIGHTY 		e I t i		2
+ELDER 		E l d E R		2
+ELECTION 		I l E k S 2 n		2
+ELECTRIC 		I l E k t r I k		1
+ELECTRICITY 		I l E k t r I s 2 t i		2
+ELECTROLYTE 		2 l E k t r 2 l E I t		1
+ELECTRONICS 		I l E k t r a n I k s		0
+ELEMENT 		E l 2 m 2 n t		1
+ELEPHANT 		E l 2 f 2 n t		1
+ELEVATOR 		E l 2 v e I t E R		2
+ELIGIBILITY 		E l I dZ 2 b I l I t i		2
+ELK 		E l k		1
+EMAIL 		i m e I l		2
+EMBARRASSMENT 		I m b E r 2 s m 2 n t		1
+EMBASSY 		E m b 2 s i		2
+EMBRACE 		E m b r e I s		0
+EMBRYO 		E m b r i o U		2
+EMERGENCY 		I m E R dZ 2 n s i		2
+EMIRATE 		E m E R 2 t		1
+EMISSION 		I m I S 2 n		2
+EMOTION 		I m o U S 2 n		2
+EMPATHY 		E m p 2 T i		2
+EMPEROR 		E m p E R E R		2
+EMPLOYEE 		E m p l U I i		2
+EMPLOYER 		E m p l U I E R		2
+EMPLOYMENT 		E m p l U I m 2 n t		1
+EMPOWERMENT 		I m p E U E R m 2 n t		1
+EMPTINESS 		E m p t i n 2 s		0
+ENCHILADA 		E n tS I l a d 2		2
+ENCLOSURE 		E n k l o U Z E R		2
+ENCOUNTER 		I n k E U n t E R		2
+ENCOURAGEMENT 		E n k E R I dZ m 2 n t		1
+END 		E n d		2
+ENDANGERED 		E n d e I n dZ E R d		2
+ENDEAVOR 		I n d E v E R		2
+ENDORSEMENT 		E n d O r s m 2 n t		1
+ENEMY 		E n 2 m i		2
+ENERGY 		E n E R dZ i		2
+ENFORCEMENT 		E n f O r s m 2 n t		1
+ENGAGEMENT 		E n g e I dZ m 2 n t		1
+ENGINE 		E n dZ 2 n		2
+ENGINEER 		E n dZ 2 n I r		2
+ENGINEERING 		E n dZ 2 n I r I N		2
+ENJOYMENT 		E n dZ U I m 2 n t		1
+ENLIGHTENMENT 		E n l E I t 2 n m 2 n t		1
+ENQUIRY 		I n k w E I r i		2
+ENSEMBLE 		a n s a m b 2 l		2
+ENTERED 		E n t E R d		2
+ENTERING 		E n t E R I N		2
+ENTERPRISE 		E n t E R p r E I z		0
+ENTERTAINMENT 		E n t E R t e I n m 2 n t		1
+ENTHUSIASM 		I n T u z i ae z 2 m		2
+ENTIRE 		I n t E I E R		2
+ENTITY 		E n t 2 t i		2
+ENTOURAGE 		a n t U r a Z		0
+ENTRANCE 		E n t r 2 n s		0
+ENTREATY 		E n t r i t i		2
+ENTRéE 		I n t 2 r		2
+ENTRY 		E n t r i		2
+ENVELOPE 		E n v 2 l o U p		1
+ENVIRONMENT 		I n v E I r 2 n m 2 n t		1
+ENVIRONMENTALIST 		I n v E I r 2 n m E n t 2 l I s t		1
+ENVOY 		E n v U I		2
+ENVY 		E n v i		2
+EPISODE 		E p I s o U d		2
+EPITHET 		E p 2 T E t		1
+EPITOME 		I p I t 2 m i		2
+EQUALITY 		I k w a l 2 t i		2
+EQUATION 		I k w e I Z 2 n		2
+EQUIPMENT 		I k w I p m 2 n t		1
+EQUITY 		E k w 2 t i		2
+ERA 		E r 2		2
+EROSION 		I r o U Z 2 n		2
+ERROR 		E r E R		2
+ESCALATION 		E s k 2 l e I S 2 n		2
+ESCALATOR 		E s k 2 l e I t E R		2
+ESCAPE 		I s k e I p		1
+ESSENCE 		E s 2 n s		0
+ESTABLISHMENT 		I s t ae b l I S m 2 n t		1
+ESTIMATE 		E s t 2 m 2 t		1
+ETA 		e I t 2		2
+ETHIC 		E T I k		1
+ETHNICITY 		E T n I s I t i		2
+ETIQUETTE 		E t 2 k 2 t		1
+EVACUEE 		I v ae k j u i		2
+EVALUATION 		I v ae l j u e I S 2 n		2
+EVENING 		i v n I N		2
+EVENT 		I v E n t		1
+EVERYDAY 		E v r i d e I		2
+EVIDENCE 		E v 2 d 2 n s		0
+EVIL 		i v 2 l		2
+EVOLUTION 		E v 2 l u S 2 n		2
+EXAM 		I g z ae m		2
+EXAMINATION 		I g z ae m 2 n e I S 2 n		2
+EXAMPLE 		I g z ae m p 2 l		2
+EXCELLENCE 		E k s 2 l 2 n s		0
+EXCEPTION 		I k s E p S 2 n		2
+EXCERPT 		E k s E R p t		1
+EXCHANGE 		I k s tS e I n dZ		0
+EXCLUSION 		I k s k l u Z 2 n		2
+EXCUSE 		I k s k j u s		0
+EXECUTION 		E k s 2 k j u S 2 n		2
+EXECUTIVE 		I g z E k j 2 t I v		2
+EXERCISE 		E k s E R s E I z		0
+EXHAUST 		I g z O s t		1
+EXHAUSTION 		I g z O s tS 2 n		2
+EXHIBIT 		I g z I b I t		1
+EXHIBITION 		E k s 2 b I S 2 n		2
+EXISTENCE 		E g z I s t 2 n s		0
+EXIT 		E g z I t		1
+EXPANSION 		I k s p ae n S 2 n		2
+EXPECTANCY 		I k s p E k t 2 n s i		2
+EXPECTATION 		E k s p E k t e I S 2 n		2
+EXPENSE 		I k s p E n s		0
+EXPERIENCE 		I k s p I r i 2 n s		0
+EXPERT 		E k s p E R t		1
+EXPERTISE 		E k s p E R t i z		0
+EXPIRATION 		E k s p E R e I S 2 n		2
+EXPLANATION 		E k s p l 2 n e I S 2 n		2
+EXPLORATION 		E k s p l E R e I S 2 n		2
+EXPLORER 		I k s p l O r E R		2
+EXPLORING 		I k s p l O r I N		2
+EXPLOSIVE 		I k s p l o U s I v		2
+EXPORTER 		I k s p O r t E R		2
+EXPOSITION 		E k s p 2 z I S 2 n		2
+EXPOSURE 		I k s p o U Z E R		2
+EXPRESSION 		I k s p r E S 2 n		2
+EXPRESSIONIST 		I k s p r E S 2 n 2 s t		1
+EXPULSION 		I k s p 2 l S 2 n		2
+EXTENSION 		I k s t E n S 2 n		2
+EXTENT 		I k s t E n t		1
+EXTERMINATION 		I k s t E R m 2 n e I S 2 n		2
+EXTERMINATOR 		I k s t E R m 2 n e I t E R		2
+EXTINCTION 		I k s t I N k S 2 n		2
+EXTRA 		E k s t r 2		2
+EXTRACT 		E k s t r ae k t		1
+EXTRACTION 		E k s t r ae k S 2 n		2
+EXTRADITION 		E k s t r 2 d I S 2 n		2
+EXTREMIST 		I k s t r i m I s t		1
+EYE 		E I		2
+EYELID 		E I l I d		2
+EYEWITNESS 		E I w I t n 2 s		0
+FABRIC 		f ae b r I k		1
+FABRICATION 		f ae b r I k e I S 2 n		2
+FACE 		f e I s		0
+FACILITY 		f 2 s I l I t i		2
+FACT 		f ae k t		1
+FACTION 		f ae k S 2 n		2
+FACTOR 		f ae k t E R		2
+FACTORY 		f ae k t E R i		2
+FAILURE 		f e I l j E R		2
+FAITH 		f e I T		1
+FAKE 		f e I k		1
+FALL 		f O l		2
+FALLIBILITY 		f ae l I b I l I t i		2
+FALLING 		f a l I N		2
+FALLOUT 		f O l E U t		1
+FALSEHOOD 		f ae l s h U d		2
+FAME 		f e I m		2
+FAMILIARITY 		f 2 m I l j E r 2 t i		2
+FAMILY 		f ae m 2 l i		2
+FAN 		f ae n		2
+FANATICISM 		f 2 n ae t 2 s I z 2 m		2
+FANCY 		f ae n s i		2
+FANTASY 		f ae n t 2 s i		2
+FARCE 		f a r s		0
+FARE 		f E r		2
+FARM 		f a r m		2
+FARMER 		f a r m E R		2
+FARMLAND 		f a r m l ae n d		2
+FASHION 		f ae S 2 n		2
+FAT 		f ae t		1
+FATHER 		f a D E R		2
+FAULT 		f O l t		1
+FAVOR 		f e I v E R		2
+FAVORITE 		f e I v E R I t		1
+FAX 		f ae k s		0
+FEAR 		f I r		2
+FEAST 		f i s t		1
+FEATHER 		f E D E R		2
+FEATURE 		f i tS E R		2
+FEDERATION 		f E d E R e I S 2 n		2
+FEE 		f i		2
+FEED 		f i d		2
+FEEDBACK 		f i d b ae k		1
+FEEDER 		f i d E R		2
+FEEDING 		f i d I N		2
+FEEL 		f i l		2
+FEELING 		f i l I N		2
+FEET 		f i t		1
+FELLOW 		f E l o U		2
+FEMALE 		f i m e I l		2
+FEMINISM 		f E m I n I z 2 m		2
+FENCE 		f E n s		0
+FERVOR 		f E R v E R		2
+FESTIVAL 		f E s t 2 v 2 l		2
+FESTIVITY 		f E s t I v 2 t i		2
+FETISHISM 		f E t I S I z 2 m		2
+FEVER 		f i v E R		2
+FEW 		f j u		2
+FICTION 		f I k S 2 n		2
+FIELD 		f i l d		2
+FIFTEENTH 		f I f t i n T		1
+FIGHT 		f E I t		1
+FIGHTER 		f E I t E R		2
+FIGHTING 		f E I t I N		2
+FIGURE 		f I g j E R		2
+FILE 		f E I l		2
+FILIGREE 		f I l 2 g r i		2
+FILING 		f E I l I N		2
+FILLER 		f I l E R		2
+FILM 		f I l m		2
+FILMING 		f I l m I N		2
+FILMMAKER 		f I l m e I k E R		2
+FILTER 		f I l t E R		2
+FIN 		f I n		2
+FINANCE 		f 2 n ae n s		0
+FINANCING 		f 2 n ae n s I N		2
+FINCH 		f I n tS		0
+FIND 		f E I n d		2
+FINDING 		f E I n d I N		2
+FINGER 		f I N g E R		2
+FINISH 		f I n I S		0
+FIRE 		f E I E R		2
+FIREPOWER 		f E I r p E U E R		2
+FIREWALL 		f E I r w a l		2
+FIRM 		f E R m		2
+FIRST 		f E R s t		1
+FISH 		f I S		0
+FISHERY 		f I S E R i		2
+FISHING 		f I S I N		2
+FIST 		f I s t		1
+FIT 		f I t		1
+FITNESS 		f I t n 2 s		0
+FITTER 		f I t E R		2
+FIVE 		f E I v		2
+FIX 		f I k s		0
+FIXATION 		f I k s e I S 2 n		2
+FIXING 		f I k s I N		2
+FIXTURE 		f I k s tS E R		2
+FLAG 		f l ae g		2
+FLAKE 		f l e I k		1
+FLANK 		f l ae N k		1
+FLASHLIGHT 		f l ae S l E I t		1
+FLAT 		f l ae t		1
+FLATFISH 		f l ae t f I S		0
+FLAVOR 		f l e I v E R		2
+FLAW 		f l O		2
+FLEA 		f l i		2
+FLEECE 		f l i s		0
+FLEEING 		f l i I N		2
+FLEET 		f l i t		1
+FLESH 		f l E S		0
+FLEXIBILITY 		f l E k s 2 b I l 2 t i		2
+FLICKER 		f l I k E R		2
+FLIER 		f l E I E R		2
+FLIGHT 		f l E I t		1
+FLIPPING 		f l I p I N		2
+FLOATING 		f l o U t I N		2
+FLOCK 		f l a k		1
+FLOOD 		f l 2 d		2
+FLOODING 		f l 2 d I N		2
+FLOOR 		f l O r		2
+FLOORING 		f l O r I N		2
+FLOPPING 		f l a p I N		2
+FLORIST 		f l a r I s t		1
+FLOW 		f l o U		2
+FLOWER 		f l E U E R		2
+FLUID 		f l u 2 d		2
+FLY 		f l E I		2
+FLYER 		f l E I E R		2
+FOCUS 		f o U k 2 s		0
+FOE 		f o U		2
+FOLD 		f o U l d		2
+FOLK 		f o U k		1
+FOLLOW 		f a l o U		2
+FOLLOWER 		f a l o U E R		2
+FOLLOWING 		f a l o U I N		2
+FOLLY 		f a l i		2
+FOOD 		f u d		2
+FOOL 		f u l		2
+FOOTBALL 		f U t b O l		2
+FOOTWEAR 		f U t w E r		2
+FORCE 		f O r s		0
+FOREARM 		f O r a r m		2
+FORECAST 		f O r k ae s t		1
+FOREGROUND 		f O r g r E U n d		2
+FOREIGNER 		f O r 2 n E R		2
+FOREST 		f O r 2 s t		1
+FORESTRY 		f O r 2 s t r i		2
+FORGER 		f O r dZ E R		2
+FORGIVENESS 		f E R g I v n 2 s		0
+FORM 		f O r m		2
+FORMALITY 		f O r m ae l 2 t i		2
+FORMAT 		f O r m ae t		1
+FORMULA 		f O r m j 2 l 2		2
+FORUM 		f O r 2 m		2
+FORWARDING 		f O r w E R d I N		2
+FOSSIL 		f a s 2 l		2
+FOSTER 		f a s t E R		2
+FOUNDATION 		f E U n d e I S 2 n		2
+FOUNDER 		f E U n d E R		2
+FOUNTAIN 		f E U n t 2 n		2
+FOURTH 		f O r T		1
+FOX 		f a k s		0
+FRACTION 		f r ae k S 2 n		2
+FRAGRANCE 		f r e I g r 2 n s		0
+FRAME 		f r e I m		2
+FRANCHISE 		f r ae n tS E I z		0
+FRAUD 		f r O d		2
+FRAY 		f r e I		2
+FREEDOM 		f r i d 2 m		2
+FREEZE 		f r i z		0
+FREEZING 		f r i z I N		2
+FREIGHT 		f r e I t		1
+FREIGHTER 		f r e I t E R		2
+FREQUENCY 		f r i k w 2 n s i		2
+FRESCO 		f r E s k o U		2
+FRIDGE 		f r I dZ		0
+FRIEND 		f r E n d		2
+FRIENDLINESS 		f r E n d l i n I s		0
+FRIENDSHIP 		f r E n d S I p		1
+FRY 		f r E I		2
+FRITTER 		f r I t E R		2
+FRONT 		f r 2 n t		1
+FROST 		f r O s t		1
+FROSTING 		f r O s t I N		2
+FRUIT 		f r u t		1
+FRUSTRATION 		f r 2 s t r e I S 2 n		2
+FRY 		f r E I		2
+FUEL 		f j u 2 l		2
+FUGITIVE 		f j u dZ 2 t I v		2
+FUME 		f j u m		2
+FUN 		f 2 n		2
+FUNCTION 		f 2 N k S 2 n		2
+FUNCTIONALITY 		f 2 N k S 2 n ae l I t i		2
+FUND 		f 2 n d		2
+FUNDAMENTALIST 		f 2 n d 2 m E n t 2 l I s t		1
+FUNDING 		f 2 n d I N		2
+FUNERAL 		f j u n E R 2 l		2
+FUNGUS 		f 2 N g 2 s		0
+FUR 		f E R		2
+FURNACE 		f E R n 2 s		0
+FURNISHING 		f E R n I S I N		2
+FURNITURE 		f E R n I tS E R		2
+FUSE 		f j u z		0
+FUSION 		f j u Z 2 n		2
+FUSS 		f 2 s		0
+FUTURE 		f j u tS E R		2
+GAIN 		g e I n		2
+GALL 		g O l		2
+GALLERY 		g ae l E R i		2
+GALLON 		g ae l 2 n		2
+GAMBIT 		g ae m b I t		1
+GAMBLING 		g ae m b 2 l I N		2
+GAME 		g e I m		2
+GAMING 		g e I m I N		2
+GAMUT 		g ae m 2 t		1
+GANG 		g ae N		2
+GANGLAND 		g ae N l ae n d		2
+GAP 		g ae p		1
+GARAGE 		g E R a Z		0
+GARBAGE 		g a r b I dZ		0
+GARDEN 		g a r d 2 n		2
+GARDENING 		g a r d 2 n I N		2
+GARLIC 		g a r l I k		1
+GARMENT 		g a r m 2 n t		1
+GARNISH 		g a r n I S		0
+GARRISON 		g ae r I s 2 n		2
+GAS 		g ae s		0
+GASH 		g ae S		0
+GASP 		g ae s p		1
+GATE 		g e I t		1
+GATHERING 		g ae D E R I N		2
+GAY 		g e I		2
+GEAR 		g I r		2
+GEARBOX 		g I r b a k s		0
+GEE 		dZ i		2
+GEL 		dZ E l		2
+GEM 		dZ E m		2
+GENDER 		dZ E n d E R		2
+GENE 		dZ i n		2
+GENEALOGY 		dZ i n i a l 2 dZ i		2
+GENERAL 		dZ E n E R 2 l		2
+GENERALIZATION 		dZ E n E R 2 l I z e I S 2 n		2
+GENERATING 		dZ E n E R e I t I N		2
+GENERATION 		dZ E n E R e I S 2 n		2
+GENERATOR 		dZ E n E R e I t E R		2
+GENITAL 		dZ E n 2 t 2 l		2
+GENIUS 		dZ i n j 2 s		0
+GENOCIDE 		dZ E n 2 s E I d		2
+GENTLEMAN 		dZ E n t 2 l m 2 n		2
+GERBIL 		dZ 2 r b 2 l		2
+GESTURE 		dZ E s tS E R		2
+GIANT 		dZ E I 2 n t		1
+GIFT 		g I f t		1
+GINGER 		dZ I n dZ E R		2
+GIRAFFE 		dZ E R ae f		1
+GIRL 		g E R l		2
+GIRLFRIEND 		g E R l f r E n d		2
+GIVE 		g I v		2
+GIVEN 		g I v 2 n		2
+GLAND 		g l ae n d		2
+GLASS 		g l ae s		0
+GLITCH 		g l I tS		0
+GLOB 		g l a b		2
+GLOBE 		g l o U b		2
+GLOVE 		g l 2 v		2
+GLOW 		g l o U		2
+GLUE 		g l u		2
+GLUT 		g l 2 t		1
+GOAL 		g o U l		2
+GOAT 		g o U t		1
+GOD 		g a d		2
+GODDESS 		g a d 2 s		0
+GODSEND 		g a d s E n d		2
+GOLD 		g o U l d		2
+GOLDEN 		g o U l d 2 n		2
+GOLF 		g a l f		1
+GOLFER 		g a l f E R		2
+GOOD 		g U d		2
+GOODNESS 		g U d n 2 s		0
+GORSE 		g O r s		0
+GOUGING 		g E U dZ I N		2
+GOUT 		g E U t		1
+GOVERNMENT 		g 2 v E R n m 2 n t		1
+GOVERNOR 		g 2 v E R n E R		2
+GOWN 		g E U n		2
+GRAD 		g r ae d		2
+GRADE 		g r e I d		2
+GRADUATE 		g r ae dZ 2 w 2 t		1
+GRADUATION 		g r ae dZ u e I S 2 n		2
+GRAIL 		g r e I l		2
+GRAIN 		g r e I n		2
+GRAM 		g r ae m		2
+GRANDCHILD 		g r ae n d tS E I l d		2
+GRANDDAUGHTER 		g r ae n d O t E R		2
+GRANDEUR 		g r ae n d u r		2
+GRANDFATHER 		g r ae n d f a D E R		2
+GRANDMA 		g r ae n d m a		2
+GRANDMOTHER 		g r ae n d m 2 D E R		2
+GRANDPARENT 		g r ae n d p E r 2 n t		1
+GRANDSON 		g r ae n d s 2 n		2
+GRANT 		g r ae n t		1
+GRANTING 		g r ae n t I N		2
+GRAPHIC 		g r ae f I k		1
+GRASS 		g r ae s		0
+GRAVE 		g r e I v		2
+GRAVEL 		g r ae v 2 l		2
+GRAVITY 		g r ae v 2 t i		2
+GRAVY 		g r e I v i		2
+GRAY 		g r e I		2
+GREASE 		g r i s		0
+GREATNESS 		g r e I t n 2 s		0
+GREED 		g r i d		2
+GREEN 		g r i n		2
+GREENHOUSE 		g r i n h E U s		0
+GREETING 		g r i t I N		2
+GRENADE 		g r 2 n e I d		2
+GREY 		g r e I		2
+GRID 		g r I d		2
+GRILL 		g r I l		2
+GRINDER 		g r E I n d E R		2
+GRINDSTONE 		g r E I n d s t o U n		2
+GRIP 		g r I p		1
+GRIST 		g r I s t		1
+GROCERY 		g r o U s E R i		2
+GROSS 		g r o U s		0
+GROUND 		g r E U n d		2
+GROUP 		g r u p		1
+GROWTH 		g r o U T		1
+GUACAMOLE 		g w a k 2 m o U l i		2
+GUARANTEE 		g E r 2 n t i		2
+GUARANTY 		g E r 2 n t i		2
+GUARD 		g a r d		2
+GUARDIAN 		g a r d i 2 n		2
+GUARDSMAN 		g a r d z m ae n		2
+GUERILLA 		g E R I l 2		2
+GUERRILLA 		g E R I l 2		2
+GUESS 		g E s		0
+GUEST 		g E s t		1
+GUIDANCE 		g E I d 2 n s		0
+GUIDE 		g E I d		2
+GUIDELINE 		g E I d l E I n		2
+GUILD 		g I l d		2
+GUILT 		g I l t		1
+GUILTY 		g I l t i		2
+GUINEA 		g I n i		2
+GUITAR 		g I t a r		2
+GUITARIST 		g I t a r I s t		1
+GULF 		g 2 l f		1
+GUN 		g 2 n		2
+GUNMAN 		g 2 n m 2 n		2
+GUNPOWDER 		g 2 n p E U d E R		2
+GUT 		g 2 t		1
+GUY 		g E I		2
+GYM 		dZ I m		2
+GYMNASIUM 		dZ I m n e I z i 2 m		2
+HABIT 		h ae b 2 t		1
+HABITAT 		h ae b 2 t ae t		1
+HABITATION 		h ae b 2 t e I S 2 n		2
+HACKLES 		h ae k 2 l z		0
+HADDOCK 		h ae d 2 k		1
+HAEMORRHAGE 		h i m O r 2 dZ		0
+HAILSTORM 		h e I l s t O r m		2
+HAIR 		h E r		2
+HAIRCUT 		h E r k 2 t		1
+HAIRDRESSER 		h E r d r E s E R		2
+HAIRSTYLIST 		h E r s t E I l I s t		1
+HALF 		h ae f		1
+HALIBUT 		h ae l 2 b 2 t		1
+HALL 		h O l		2
+HALLWAY 		h O l w e I		2
+HALT 		h O l t		1
+HAM 		h ae m		2
+HAMMER 		h ae m E R		2
+HAMMOCK 		h ae m 2 k		1
+HAMSTER 		h ae m s t E R		2
+HAND 		h ae n d		2
+HANDBAG 		h ae n d b ae g		2
+HANDCRAFT 		h ae n d k r ae f t		1
+HANDFUL 		h ae n d f U l		2
+HANDICAP 		h ae n d i k ae p		1
+HANDLE 		h ae n d 2 l		2
+HANDLING 		h ae n d l I N		2
+HANGAR 		h ae N E R		2
+HANGING 		h ae N I N		2
+HANGOUT 		h ae N E U t		1
+HAPPINESS 		h ae p i n 2 s		0
+HARDLINER 		h a r d l E I n E R		2
+HARDNESS 		h a r d n 2 s		0
+HARDSHIP 		h a r d S I p		1
+HARDWARE 		h a r d w E r		2
+HARM 		h a r m		2
+HARMONY 		h a r m 2 n i		2
+HARNESS 		h a r n 2 s		0
+HASH 		h ae S		0
+HASSLE 		h ae s 2 l		2
+HASTE 		h e I s t		1
+HAT 		h ae t		1
+HATE 		h e I t		1
+HATRED 		h e I t r 2 d		2
+HAULING 		h O l I N		2
+HAVEN 		h e I v 2 n		2
+HAVOC 		h ae v 2 k		1
+HAY 		h e I		2
+HAZARD 		h ae z E R d		2
+HEAD 		h E d		2
+HEADBOARD 		h E d b O r d		2
+HEADER 		h E d E R		2
+HEADING 		h E d I N		2
+HEADLINE 		h E d l E I n		2
+HEALING 		h i l I N		2
+HEALTH 		h E l T		1
+HEARING 		h i r I N		2
+HEART 		h a r t		1
+HEAT 		h i t		1
+HEATER 		h i t E R		2
+HEATHER 		h E D E R		2
+HEATING 		h i t I N		2
+HEAVEN 		h E v 2 n		2
+HEAVYWEIGHT 		h E v i w e I t		1
+HECK 		h E k		1
+HEDGE 		h E dZ		0
+HEDGING 		h E dZ I N		2
+HEED 		h i d		2
+HEEL 		h i l		2
+HEIFER 		h E I f E R		2
+HEIGHT 		h E I t		1
+HELICOPTER 		h E l I k a p t E R		2
+HELL 		h E l		2
+HELP 		h E l p		1
+HELPER 		h E l p E R		2
+HEMISPHERE 		h E m I s f I r		2
+HEN 		h E n		2
+HERB 		E R b		2
+HERBALIST 		E R b 2 l I s t		1
+HERD 		h E R d		2
+HERDING 		h E R d I N		2
+HERITAGE 		h E r 2 t 2 dZ		0
+HERNIA 		h E R n i 2		2
+HERO 		h I r o U		2
+HERPES 		h E R p i z		0
+HERRING 		h E r I N		2
+HESITATION 		h E z 2 t e I S 2 n		2
+HEYDAY 		h e I d e I		2
+HIATUS 		h E I e I t 2 s		0
+HIBERNATION 		h E I b E R n e I S 2 n		2
+HIDE 		h E I d		2
+HIDEOUT 		h E I d E U t		1
+HIDING 		h E I d I N		2
+HIERARCHY 		h E I E R a r k i		2
+HIGH 		h E I		2
+HIGHLIGHT 		h E I l E I t		1
+HIGHWAY 		h E I w e I		2
+HIJACKER 		h E I dZ ae k E R		2
+HIKE 		h E I k		1
+HILL 		h I l		2
+HINDSIGHT 		h E I n d s E I t		1
+HINGE 		h I n dZ		0
+HINT 		h I n t		1
+HIPPIE 		h I p i		2
+HIPPY 		h I p i		2
+HISS 		h I s		0
+HISSING 		h I s I N		2
+HISTORIAN 		h I s t O r i 2 n		2
+HISTORY 		h I s t E R i		2
+HIT 		h I t		1
+HITCH 		h I tS		0
+HOAX 		h o U k s		0
+HOBBY 		h a b i		2
+HOCKEY 		h a k i		2
+HOLD 		h o U l d		2
+HOLDER 		h o U l d E R		2
+HOLDING 		h o U l d I N		2
+HOLE 		h o U l		2
+HOLIDAY 		h a l 2 d e I		2
+HOLIDAYING 		h a l 2 d e I I N		2
+HOLOCAUST 		h O l 2 k O s t		1
+HOME 		h o U m		2
+HOMELAND 		h o U m l ae n d		2
+HOMEPAGE 		h o U m p e I dZ		0
+HOMEWORK 		h o U m w E R k		1
+HOMOSEXUAL 		h o U m o U s E k S u 2 l		2
+HOMOSEXUALITY 		h o U m o U s E k S u ae l 2 t i		2
+HONESTY 		a n 2 s t i		2
+HONEY 		h 2 n i		2
+HONEYMOON 		h 2 n i m u n		2
+HONOR 		a n E R		2
+HOOD 		h U d		2
+HOOF 		h u f		1
+HOOKER 		h U k E R		2
+HOPE 		h o U p		1
+HOPELESSNESS 		h o U p l 2 s n 2 s		0
+HORIZON 		h E R E I z 2 n		2
+HORN 		h O r n		2
+HORNET 		h O r n I t		1
+HORROR 		h O r E R		2
+HORSE 		h O r s		0
+HOSE 		h o U z		0
+HOSPITAL 		h a s p I t 2 l		2
+HOSPITALITY 		h a s p 2 t ae l 2 t i		2
+HOST 		h o U s t		1
+HOSTAGE 		h a s t I dZ		0
+HOSTESS 		h o U s t 2 s		0
+HOSTILITY 		h a s t I l 2 t i		2
+HOSTING 		h o U s t I N		2
+HOTEL 		h o U t E l		2
+HOTHEAD 		h a t h E d		2
+HOUR 		E U E R		2
+HOUSE 		h E U s		0
+HOUSEHOLD 		h E U s h o U l d		2
+HOUSING 		h E U z I N		2
+HOW 		h E U		2
+HUB 		h 2 b		2
+HUG 		h 2 g		2
+HULL 		h 2 l		2
+HUMAN 		h j u m 2 n		2
+HUMANIST 		h j u m 2 n I s t		1
+HUMANITY 		h j u m ae n I t i		2
+HUMILIATION 		h j u m I l i e I S 2 n		2
+HUMOR 		h j u m E R		2
+HUNDRED 		h 2 n d r 2 d		2
+HUNGER 		h 2 N g E R		2
+HUNK 		h 2 N k		1
+HUNT 		h 2 n t		1
+HUNTER 		h 2 n t E R		2
+HURDLE 		h E R d 2 l		2
+HURRY 		h E R i		2
+HUSBAND 		h 2 z b 2 n d		2
+HUSTLE 		h 2 s 2 l		2
+HUTCH 		h 2 tS		0
+HYBRID 		h E I b r 2 d		2
+HYGIENE 		h E I dZ i n		2
+HYPE 		h E I p		1
+HYPOCRISY 		h I p a k r 2 s i		2
+HYSTERIA 		h I s t E r i 2		2
+ICE 		E I s		0
+ICEBERG 		E I s b E R g		2
+ICING 		E I s I N		2
+ICON 		E I k a n		2
+IDEA 		E I d i 2		2
+IDEAL 		E I d i l		2
+IDENTIFICATION 		E I d E n t 2 f 2 k e I S 2 n		2
+IDENTITY 		E I d E n t 2 t i		2
+IDEOLOGY 		E I d i a l 2 dZ i		2
+IDIOT 		I d i 2 t		1
+IGNORAMUS 		I g n E R e I m 2 s		0
+IGNORANCE 		I g n E R 2 n s		0
+ILK 		I l k		1
+ILLEGAL 		I l i g 2 l		2
+ILLNESS 		I l n 2 s		0
+ILLUSION 		I l u Z 2 n		2
+IMAGE 		I m 2 dZ		0
+IMAGINATION 		I m ae dZ 2 n e I S 2 n		2
+IMBALANCE 		I m b ae l 2 n s		0
+IMMIGRANT 		I m 2 g r 2 n t		1
+IMMIGRATION 		I m 2 g r e I S 2 n		2
+IMMUNITY 		I m j u n 2 t i		2
+IMPACT 		I m p ae k t		1
+IMPASSE 		I m p ae s		0
+IMPLEMENTATION 		I m p l 2 m E n t e I S 2 n		2
+IMPLICATION 		I m p l 2 k e I S 2 n		2
+IMPORTANCE 		I m p O r t 2 n s		0
+IMPOSTER 		I m p O s t E R		2
+IMPRESSION 		I m p r E S 2 n		2
+IMPRISONMENT 		I m p r I z 2 n m 2 n t		1
+IMPROVEMENT 		I m p r u v m 2 n t		1
+INABILITY 		I n 2 b I l I t i		2
+INCENTIVE 		I n s E n t I v		2
+INCEPTION 		I n s E p S 2 n		2
+INCH 		I n tS		0
+INCIDENT 		I n s 2 d 2 n t		1
+INCITEMENT 		I n s E I t m 2 n t		1
+INCLUSION 		I n k l u Z 2 n		2
+INCOME 		I n k 2 m		2
+INCOMPETENCE 		I n k a m p 2 t 2 n s		0
+INCONSISTENCY 		I n k 2 n s I s t 2 n s i		2
+INCREASE 		I n k r i s		0
+INCREDULITY 		I n k r 2 d u l I t i		2
+INCUBATION 		I N k j u b e I S 2 n		2
+INDEX 		I n d E k s		0
+INDICATION 		I n d 2 k e I S 2 n		2
+INDICATOR 		I n d 2 k e I t E R		2
+INDIGNITY 		I n d I g n 2 t i		2
+INDIVIDUAL 		I n d 2 v I dZ 2 w 2 l		2
+INDUSTRIALIST 		I n d 2 s t r i 2 l I s t		1
+INDUSTRY 		I n d 2 s t r i		2
+INEQUITY 		I n E k w 2 t i		2
+INFANT 		I n f 2 n t		1
+INFANTRY 		I n f 2 n t r i		2
+INFECTION 		I n f E k S 2 n		2
+INFERIORITY 		I n f I r i O r I t i		2
+INFERTILITY 		I n f E R t I l I t i		2
+INFIDEL 		I n f I d E l		2
+INFILTRATOR 		I n f I l t r e I t E R		2
+INFINITY 		I n f I n I t i		2
+INFLATION 		I n f l e I S 2 n		2
+INFLUENCE 		I n f l u 2 n s		0
+INFLUX 		I n f l 2 k s		0
+INFO 		I n f o U		2
+INFORMATION 		I n f O r m e I S 2 n		2
+INFRASTRUCTURE 		I n f r 2 s t r 2 k tS E R		2
+INGREDIENT 		I n g r i d i 2 n t		1
+INITIAL 		I n I S 2 l		2
+INITIATIVE 		I n I S 2 t I v		2
+INJECTION 		I n dZ E k S 2 n		2
+INJURY 		I n dZ E R i		2
+INJUSTICE 		I n dZ 2 s t I s		0
+INK 		I N k		1
+INN 		I n		2
+INNKEEPER 		I n k i p E R		2
+INNOCENT 		I n 2 s 2 n t		1
+INNOVATION 		I n 2 v e I S 2 n		2
+INPUT 		I n p U t		1
+INQUIRE 		I n k w E I r		2
+INQUIRY 		I n k w E I r i		2
+INSECT 		I n s E k t		1
+INSERT 		I n s E R t		1
+INSIDE 		I n s E I d		2
+INSIDER 		I n s E I d E R		2
+INSIGHT 		I n s E I t		1
+INSOMNIA 		I n s a m n i 2		2
+INSPECTION 		I n s p E k S 2 n		2
+INSPECTOR 		I n s p E k t E R		2
+INSTABILITY 		I n s t 2 b I l I t i		2
+INSTALLATION 		I n s t 2 l e I S 2 n		2
+INSTANCE 		I n s t 2 n s		0
+INSTANT 		I n s t 2 n t		1
+INSTINCT 		I n s t I N k t		1
+INSTITUTION 		I n s t I t u S 2 n		2
+INSTRUCTION 		I n s t r 2 k S 2 n		2
+INSTRUCTOR 		I n s t r 2 k t E R		2
+INSTRUMENTATION 		I n s t r 2 m E n t e I S 2 n		2
+INSULATION 		I n s 2 l e I S 2 n		2
+INSULT 		I n s 2 l t		1
+INSURANCE 		I n S U r 2 n s		0
+INSURER 		I n S U r E R		2
+INSURGENCY 		I n s E R dZ 2 n s i		2
+INSURGENT 		I n s E R dZ 2 n t		1
+INSURGENTS 		I n s E R dZ 2 n t s		0
+INTAKE 		I n t e I k		1
+INTEGRITY 		I n t E g r 2 t i		2
+INTELLECT 		I n t 2 l E k t		1
+INTELLECTUAL 		I n t 2 l E k tS u 2 l		2
+INTELLIGENCE 		I n t E l 2 dZ 2 n s		0
+INTENT 		I n t E n t		1
+INTENTION 		I n t E n tS 2 n		2
+INTERACTION 		I n t E R ae k S 2 n		2
+INTERCEPT 		I n t E R s E p t		1
+INTERCEPTION 		I n t E R s E p S 2 n		2
+INTERCEPTOR 		I n t E R s E p t E R		2
+INTERCONNECT 		I n t E R k 2 n E k t		1
+INTERCOURSE 		I n t E R k O r s		0
+INTEREST 		I n t 2 r E s t		1
+INTERESTING 		I n t 2 r E s t I N		2
+INTERFACE 		I n t E R f e I s		0
+INTERFERENCE 		I n t E R f I r 2 n s		0
+INTERMEDIARY 		I n E R m i d i E r i		2
+INTERN 		I n t E R n		2
+INTERNET 		I n t E R n E t		1
+INTERROGATION 		I n t E r 2 g e I S 2 n		2
+INTERROGATOR 		I n t E r 2 g e I t E R		2
+INTERVENTION 		I n t E R v E n S 2 n		2
+INTERVIEW 		I n t E R v j u		2
+INTERVIEWER 		I n t E R v j u E R		2
+INTESTINE 		I n t E s t 2 n		2
+INTIMACY 		I n t 2 m 2 s i		2
+INTO 		I n t u		2
+INTOLERANCE 		I n t a l E R 2 n s		0
+INTRIGUE 		I n t r i g		2
+INTRODUCTION 		I n t r 2 d 2 k S 2 n		2
+INTROSPECTION 		I n t r 2 s p E k S 2 n		2
+INTRUDER 		I n t r u d E R		2
+INTRUSION 		I n t r u Z 2 n		2
+INTUITION 		I n t u I S 2 n		2
+INVASION 		I n v e I Z 2 n		2
+INVENTION 		I n v E n S 2 n		2
+INVENTORY 		I n v 2 n t O r i		2
+INVERSION 		I n v E R Z 2 n		2
+INVESTIGATION 		I n v E s t 2 g e I S 2 n		2
+INVESTIGATOR 		I n v E s t 2 g e I t E R		2
+INVESTMENT 		I n v E s t m 2 n t		1
+INVESTOR 		I n v E s t E R		2
+INVITATION 		I n v I t e I S 2 n		2
+INVOICE 		I n v U I s		0
+INVOICING 		I n v U I s I N		2
+INVOLVEMENT 		I n v a l v m 2 n t		1
+IRON 		E I E R n		2
+IRONY 		E I r 2 n i		2
+IRREGULARITY 		I r E g j 2 l E r 2 t i		2
+IRRITATION 		I r I t e I S 2 n		2
+ISLAND 		E I l 2 n d		2
+ISSUE 		I S u		2
+ITEM 		E I t 2 m		2
+ITINERARY 		E I t I n E R E r i		2
+JACK 		dZ ae k		1
+JACKET 		dZ ae k 2 t		1
+JAIL 		dZ e I l		2
+JAR 		dZ a r		2
+JAW 		dZ O		2
+JAZZ 		dZ ae z		0
+JERK 		dZ E R k		1
+JESTER 		dZ E s t E R		2
+JET 		dZ E t		1
+JEWELRY 		dZ u 2 l r i		2
+JIHAD 		dZ i h a d		2
+JIMMY 		dZ I m i		2
+JOB 		dZ a b		2
+JOG 		dZ a g		2
+JOINT 		dZ U I n t		1
+JOKE 		dZ o U k		1
+JOURNAL 		dZ E R n 2 l		2
+JOURNALIST 		dZ E R n 2 l 2 s t		1
+JOURNEY 		dZ E R n i		2
+JOY 		dZ U I		2
+JOYSTICK 		dZ U I s t I k		1
+JUDGE 		dZ 2 dZ		0
+JUDGEMENT 		dZ 2 dZ m 2 n t		1
+JUDGMENT 		dZ 2 dZ m 2 n t		1
+JUG 		dZ 2 g		2
+JUGGLING 		dZ 2 g 2 l I N		2
+JUGULAR 		dZ u g j 2 l E R		2
+JUICE 		dZ u s		0
+JUMBO 		dZ 2 m b o U		2
+JUMP 		dZ 2 m p		1
+JUNK 		dZ 2 N k		1
+JUNKIE 		dZ 2 N k i		2
+JURISDICTION 		dZ U r 2 s d I k S 2 n		2
+JURY 		dZ U r i		2
+JUSTICE 		dZ 2 s t 2 s		0
+JUSTIFICATION 		dZ 2 s t 2 f 2 k e I S 2 n		2
+JUVENILE 		dZ u v 2 n 2 l		2
+KALE 		k e I l		2
+KARMA 		k a r m 2		2
+KEEP 		k i p		1
+KEEPING 		k i p I N		2
+KENNEL 		k E n 2 l		2
+KEY 		k i		2
+KEYSTONE 		k i s t o U n		2
+KEYWORD 		k i w E R d		2
+KHAKI 		k a k i		2
+KICK 		k I k		1
+KID 		k I d		2
+KIDDIE 		k I d i		2
+KIDDING 		k I d I N		2
+KIDNAPPING 		k I d n ae p I N		2
+KIDNEY 		k I d n i		2
+KILL 		k I l		2
+KILLER 		k I l E R		2
+KILLING 		k I l I N		2
+KILN 		k I l n		2
+KILOMETER 		k 2 l a m 2 t E R		2
+KIND 		k E I n d		2
+KINDERGARTEN 		k I n d E R g a r t 2 n		2
+KINDNESS 		k E I n d n 2 s		0
+KING 		k I N		2
+KITCHEN 		k I tS 2 n		2
+KITTEN 		k I t 2 n		2
+KITTY 		k I t i		2
+KNEE 		n i		2
+KNIFE 		n E I f		1
+KNOCK 		n a k		1
+KNOW 		n o U		2
+KNOWLEDGE 		n a l 2 dZ		0
+LAB 		l ae b		2
+LABEL 		l e I b 2 l		2
+LABOR 		l e I b E R		2
+LABORER 		l e I b E R E R		2
+LABYRINTH 		l ae b E R I n T		1
+LACK 		l ae k		1
+LADY 		l e I d i		2
+LAMB 		l ae m		2
+LAMP 		l ae m p		1
+LAND 		l ae n d		2
+LANDING 		l ae n d I N		2
+LANDLORD 		l ae n d l O r d		2
+LANDMARK 		l ae n d m a r k		1
+LANDSCAPE 		l ae n d s k e I p		1
+LANE 		l e I n		2
+LANGUAGE 		l ae N g w 2 dZ		0
+LAP 		l ae p		1
+LAPSE 		l ae p s		0
+LAPTOP 		l ae p t a p		1
+LASCIVIOUSNESS 		l 2 s I v i 2 s n 2 s		0
+LASER 		l e I z E R		2
+LATER 		l e I t E R		2
+LATITUDES 		l ae t 2 t u d z		0
+LAUGHTER 		l ae f t E R		2
+LAUNCH 		l O n tS		0
+LAUNCHER 		l O n tS E R		2
+LAUNCHING 		l O n tS I N		2
+LAUNDRY 		l O n d r i		2
+LAUREL 		l O r 2 l		2
+LAVA 		l a v 2		2
+LAW 		l O		2
+LAWLESSNESS 		l O l 2 s n 2 s		0
+LAWMAKER 		l O m e I k E R		2
+LAWSUIT 		l O s u t		1
+LAWYER 		l O j E R		2
+LAYER 		l e I E R		2
+LAYOUT 		l e I E U t		1
+LEAD 		l E d		2
+LEADER 		l i d E R		2
+LEADERSHIP 		l i d E R S I p		1
+LEAF 		l i f		1
+LEAFLET 		l i f l 2 t		1
+LEAFY 		l i f i		2
+LEAK 		l i k		1
+LEAKAGE 		l i k 2 dZ		0
+LEAP 		l i p		1
+LEARNING 		l E R n I N		2
+LEASE 		l i s		0
+LEASH 		l i S		0
+LEATHER 		l E D E R		2
+LEAVE 		l i v		2
+LECTURE 		l E k tS E R		2
+LEDGER 		l E dZ E R		2
+LEFT 		l E f t		1
+LEG 		l E g		2
+LEGACY 		l E g 2 s i		2
+LEGAL 		l i g 2 l		2
+LEGEND 		l E dZ 2 n d		2
+LEGISLATURE 		l E dZ 2 s l e I tS E R		2
+LEGITIMACY 		l 2 dZ I t 2 m 2 s i		2
+LEISURE 		l E Z E R		2
+LEMONADE 		l E m 2 n e I d		2
+LENGTH 		l E N k T		1
+LENS 		l E n z		0
+LESION 		l i Z 2 n		2
+LESSON 		l E s 2 n		2
+LET 		l E t		1
+LETHARGY 		l E T E R dZ i		2
+LETTER 		l E t E R		2
+LETTUCE 		l E t 2 s		0
+LEVEL 		l E v 2 l		2
+LEVERAGE 		l E v E R I dZ		0
+LIABILITY 		l E I 2 b I l I t i		2
+LIAR 		l E I E R		2
+LIBEL 		l E I b E l		2
+LIBERAL 		l I b E R 2 l		2
+LIBERATION 		l I b E R e I S 2 n		2
+LIBERTARIAN 		l I b E R t E r i 2 n		2
+LIBERTY 		l I b E R t i		2
+LICENSE 		l E I s 2 n s		0
+LIE 		l E I		2
+LIEU 		l u		2
+LIEUTENANT 		l u t E n 2 n t		1
+LIFE 		l E I f		1
+LIFEBOAT 		l E I f b o U t		1
+LIFEGUARD 		l E I f g a r d		2
+LIFESPAN 		l E I f s p ae n		2
+LIFESTYLE 		l E I f s t E I l		2
+LIFETIME 		l E I f t E I m		2
+LIFT 		l I f t		1
+LIGHT 		l E I t		1
+LIGHTING 		l E I t I N		2
+LIKES 		l E I k s		0
+LIMB 		l I m		2
+LIMBO 		l I m b o U		2
+LIMIT 		l I m 2 t		1
+LIMITATION 		l I m I t e I S 2 n		2
+LINE 		l E I n		2
+LINEN 		l I n 2 n		2
+LINER 		l E I n E R		2
+LINGUIST 		l I N g w I s t		1
+LINK 		l I N k		1
+LION 		l E I 2 n		2
+LIP 		l I p		1
+LIPID 		l E I p 2 d		2
+LIQUIDATION 		l I k w I d e I S 2 n		2
+LIQUOR 		l I k E R		2
+LISP 		l I s p		1
+LIST 		l I s t		1
+LISTENER 		l I s 2 n E R		2
+LISTENING 		l I s 2 n I N		2
+LISTING 		l I s t I N		2
+LISTLESSNESS 		l I s t l 2 s n 2 s		0
+LITERATURE 		l I t E R 2 tS E R		2
+LITHOGRAPH 		l I T 2 g r ae f		1
+LITIGATION 		l I t 2 g e I S 2 n		2
+LITTER 		l I t E R		2
+LITTLE 		l I t 2 l		2
+LIVE 		l E I v		2
+LIVER 		l I v E R		2
+LIVESTOCK 		l E I v s t a k		1
+LIVING 		l I v I N		2
+LIZARD 		l I z E R d		2
+LOAD 		l o U d		2
+LOADING 		l o U d I N		2
+LOAN 		l o U n		2
+LOBBY 		l a b i		2
+LOBBYIST 		l a b i 2 s t		1
+LOBSTER 		l a b s t E R		2
+LOCATION 		l o U k e I S 2 n		2
+LOCK 		l a k		1
+LOCKER 		l a k E R		2
+LODGE 		l a dZ		0
+LODGING 		l a dZ I N		2
+LOGIC 		l a dZ I k		1
+LOGO 		l o U g o U		2
+LONG 		l O N		2
+LONGEVITY 		l O n dZ E v 2 t i		2
+LONGSHOREMAN 		l O N S o U r m ae n		2
+LOOK 		l U k		1
+LOOKOUT 		l U k E U t		1
+LOOP 		l u p		1
+LOOSER 		l u s E R		2
+LOOT 		l u t		1
+LOOTER 		l u t E R		2
+LOOTING 		l u t I N		2
+LOPE 		l o U p		1
+LOSER 		l u z E R		2
+LOSS 		l O s		0
+LOT 		l a t		1
+LOTTERY 		l a t E R i		2
+LOTUS 		l o U t 2 s		0
+LOUNGE 		l E U n dZ		0
+LOVE 		l 2 v		2
+LOVER 		l 2 v E R		2
+LOW 		l o U		2
+LUBE 		l u b		2
+LUCK 		l 2 k		1
+LUNATIC 		l u n 2 t I k		1
+LUNCH 		l 2 n tS		0
+LUNCHEON 		l 2 n tS 2 n		2
+LUNG 		l 2 N		2
+LUXURY 		l 2 g Z E R i		2
+LYMPHOMA 		l I m f o U m 2		2
+LYRIC 		l I r I k		1
+MACHINE 		m 2 S i n		2
+MACROCOSM 		m ae k r 2 k 2 z 2 m		2
+MADAM 		m ae d 2 m		2
+MAGAZINE 		m ae g 2 z i n		2
+MAGIC 		m ae dZ I k		1
+MAGICIAN 		m 2 dZ I S 2 n		2
+MAGNESIUM 		m ae g n i z i 2 m		2
+MAGNET 		m ae g n 2 t		1
+MAGNITUDE 		m ae g n 2 t u d		2
+MAID 		m e I d		2
+MAIL 		m e I l		2
+MAILER 		m e I l E R		2
+MAILING 		m e I l I N		2
+MAINSTREAM 		m e I n s t r i m		2
+MAINTENANCE 		m e I n t 2 n 2 n s		0
+MAJORITY 		m 2 dZ O r 2 t i		2
+MAKER 		m e I k E R		2
+MAKING 		m e I k I N		2
+MALE 		m e I l		2
+MALL 		m O l		2
+MAMA 		m a m 2		2
+MANAGEMENT 		m ae n 2 dZ m 2 n t		1
+MANAGER 		m ae n 2 dZ E R		2
+MANGER 		m e I n dZ E R		2
+MANGO 		m ae N g o U		2
+MANHUNT 		m ae n h 2 n t		1
+MANIAC 		m e I n i ae k		1
+MANICURE 		m ae n I k j E R		2
+MANIFESTATION 		m ae n 2 f E s t e I S 2 n		2
+MANIFOLD 		m ae n 2 f o U l d		2
+MANIKIN 		m ae n I k 2 n		2
+MANKIND 		m ae n k E I n d		2
+MANLINESS 		m ae n l i n 2 s		0
+MANNER 		m ae n E R		2
+MANNERS 		m ae n E R z		0
+MANTRA 		m ae n t r 2		2
+MANUAL 		m ae n j u 2 l		2
+MANUFACTURE 		m ae n j 2 f ae k tS E R		2
+MANUFACTURER 		m ae n j 2 f ae k tS E R E R		2
+MANUFACTURING 		m ae n j 2 f ae k tS E R I N		2
+MANY 		m E n i		2
+MAP 		m ae p		1
+MAPLE 		m e I p 2 l		2
+MAPPING 		m ae p I N		2
+MARCH 		m a r tS		0
+MARE 		m E r		2
+MARGARITA 		m a r g E R i t 2		2
+MARGIN 		m a r dZ 2 n		2
+MARIONETTE 		m ae r i 2 n E t		1
+MARK 		m a r k		1
+MARKET 		m a r k 2 t		1
+MARKETER 		m a r k 2 t E R		2
+MARKETING 		m a r k 2 t I N		2
+MARKETPLACE 		m a r k 2 t p l e I s		0
+MARKING 		m a r k I N		2
+MARRIAGE 		m E r I dZ		0
+MARRYING 		m E r i I N		2
+MARTYR 		m a r t E R		2
+MASK 		m ae s k		1
+MASQUERADE 		m ae s k E R e I d		2
+MASS 		m ae s		0
+MASSACRE 		m ae s 2 k E R		2
+MASSAGE 		m 2 s a Z		0
+MASTER 		m ae s t E R		2
+MASTERMIND 		m ae s t E R m E I n d		2
+MATCH 		m ae tS		0
+MATCHING 		m ae tS I N		2
+MATE 		m e I t		1
+MATERIAL 		m 2 t I r i 2 l		2
+MATH 		m ae T		1
+MATRIX 		m e I t r I k s		0
+MATTER 		m ae t E R		2
+MAW 		m O		2
+MAXIMUM 		m ae k s 2 m 2 m		2
+MAYONNAISE 		m e I 2 n e I z		0
+MAYOR 		m e I E R		2
+MEADOWLARK 		m E d o U l a r k		1
+MEAL 		m i l		2
+MEAN 		m i n		2
+MEANING 		m i n I N		2
+MEANS 		m i n z		0
+MEANTIME 		m i n t E I m		2
+MEANWHILE 		m i n w E I l		2
+MEASURE 		m E Z E R		2
+MEAT 		m i t		1
+MEATBALL 		m i t b O l		2
+MECHANIC 		m 2 k ae n I k		1
+MECHANICS 		m 2 k ae n I k s		0
+MECHANISM 		m E k 2 n I z 2 m		2
+MEDAL 		m E d 2 l		2
+MEDIA 		m i d i 2		2
+MEDIATION 		m i d i e I S 2 n		2
+MEDICATION 		m E d 2 k e I S 2 n		2
+MEDICINE 		m E d 2 s 2 n		2
+MEDITATION 		m E d 2 t e I S 2 n		2
+MEDIUM 		m i d i 2 m		2
+MEETING 		m i t I N		2
+MEGAPIXEL 		m E g 2 p I k s 2 l		2
+MELTING 		m E l t I N		2
+MEMBER 		m E m b E R		2
+MEMBERSHIP 		m E m b E R S I p		1
+MEMBRANE 		m E m b r e I n		2
+MEMO 		m E m o U		2
+MEMOIR 		m E m w a r		2
+MEMORY 		m E m E R i		2
+MENACE 		m E n 2 s		0
+MENSTRUATION 		m E n s t r u e I S 2 n		2
+MENU 		m E n j u		2
+MEOWING 		m i o U 2 N		2
+MERCENARY 		m E R s 2 n E r i		2
+MERCHANT 		m E R tS 2 n t		1
+MERCURY 		m E R k j E R i		2
+MERCY 		m E R s i		2
+MERGER 		m E R dZ E R		2
+MERIT 		m E r 2 t		1
+MESH 		m E S		0
+MESS 		m E s		0
+MESSAGE 		m E s 2 dZ		0
+METABOLISM 		m 2 t ae b 2 l I z 2 m		2
+METAL 		m E t 2 l		2
+METAPHOR 		m E t 2 f O r		2
+METASTASIS 		m 2 t ae s t 2 s I s		0
+METER 		m i t E R		2
+METERING 		m i t E R I N		2
+METHOD 		m E T 2 d		2
+METHODOLOGY 		m E T 2 d a l 2 dZ i		2
+METRO 		m E t r o U		2
+MICROBIOLOGIST 		m E I k r o U b i a l 2 dZ I s t		1
+MICROCOMPUTER 		m E I k r o U k 2 m p j u t E R		2
+MICROCOSM 		m E I k r 2 k a z 2 m		2
+MICRON 		m E I k r a n		2
+MICROPHONE 		m E I k r 2 f o U n		2
+MICROWAVE 		m E I k r 2 w e I v		2
+MIDDLE 		m I d 2 l		2
+MIDGET 		m I dZ 2 t		1
+MIDST 		m I d s t		1
+MIDTERM 		m I d t E R m		2
+MIGRANT 		m E I g r 2 n t		1
+MIGRATION 		m E I g r e I S 2 n		2
+MILDEW 		m I l d u		2
+MILE 		m E I l		2
+MILEAGE 		m E I l 2 dZ		0
+MILIEU 		m I l j U		2
+MILITANT 		m I l 2 t 2 n t		1
+MILITARISM 		m I l 2 t E R I z 2 m		2
+MILITARY 		m I l 2 t E r i		2
+MILITIA 		m 2 l I S 2		2
+MILK 		m I l k		1
+MILL 		m I l		2
+MILLENNIUM 		m 2 l E n i 2 m		2
+MILLET 		m I l 2 t		1
+MILLING 		m I l I N		2
+MILLION 		m I l j 2 n		2
+MIMOSA 		m I m o U s 2		2
+MIND 		m E I n d		2
+MINE 		m E I n		2
+MINERAL 		m I n E R 2 l		2
+MINIATURE 		m I n i 2 tS U r		2
+MINIMUM 		m I n 2 m 2 m		2
+MINING 		m E I n I N		2
+MINISTER 		m I n 2 s t E R		2
+MINORITY 		m E I n O r 2 t i		2
+MINUTE 		m I n 2 t		1
+MIRACLE 		m I r 2 k 2 l		2
+MIRTH 		m E R T		1
+MISANTHROPY 		m I s 2 n T r o U p i		2
+MISCHIEF 		m I s tS 2 f		1
+MISCONCEPTION 		m I s k 2 n s E p S 2 n		2
+MISCREANT 		m I s k r i 2 n t		1
+MISDIRECTION 		m I s d 2 r E k S 2 n		2
+MISERY 		m I z E R i		2
+MISFORTUNE 		m I s f O r tS 2 n		2
+MISINFORMATION 		m I s I n f E R m e I S 2 n		2
+MISOGYNY 		m I z 2 dZ I n i		2
+MISSILE 		m I s 2 l		2
+MISSION 		m I S 2 n		2
+MISSIVE 		m I s I v		2
+MISSTATEMENT 		m I s t e I t m 2 n t		1
+MIST 		m I s t		1
+MISTAKE 		m I s t e I k		1
+MISTREATMENT 		m I s t r i t m 2 n t		1
+MISUNDERSTANDING 		m I s 2 n d E R s t ae n d I N		2
+MITIGATING 		m I t 2 g e I t I N		2
+MIX 		m I k s		0
+MIXING 		m I k s I N		2
+MIXTURE 		m I k s tS E R		2
+MOD 		m O d		2
+MODE 		m o U d		2
+MODEL 		m a d 2 l		2
+MODELING 		m a d 2 l I N		2
+MODEM 		m o U d 2 m		2
+MODERATE 		m a d E R 2 t		1
+MODERATOR 		m a d E R e I t E R		2
+MODERNIZATION 		m a d E R n 2 z e I S 2 n		2
+MODICUM 		m a d I k 2 m		2
+MODULE 		m a dZ u l		2
+MOISTURE 		m U I s tS E R		2
+MOLD 		m o U l d		2
+MOLDING 		m o U l d I N		2
+MOLE 		m o U l		2
+MOLESTER 		m 2 l E s t E R		2
+MOM 		m a m		2
+MOMENT 		m o U m 2 n t		1
+MOMMY 		m a m i		2
+MONARCHY 		m a n a r k i		2
+MONEY 		m 2 n i		2
+MONKEY 		m 2 N k i		2
+MONOPOLY 		m 2 n a p 2 l i		2
+MONOTONY 		m 2 n a t 2 n i		2
+MONTH 		m 2 n T		1
+MOO 		m u		2
+MOON 		m u n		2
+MOOR 		m U r		2
+MOORLAND 		m U r l ae n d		2
+MOP 		m a p		1
+MORALE 		m E R ae l		2
+MORALITY 		m O r ae l 2 t i		2
+MORBIDITY 		m O r b I d 2 t i		2
+MORNING 		m O r n I N		2
+MORTAR 		m O r t E R		2
+MOSQUE 		m a s k		1
+MOSQUITO 		m 2 s k i t o U		2
+MOTEL 		m o U t E l		2
+MOTHER 		m 2 D E R		2
+MOTION 		m o U S 2 n		2
+MOTIVATION 		m o U t 2 v e I S 2 n		2
+MOTIVE 		m o U t I v		2
+MOTOR 		m o U t E R		2
+MOTORCYCLE 		m o U t E R s E I k 2 l		2
+MOTTO 		m a t o U		2
+MOUND 		m E U n d		2
+MOUNTAIN 		m E U n t 2 n		2
+MOUNTAINTOP 		m E U n t 2 n t a p		1
+MOUNTING 		m E U n t I N		2
+MOUSSE 		m u s		0
+MOUTH 		m E U T		1
+MOUTHPIECE 		m E U T p i s		0
+MOVE 		m u v		2
+MOVEMENT 		m u v m 2 n t		1
+MOVIE 		m u v i		2
+MOVING 		m u v I N		2
+MUCH 		m 2 tS		0
+MUD 		m 2 d		2
+MUFF 		m 2 f		1
+MULLAH 		m 2 l 2		2
+MULTIPLEX 		m 2 l t i p l E k s		0
+MULTITUDE 		m 2 l t 2 t u d		2
+MUNICIPALITY 		m j u n I s 2 p ae l 2 t i		2
+MURDER 		m E R d E R		2
+MURDERER 		m E R d E R E R		2
+MURDERING 		m E R d E R I N		2
+MUSCLE 		m 2 s 2 l		2
+MUSEUM 		m j u z i 2 m		2
+MUSH 		m 2 S		0
+MUSIC 		m j u z I k		1
+MUSICAL 		m j u z I k 2 l		2
+MUSICIAN 		m j u z I S 2 n		2
+MUSK 		m 2 s k		1
+MUSSEL 		m 2 s 2 l		2
+MUSTER 		m 2 s t E R		2
+MUTILATION 		m j u t 2 l e I S 2 n		2
+MUTT 		m 2 t		1
+MYSTERY 		m I s t E R i		2
+MYSTICISM 		m I s t I s I z 2 m		2
+MYTH 		m I T		1
+NACHO 		n ae tS o U		2
+NAIL 		n e I l		2
+NAIVETY 		n a i v 2 t e I i		2
+NAME 		n e I m		2
+NAMING 		n e I m I N		2
+NAPKIN 		n ae p k I n		2
+NATION 		n e I S 2 n		2
+NATIONAL 		n ae S 2 n 2 l		2
+NATIONALISM 		n ae S 2 n 2 l I z 2 m		2
+NATIONALIST 		n ae S 2 n 2 l 2 s t		1
+NATIONALITY 		n ae S 2 n ae l 2 t i		2
+NATIVE 		n e I t I v		2
+NATURE 		n e I tS E R		2
+NAUSEA 		n O z i 2		2
+NAVIGATION 		n ae v 2 g e I S 2 n		2
+NAVY 		n e I v i		2
+NECESSITY 		n 2 s E s 2 t i		2
+NECK 		n E k		1
+NEED 		n i d		2
+NEEDLE 		n i d 2 l		2
+NEGATIVE 		n E g 2 t I v		2
+NEGLIGENCE 		n E g l 2 dZ 2 n s		0
+NEGOTIATING 		n I g o U S i e I t I N		2
+NEGOTIATION 		n I g o U S i e I S 2 n		2
+NEGOTIATOR 		n 2 g o U S i e I t E R		2
+NEIGHBOR 		n e I b E R		2
+NEIGHBORHOOD 		n e I b E R h U d		2
+NEON 		n i a n		2
+NEPHEW 		n E f j u		2
+NERD 		n E R d		2
+NERVE 		n E R v		2
+NEST 		n E s t		1
+NET 		n E t		1
+NETTING 		n E t I N		2
+NETWORK 		n E t w E R k		1
+NETWORKING 		n E t w E R k I N		2
+NEUROLOGY 		n U r a l 2 dZ i		2
+NEUTER 		n u t E R		2
+NEW 		n u		2
+NEWBORN 		n u b O r n		2
+NEWS 		n u z		0
+NEWSLETTER 		n u z l E t E R		2
+NEWSPAPER 		n u z p e I p E R		2
+NICE 		n E I s		0
+NICHE 		n I S		0
+NICK 		n I k		1
+NICKNAME 		n I k n e I m		2
+NIGHT 		n E I t		1
+NIGHTLIFE 		n E I t l E I f		1
+NIGHTMARE 		n E I t m E r		2
+NITROGEN 		n E I t r 2 dZ 2 n		2
+NODE 		n o U d		2
+NOISE 		n U I z		0
+NOMENCLATURE 		n o U m 2 n k l e I tS E R		2
+NOMINATION 		n a m 2 n e I S 2 n		2
+NONE 		n 2 n		2
+NOON 		n u n		2
+NORM 		n O r m		2
+NORMAL 		n O r m 2 l		2
+NORMALITY 		n O r m ae l 2 t i		2
+NORTH 		n O r T		1
+NORTHEAST 		n O r T i s t		1
+NORTHWEST 		n O r T w E s t		1
+NOSE 		n o U z		0
+NOSTRIL 		n a s t r I l		2
+NOTCH 		n a tS		0
+NOTE 		n o U t		1
+NOTEBOOK 		n o U t b U k		1
+NOTEPAD 		n o U t p ae d		2
+NOTICE 		n o U t 2 s		0
+NOTIFICATION 		n o U t 2 f 2 k e I S 2 n		2
+NOTION 		n o U S 2 n		2
+NOVEL 		n a v 2 l		2
+NUDE 		n u d		2
+NUDGING 		n 2 dZ I N		2
+NUKE 		n u k		1
+NUMBER 		n 2 m b E R		2
+NUN 		n 2 n		2
+NURSE 		n E R s		0
+NUTRIENT 		n u t r i 2 n t		1
+OAK 		o U k		1
+OATMEAL 		o U t m i l		2
+OBEDIENCE 		o U b i d i 2 n s		0
+OBESITY 		o U b i s 2 t i		2
+OBJECT 		a b dZ E k t		1
+OBJECTION 		2 b dZ E k S 2 n		2
+OBJECTIVE 		2 b dZ E k t I v		2
+OBLIGATION 		a b l 2 g e I S 2 n		2
+OBSCURITY 		2 b s k j U r 2 t i		2
+OBSERVATION 		a b z E R v e I S 2 n		2
+OBSERVER 		2 b z E R v E R		2
+OBSTACLE 		a b s t 2 k 2 l		2
+OBSTRUCTION 		2 b s t r 2 k S 2 n		2
+OCCASION 		2 k e I Z 2 n		2
+OCCUPANCY 		a k j 2 p 2 n s i		2
+OCCUPATION 		a k j 2 p e I S 2 n		2
+OCCURRENCE 		2 k E R 2 n s		0
+OCEAN 		o U S 2 n		2
+O'CLOCK 		2 k l a k		1
+OFF 		O f		1
+OFFENSIVE 		2 f E n s I v		2
+OFFER 		O f E R		2
+OFFERING 		O f E R I N		2
+OFFICE 		O f 2 s		0
+OFFICER 		O f 2 s E R		2
+OFFICIAL 		2 f I S 2 l		2
+OFFSPRING 		O f s p r I N		2
+OIL 		U I l		2
+OILFIELD 		U I l f i l d		2
+OLD 		o U l d		2
+OMELET 		a m l 2 t		1
+OMISSION 		o U m I S 2 n		2
+OMNIBUS 		a m n 2 b 2 s		0
+ONCE 		w 2 n s		0
+ONE 		w 2 n		2
+ONION 		2 n j 2 n		2
+ONLINE 		O n l E I n		2
+OPEN 		o U p 2 n		2
+OPENER 		o U p 2 n E R		2
+OPENING 		o U p 2 n I N		2
+OPERA 		a p r 2		2
+OPERATING 		a p E R e I t I N		2
+OPERATION 		a p E R e I S 2 n		2
+OPERATIVE 		a p E R 2 t I v		2
+OPERATOR 		a p E R e I t E R		2
+OPINION 		2 p I n j 2 n		2
+OPOSSUM 		o U p a s 2 m		2
+OPPORTUNITY 		a p E R t u n 2 t i		2
+OPPOSITE 		a p 2 z I t		1
+OPPOSITION 		a p 2 z I S 2 n		2
+OPTIMIZATION 		a p t 2 m 2 z e I S 2 n		2
+OPTION 		a p S 2 n		2
+ORANGE 		O r 2 n dZ		0
+ORBIT 		O r b 2 t		1
+ORCHESTRA 		O r k 2 s t r 2		2
+ORDEAL 		O r d i l		2
+ORDER 		O r d E R		2
+ORDERING 		O r d E R I N		2
+OREGANO 		O r E g 2 n o U		2
+ORGAN 		O r g 2 n		2
+ORGANISM 		O r g 2 n I z 2 m		2
+ORGANIZATION 		O r g 2 n 2 z e I S 2 n		2
+ORGANIZING 		O r g 2 n E I z I N		2
+ORIENTATION 		O r i E n t e I S 2 n		2
+ORIGAMI 		O r i g a m i		2
+ORIGIN 		O r 2 dZ 2 n		2
+ORIGINAL 		E R I dZ 2 n 2 l		2
+ORIGINATION 		E R I dZ 2 n e I S 2 n		2
+ORNAMENT 		O r n 2 m 2 n t		1
+ORPHAN 		O r f 2 n		2
+ORTHODONTIST 		O r T 2 d a n t 2 s t		1
+OSTRICH 		O s t r I tS		0
+OTHER 		2 D E R		2
+OUNCE 		E U n s		0
+OUSTER 		E U s t E R		2
+OUSTING 		E U s t I N		2
+OUT 		E U t		1
+OUTAGE 		E U t 2 dZ		0
+OUTBREAK 		E U t b r e I k		1
+OUTCOME 		E U t k 2 m		2
+OUTFIT 		E U t f I t		1
+OUTGROWTH 		E U t g r o U T		1
+OUTING 		E U t I N		2
+OUTLET 		E U t l E t		1
+OUTLINE 		E U t l E I n		2
+OUTPUT 		E U t p U t		1
+OUTRAGE 		E U t r e I dZ		0
+OUTREACH 		E U t r i tS		0
+OUTSIDER 		E U t s E I d E R		2
+OVEN 		2 v 2 n		2
+OVER 		o U v E R		2
+OVERAGE 		o U v E R e I dZ		0
+OVERCHARGE 		o U v E R tS a r dZ		0
+OVERDOSE 		o U v E R d o U s		0
+OVERFLOW 		o U v E R f l o U		2
+OVERNIGHT 		o U v E R n E I t		1
+OVERSTATEMENT 		o U v E R s t e I t m 2 n t		1
+OVERTHROW 		o U v E R T r o U		2
+OVERTURE 		o U v E R tS E R		2
+OVERVIEW 		o U v E R v j u		2
+OWNER 		o U n E R		2
+OWNERSHIP 		o U n E R S I p		1
+OXYGEN 		a k s 2 dZ 2 n		2
+PACE 		p e I s		0
+PACK 		p ae k		1
+PACKAGE 		p ae k 2 dZ		0
+PACKER 		p ae k E R		2
+PACKET 		p ae k 2 t		1
+PACT 		p ae k t		1
+PAD 		p ae d		2
+PAGE 		p e I dZ		0
+PAGER 		p e I dZ E R		2
+PAIN 		p e I n		2
+PAINT 		p e I n t		1
+PAINTER 		p e I n t E R		2
+PAINTING 		p e I n t I N		2
+PAIR 		p E r		2
+PAL 		p ae l		2
+PALACE 		p ae l 2 s		0
+PALETTE 		p ae l 2 t		1
+PALM 		p a m		2
+PAN 		p ae n		2
+PANCAKE 		p ae n k e I k		1
+PANE 		p e I n		2
+PANEL 		p ae n 2 l		2
+PANIC 		p ae n I k		1
+PANTS 		p ae n t s		0
+PAPER 		p e I p E R		2
+PAPERS 		p e I p E R z		0
+PAPERWORK 		p e I p E R w E R k		1
+PAR 		p a r		2
+PARACHUTE 		p E r 2 S u t		1
+PARADE 		p E R e I d		2
+PARADED 		p E R e I d I d		2
+PARADIGM 		p E r 2 d E I m		2
+PARADISE 		p E r 2 d E I s		0
+PARAGRAPH 		p ae r 2 g r ae f		1
+PARAKEET 		p E r 2 k i t		1
+PARALEGAL 		p E r 2 l i g 2 l		2
+PARAMETER 		p E R ae m 2 t E R		2
+PARAMILITARY 		p E r 2 m I l 2 t E r i		2
+PARAPHERNALIA 		p E r 2 f 2 n e I l j 2		2
+PARENT 		p E r 2 n t		1
+PARENTHESES 		p E R E n T 2 s i z		0
+PARIAH 		p E R E I 2		2
+PARISHIONER 		p E R I S 2 n E R		2
+PARK 		p a r k		1
+PARKING 		p a r k I N		2
+PARLIAMENT 		p a r l 2 m E n t		1
+PARODY 		p E r 2 d i		2
+PAROLE 		p E R o U l		2
+PARROT 		p E r 2 t		1
+PART 		p a r t		1
+PARTICIPANT 		p a r t I s 2 p 2 n t		1
+PARTICIPATION 		p a r t I s 2 p e I S 2 n		2
+PARTITION 		p a r t I S 2 n		2
+PARTNER 		p a r t n E R		2
+PARTNERSHIP 		p a r t n E R S I p		1
+PARTY 		p a r t i		2
+PASS 		p ae s		0
+PASSENGER 		p ae s 2 n dZ E R		2
+PASSING 		p ae s I N		2
+PASSION 		p ae S 2 n		2
+PASSPORT 		p ae s p O r t		1
+PASSWORD 		p ae s w E R d		2
+PAST 		p ae s t		1
+PASTA 		p a s t 2		2
+PASTE 		p e I s t		1
+PASTOR 		p ae s t E R		2
+PASTRY 		p e I s t r i		2
+PASTURE 		p ae s tS E R		2
+PAT 		p ae t		1
+PATENT 		p ae t 2 n t		1
+PATH 		p ae T		1
+PATHOGEN 		p ae T 2 dZ 2 n		2
+PATIENCE 		p e I S 2 n s		0
+PATIENT 		p e I S 2 n t		1
+PATIENTS 		p e I S 2 n t s		0
+PATIO 		p ae t i o U		2
+PATROL 		p 2 t r o U l		2
+PATRON 		p e I t r 2 n		2
+PATRONAGE 		p ae t r 2 n I dZ		0
+PATTERN 		p ae t E R n		2
+PATTY 		p ae t i		2
+PAW 		p O		2
+PAYER 		p e I E R		2
+PAYMENT 		p e I m 2 n t		1
+PAYOFF 		p e I O f		1
+PEA 		p i		2
+PEACE 		p i s		0
+PEACEKEEPING 		p i s k i p I N		2
+PEAK 		p i k		1
+PEANUT 		p i n 2 t		1
+PEASANT 		p E z 2 n t		1
+PEDANTRY 		p E d 2 n t r i		2
+PEDDLE 		p E d 2 l		2
+PEDESTAL 		p E d 2 s t 2 l		2
+PEDICURE 		p E d I k j E R		2
+PEEL 		p i l		2
+PEER 		p I r		2
+PEN 		p E n		2
+PENALTY 		p E n 2 l t i		2
+PENCIL 		p E n s 2 l		2
+PENDING 		p E n d I N		2
+PENDULUM 		p E n dZ 2 l 2 m		2
+PENINSULA 		p 2 n I n s 2 l 2		2
+PENNY 		p E n i		2
+PEOPLE 		p i p 2 l		2
+PEP 		p E p		1
+PEPPER 		p E p E R		2
+PEPPERONI 		p E p E R o U n i		2
+PER 		p E R		2
+PERCENT 		p E R s E n t		1
+PERCENTAGE 		p E R s E n t 2 dZ		0
+PERCEPTION 		p E R s E p S 2 n		2
+PERFECTION 		p E R f E k S 2 n		2
+PERFECTIONIST 		p E R f E k S 2 n 2 s t		1
+PERFORMANCE 		p E R f O r m 2 n s		0
+PERFORMER 		p E R f O r m E R		2
+PERFUME 		p E R f j u m		2
+PERIL 		p E r 2 l		2
+PERIOD 		p I r i 2 d		2
+PERMISSION 		p E R m I S 2 n		2
+PERMIT 		p E R m I t		1
+PERSEVERANCE 		p E R s 2 v I r 2 n s		0
+PERSON 		p E R s 2 n		2
+PERSONALITY 		p E R s 2 n ae l I t i		2
+PERSPECTIVE 		p E R s p E k t I v		2
+PERSUASION 		p E R s w e I Z 2 n		2
+PESTICIDE 		p E s t 2 s E I d		2
+PET 		p E t		1
+PETARD 		p E t E R d		2
+PETITION 		p 2 t I S 2 n		2
+PETROL 		p E t r o U l		2
+PETROLEUM 		p 2 t r o U l i 2 m		2
+PETTING 		p E t I N		2
+PEWTER 		p j u t E R		2
+PHANTOM 		f ae n t 2 m		2
+PHARMACY 		f a r m 2 s i		2
+PHASE 		f e I z		0
+PHENOMENON 		f 2 n a m 2 n a n		2
+PHILOSOPHY 		f 2 l a s 2 f i		2
+PHLOX 		f l a k s		0
+PHOBIA 		f o U b i 2		2
+PHOEBE 		f i b i		2
+PHONE 		f o U n		2
+PHONY 		f o U n i		2
+PHOTO 		f o U t o U		2
+PHOTOGRAPH 		f o U t 2 g r ae f		1
+PHOTOGRAPHER 		f 2 t a g r 2 f E R		2
+PHOTOGRAPHY 		f 2 t a g r 2 f i		2
+PHRASE 		f r e I z		0
+PHYSICAL 		f I z I k 2 l		2
+PHYSICIAN 		f 2 z I S 2 n		2
+PHYSIOTHERAPIST 		f I s i 2 T E r 2 p 2 s t		1
+PICK 		p I k		1
+PICKET 		p I k I t		1
+PICKETING 		p I k 2 t I N		2
+PICKUP 		p I k 2 p		1
+PICTURE 		p I k tS E R		2
+PIE 		p E I		2
+PIECE 		p i s		0
+PIG 		p I g		2
+PIGEON 		p I dZ 2 n		2
+PILE 		p E I l		2
+PILLAR 		p I l E R		2
+PILLOW 		p I l o U		2
+PILOT 		p E I l 2 t		1
+PIN 		p I n		2
+PINE 		p E I n		2
+PINKIE 		p I N k i		2
+PINKY 		p I N k i		2
+PINT 		p E I n t		1
+PIONEER 		p E I 2 n I r		2
+PIPE 		p E I p		1
+PIPELINE 		p E I p l E I n		2
+PIPING 		p E I p I N		2
+PIRATE 		p E I r 2 t		1
+PIT 		p I t		1
+PITCH 		p I tS		0
+PITFALL 		p I t f O l		2
+PIXEL 		p I k s 2 l		2
+PIZZA 		p i t s 2		2
+PLACE 		p l e I s		0
+PLAGUE 		p l e I g		2
+PLAIN 		p l e I n		2
+PLAN 		p l ae n		2
+PLANE 		p l e I n		2
+PLANET 		p l ae n 2 t		1
+PLANNER 		p l ae n E R		2
+PLANNING 		p l ae n I N		2
+PLANT 		p l ae n t		1
+PLANTAIN 		p l ae n t 2 n		2
+PLASTER 		p l ae s t E R		2
+PLASTIC 		p l ae s t I k		1
+PLATE 		p l e I t		1
+PLATFORM 		p l ae t f O r m		2
+PLATTER 		p l ae t E R		2
+PLAY 		p l e I		2
+PLAYER 		p l e I E R		2
+PLAYING 		p l e I I N		2
+PLEADING 		p l i d I N		2
+PLEASURE 		p l E Z E R		2
+PLEDGE 		p l E dZ		0
+PLENTY 		p l E n t i		2
+PLIGHT 		p l E I t		1
+PLOT 		p l a t		1
+PLOTTER 		p l a t E R		2
+PLOVER 		p l 2 v E R		2
+PLUG 		p l 2 g		2
+PLUMBER 		p l 2 m E R		2
+PLUNGE 		p l 2 n dZ		0
+PLUS 		p l 2 s		0
+PLYWOOD 		p l E I w U d		2
+POCKET 		p a k 2 t		1
+PODIUM 		p o U d i 2 m		2
+POET 		p o U 2 t		1
+POINT 		p U I n t		1
+POISON 		p U I z 2 n		2
+POISONING 		p U I z 2 n I N		2
+POKER 		p o U k E R		2
+POLE 		p o U l		2
+POLICE 		p 2 l i s		0
+POLICEMAN 		p 2 l i s m 2 n		2
+POLICY 		p a l 2 s i		2
+POLISH 		p a l I S		0
+POLITE 		p 2 l E I t		1
+POLITICIAN 		p a l 2 t I S 2 n		2
+POLITICS 		p a l 2 t I k s		0
+POLL 		p o U l		2
+POLLUTER 		p 2 l u t E R		2
+POLLUTION 		p 2 l u S 2 n		2
+POLYGAMY 		p 2 l I g 2 m i		2
+PONY 		p o U n i		2
+POOL 		p u l		2
+POOP 		p u p		1
+POOR 		p u r		2
+POP 		p a p		1
+POPCORN 		p a p k O r n		2
+POPE 		p o U p		1
+POPULARITY 		p a p j 2 l E r 2 t i		2
+POPULATION 		p a p j 2 l e I S 2 n		2
+POPULOUS 		p a p j 2 l 2 s		0
+PORCH 		p O r tS		0
+PORK 		p O r k		1
+PORT 		p O r t		1
+PORTION 		p O r S 2 n		2
+POSE 		p o U z		0
+POSITION 		p 2 z I S 2 n		2
+POSSIBILITY 		p a s 2 b I l 2 t i		2
+POST 		p o U s t		1
+POSTAGE 		p o U s t 2 dZ		0
+POSTCARD 		p o U s t k a r d		2
+POSTER 		p o U s t E R		2
+POSTERITY 		p a s t E r 2 t i		2
+POSTING 		p o U s t I N		2
+POSTPONEMENT 		p o U s t p o U n m 2 n t		1
+POSTURE 		p a s tS E R		2
+POT 		p a t		1
+POTATO 		p 2 t e I t o U		2
+POTENTIAL 		p 2 t E n S 2 l		2
+POTENTIALITY 		p 2 t E n tS i ae l 2 t i		2
+POTPOURRI 		p o U p U r i		2
+POTTY 		p a t i		2
+POUCH 		p E U tS		0
+POUND 		p E U n d		2
+POVERTY 		p a v E R t i		2
+POWDER 		p E U d E R		2
+POWER 		p E U E R		2
+PRACTICE 		p r ae k t I s		0
+PRAISE 		p r e I z		0
+PRAWN 		p r O n		2
+PRAYER 		p r E r		2
+PREACHER 		p r i tS E R		2
+PREAMBLE 		p r i ae m b 2 l		2
+PRECAUTION 		p r i k O S 2 n		2
+PRECONCEPTION 		p r i k 2 n s E p S 2 n		2
+PREDATOR 		p r E d 2 t E R		2
+PREDICTION 		p r i d I k S 2 n		2
+PREDISPOSITION 		p r i d I s p 2 z I S 2 n		2
+PREFERENCE 		p r E f E R 2 n s		0
+PREGNANCY 		p r E g n 2 n s i		2
+PREJUDICE 		p r E dZ 2 d I s		0
+PRELUDE 		p r e I l u d		2
+PREMISE 		p r E m I s		0
+PREMIUM 		p r i m i 2 m		2
+PREPARATION 		p r E p E R e I S 2 n		2
+PREPAREDNESS 		p r i p E r 2 d n 2 s		0
+PREPAYMENT 		p r i p e I m 2 n t		1
+PRESCHOOLER 		p r i s k u l E R		2
+PRESENCE 		p r E z 2 n s		0
+PRESENT 		p r E z 2 n t		1
+PRESENTATION 		p r E z 2 n t e I S 2 n		2
+PRESIDENT 		p r E z I d 2 n t		1
+PRESS 		p r E s		0
+PRESSURE 		p r E S E R		2
+PRETENSE 		p r i t E n s		0
+PRETEXT 		p r i t E k s t		1
+PRETZEL 		p r E t z 2 l		2
+PREVIEW 		p r i v j u		2
+PREY 		p r e I		2
+PRICE 		p r E I s		0
+PRICING 		p r E I s I N		2
+PRIDE 		p r E I d		2
+PRIEST 		p r i s t		1
+PRIMARY 		p r E I m E r i		2
+PRINCESS 		p r I n s E s		0
+PRINCIPAL 		p r I n s 2 p 2 l		2
+PRINCIPLE 		p r I n s 2 p 2 l		2
+PRINTER 		p r I n t E R		2
+PRINTING 		p r I n t I N		2
+PRIORITY 		p r E I O r 2 t i		2
+PRISON 		p r I z 2 n		2
+PRISONER 		p r I z 2 n E R		2
+PRIVACY 		p r E I v 2 s i		2
+PRIVILEGE 		p r I v I l I dZ		0
+PRIZE 		p r E I z		0
+PRO 		p r o U		2
+PROBABILITY 		p r a b 2 b I l 2 t i		2
+PROBATION 		p r o U b e I S 2 n		2
+PROBE 		p r o U b		2
+PROBLEM 		p r a b l 2 m		2
+PROCEDURE 		p r 2 s i dZ E R		2
+PROCEEDING 		p r 2 s i d I N		2
+PROCEEDINGS 		p r o U s i d I N z		0
+PROCESS 		p r a s E s		0
+PROCESSING 		p r a s E s I N		2
+PROCESSOR 		p r a s E s E R		2
+PROCUREMENT 		p r o U k j U r m 2 n t		1
+PROD 		p r a d		2
+PRODUCER 		p r 2 d u s E R		2
+PRODUCT 		p r a d 2 k t		1
+PRODUCTION 		p r 2 d 2 k S 2 n		2
+PROFESSION 		p r 2 f E S 2 n		2
+PROFESSIONAL 		p r 2 f E S 2 n 2 l		2
+PROFESSIONALISM 		p r 2 f E S 2 n 2 l I z 2 m		2
+PROFESSOR 		p r 2 f E s E R		2
+PROFICIENCY 		p r 2 f I S 2 n s i		2
+PROFILE 		p r o U f E I l		2
+PROFIT 		p r a f 2 t		1
+PROGNOSIS 		p r a g n o U s 2 s		0
+PROGRAM 		p r o U g r ae m		2
+PROGRAMMING 		p r o U g r ae m I N		2
+PROGRESS 		p r a g r E s		0
+PROJECT 		p r a dZ E k t		1
+PROLIFERATION 		p r o U l I f E R e I S 2 n		2
+PROMISE 		p r a m 2 s		0
+PROMOTION 		p r 2 m o U S 2 n		2
+PRONG 		p r O N		2
+PRONUNCIATION 		p r o U n 2 n s i e I S 2 n		2
+PROOF 		p r u f		1
+PROPAGANDA 		p r a p 2 g ae n d 2		2
+PROPANE 		p r o U p e I n		2
+PROPERTY 		p r a p E R t i		2
+PROPONENT 		p r 2 p o U n 2 n t		1
+PROPORTION 		p r 2 p O r S 2 n		2
+PROPOSAL 		p r 2 p o U z 2 l		2
+PROPOSITION 		p r a p 2 z I S 2 n		2
+PROPRIETOR 		p r 2 p r E I 2 t E R		2
+PROSECUTION 		p r a s 2 k j u S 2 n		2
+PROSECUTOR 		p r a s I k j u t E R		2
+PROSPECT 		p r a s p E k t		1
+PROSPERITY 		p r a s p E r 2 t i		2
+PROSTITUTE 		p r a s t 2 t u t		1
+PROTECTION 		p r 2 t E k S 2 n		2
+PROTEIN 		p r o U t i n		2
+PROTEST 		p r o U t E s t		1
+PROTOCOL 		p r o U t 2 k a l		2
+PROVIDER 		p r 2 v E I d E R		2
+PROVINCE 		p r a v 2 n s		0
+PROVISION 		p r 2 v I Z 2 n		2
+PROVISO 		p r 2 v E I z o U		2
+PROVOCATION 		p r a v 2 k e I S 2 n		2
+PRY 		p r E I		2
+PSEUDONYM 		s u d 2 n I m		2
+PSYCHIATRIST 		s 2 k E I 2 t r 2 s t		1
+PSYCHOLOGY 		s E I k a l 2 dZ i		2
+PUB 		p 2 b		2
+PUBLIC 		p 2 b l I k		1
+PUBLICATION 		p 2 b l I k e I S 2 n		2
+PUBLISHER 		p 2 b l I S E R		2
+PUFF 		p 2 f		1
+PUFFING 		p 2 f I N		2
+PULL 		p U l		2
+PULLBACK 		p U l b ae k		1
+PULLER 		p U l E R		2
+PULSE 		p 2 l s		0
+PUMP 		p 2 m p		1
+PUMPKIN 		p 2 m p k I n		2
+PUNCH 		p 2 n tS		0
+PUNCTUATION 		p 2 N k tS u e I S 2 n		2
+PUNISHMENT 		p 2 n I S m 2 n t		1
+PUNK 		p 2 N k		1
+PUP 		p 2 p		1
+PUPPET 		p 2 p 2 t		1
+PUPPY 		p 2 p i		2
+PURCHASE 		p E R tS 2 s		0
+PURPOSE 		p E R p 2 s		0
+PURSE 		p E R s		0
+PURSUIT 		p E R s u t		1
+PUSH 		p U S		0
+PUT 		p U t		1
+PYRAMID 		p I r 2 m I d		2
+PYTHON 		p E I T a n		2
+QUAD 		k w a d		2
+QUALIFICATION 		k w a l 2 f 2 k e I S 2 n		2
+QUALITY 		k w a l 2 t i		2
+QUANTITY 		k w a n t 2 t i		2
+QUARTER 		k w O r t E R		2
+QUEEN 		k w i n		2
+QUERY 		k w i r i		2
+QUEST 		k w E s t		1
+QUESTION 		k w E s tS 2 n		2
+QUIET 		k w E I 2 t		1
+QUIETNESS 		k w E I 2 t n 2 s		0
+QUIZ 		k w I z		0
+QUOTE 		k w o U t		1
+RABBIT 		r ae b 2 t		1
+RABBLE 		r ae b 2 l		2
+RACE 		r e I s		0
+RACING 		r e I s I N		2
+RACISM 		r e I s I z 2 m		2
+RACK 		r ae k		1
+RADAR 		r e I d a r		2
+RADIATION 		r e I d i e I S 2 n		2
+RADICAL 		r ae d I k 2 l		2
+RADIO 		r e I d i o U		2
+RAFFLE 		r ae f 2 l		2
+RAGE 		r e I dZ		0
+RAIL 		r e I l		2
+RAILWAY 		r e I l w e I		2
+RAIN 		r e I n		2
+RAINBOW 		r e I n b o U		2
+RAISING 		r e I z I N		2
+RALLY 		r ae l i		2
+RALLYING 		r ae l i I N		2
+RAMIFICATION 		r ae m 2 f 2 k e I S 2 n		2
+RANCH 		r ae n tS		0
+RANCHER 		r ae n tS E R		2
+RANGE 		r e I n dZ		0
+RANGER 		r e I n dZ E R		2
+RANK 		r ae N k		1
+RAPE 		r e I p		1
+RAT 		r ae t		1
+RATE 		r e I t		1
+RATING 		r e I t I N		2
+RATION 		r ae S 2 n		2
+RATTLING 		r ae t l I N		2
+RAY 		r e I		2
+REACH 		r i tS		0
+REACTION 		r i ae k S 2 n		2
+REACTOR 		r i ae k t E R		2
+READ 		r E d		2
+READER 		r i d E R		2
+READING 		r i d I N		2
+REALIST 		r i 2 l I s t		1
+REALITY 		r i ae l 2 t i		2
+REALM 		r E l m		2
+REAR 		r I r		2
+REASON 		r i z 2 n		2
+REASSURANCE 		r i 2 S U r 2 n s		0
+REBEL 		r E b 2 l		2
+REBELLION 		r I b E l j 2 n		2
+REBIRTH 		r i b E R T		1
+RECALL 		r i k O l		2
+RECEIPT 		r I s i t		1
+RECEIVER 		r 2 s i v E R		2
+RECEPTION 		r I s E p S 2 n		2
+RECEPTIONIST 		r I s E p S 2 n I s t		1
+RECESSION 		r I s E S 2 n		2
+RECIPE 		r E s 2 p i		2
+RECIPIENT 		r 2 s I p i 2 n t		1
+RECOGNITION 		r E k 2 g n I S 2 n		2
+RECOIL 		r i k U I l		2
+RECOMMENDATION 		r E k 2 m 2 n d e I S 2 n		2
+RECONCILIATION 		r E k 2 n s I l i e I S 2 n		2
+RECONCILING 		r E k 2 n s E I l I N		2
+RECONNAISSANCE 		r i k a n 2 s 2 n s		0
+RECONSTRUCTION 		r i k 2 n s t r 2 k S 2 n		2
+RECORD 		r 2 k O r d		2
+RECORDING 		r 2 k O r d I N		2
+RECOUNT 		r I k E U n t		1
+RECOVERY 		r I k 2 v r i		2
+RECRUIT 		r 2 k r u t		1
+RECRUITING 		r 2 k r u t I N		2
+RECRUITMENT 		r 2 k r u t m 2 n t		1
+RECTANGLE 		r E k t ae N g 2 l		2
+RECTOR 		r E k t E R		2
+RED 		r E d		2
+REDUCTION 		r I d 2 k S 2 n		2
+REDWOOD 		r E d w U d		2
+REEF 		r i f		1
+REFERENCE 		r E f E R 2 n s		0
+REFERRAL 		r I f E R 2 l		2
+REFINERY 		r I f E I n E R i		2
+REFLECTION 		r 2 f l E k S 2 n		2
+REFLECTOR 		r I f l E k t E R		2
+REFORMER 		r I f O r m E R		2
+REFRESHMENT 		r 2 f r E S m 2 n t		1
+REFRIGERATOR 		r 2 f r I dZ E R e I t E R		2
+REFUGEE 		r E f j u dZ i		2
+REFUND 		r I f 2 n d		2
+REGARD 		r 2 g a r d		2
+REGARDS 		r I g a r d z		0
+REGIME 		r 2 Z i m		2
+REGIMEN 		r E dZ 2 m 2 n		2
+REGION 		r i dZ 2 n		2
+REGISTRAR 		r E dZ I s t r a r		2
+REGISTRATION 		r E dZ I s t r e I S 2 n		2
+REGRET 		r 2 g r E t		1
+REGULAR 		r E g j 2 l E R		2
+REGULARITY 		r E g j 2 l E r 2 t i		2
+REGULATION 		r E g j 2 l e I S 2 n		2
+REGULATOR 		r E g j 2 l e I t E R		2
+REIN 		r e I n		2
+REITERATION 		r i I t E R e I S 2 n		2
+REJECTION 		r I dZ E k S 2 n		2
+RELAPSE 		r i l ae p s		0
+RELATION 		r i l e I S 2 n		2
+RELATIONSHIP 		r i l e I S 2 n S I p		1
+RELATIVE 		r E l 2 t I v		2
+RELAXATION 		r i l ae k s e I S 2 n		2
+RELEASE 		r i l i s		0
+RELIABILITY 		r i l E I 2 b I l 2 t i		2
+RELIANCE 		r I l E I 2 n s		0
+RELIEF 		r I l i f		1
+RELIGION 		r I l I dZ 2 n		2
+REMAINDER 		r I m e I n d E R		2
+REMARK 		r I m a r k		1
+REMEDY 		r E m 2 d i		2
+REMINDER 		r i m E I n d E R		2
+REMISSION 		r i m I S 2 n		2
+REMNANT 		r E m n 2 n t		1
+REMODEL 		r i m a d 2 l		2
+REMODELING 		r I m a d 2 l I N		2
+REMOVAL 		r I m u v 2 l		2
+RENEWAL 		r I n u 2 l		2
+RENOVATION 		r E n 2 v e I S 2 n		2
+RENT 		r E n t		1
+RENTAL 		r E n t 2 l		2
+REOPENING 		r i o U p 2 n I N		2
+REP 		r E p		1
+REPAIR 		r I p E r		2
+REPERCUSSION 		r i p E R k 2 S 2 n		2
+REPLACEMENT 		r I p l e I s m 2 n t		1
+REPLICA 		r E p l I k 2		2
+REPLY 		r I p l E I		2
+REPORT 		r i p O r t		1
+REPORTER 		r I p O r t E R		2
+REPORTING 		r i p O r t I N		2
+REPRESENTATION 		r E p r 2 z E n t e I S 2 n		2
+REPRESENTATIVE 		r E p r 2 z E n t 2 t I v		2
+REPRISAL 		r i p r E I z 2 l		2
+REPTILE 		r E p t E I l		2
+REPUBLIC 		r i p 2 b l 2 k		1
+REPUTATION 		r E p j 2 t e I S 2 n		2
+REQUEST 		r I k w E s t		1
+REQUIREMENT 		r I k w E I r m 2 n t		1
+RESCUE 		r E s k j u		2
+RESCUER 		r E s k j u E R		2
+RESEARCH 		r i s E R tS		0
+RESEARCHER 		r i s E R tS E R		2
+RESEMBLANCE 		r I z E m b l 2 n s		0
+RESERVATION 		r E z E R v e I S 2 n		2
+RESERVE 		r I z E R v		2
+RESERVOIR 		r E z 2 v w a r		2
+RESIDENCE 		r E z I d 2 n s		0
+RESIDENCY 		r E z I d 2 n s i		2
+RESIDENT 		r E z I d 2 n t		1
+RESISTANCE 		r I z I s t 2 n s		0
+RESOLUTION 		r E z 2 l u S 2 n		2
+RESORT 		r I z O r t		1
+RESOURCE 		r i s O r s		0
+RESPECT 		r I s p E k t		1
+RESPECTS 		r I s p E k t s		0
+RESPONDENT 		r I s p a n d 2 n t		1
+RESPONSE 		r I s p a n s		0
+RESPONSIBILITY 		r i s p a n s 2 b I l 2 t i		2
+RESPONSIVENESS 		r I s p a n s I v n 2 s		0
+REST 		r E s t		1
+RESTAURANT 		r E s t E R a n t		1
+RESTORATION 		r E s t E R e I S 2 n		2
+RESTRICTION 		r i s t r I k S 2 n		2
+RESTRUCTURING 		r i s t r 2 k tS E R I N		2
+RESULT 		r I z 2 l t		1
+RESUME 		r I z u m		2
+RESUPPLY 		r i s 2 p l E I		2
+RETAIL 		r i t e I l		2
+RETAILER 		r i t e I l E R		2
+RETALIATION 		r i t ae l i e I S 2 n		2
+RETARDATION 		r i t a r d e I S 2 n		2
+RETENTION 		r i t E n S 2 n		2
+RETIREMENT 		r i t E I E R m 2 n t		1
+RETREAT 		r i t r i t		1
+RETRIAL 		r i t r E I 2 l		2
+RETROSPECT 		r E t r 2 s p E k t		1
+RETURN 		r I t E R n		2
+RETURNEE 		r I t E R n i		2
+REVENGE 		r i v E n dZ		0
+REVENUE 		r E v 2 n u		2
+REVERSAL 		r I v E R s 2 l		2
+REVIEW 		r i v j u		2
+REVIEWER 		r i v j u E R		2
+REVIEWS 		r i v j u z		0
+REVISION 		r i v I Z 2 n		2
+REVOCATION 		r E v 2 k e I S 2 n		2
+REVOLT 		r I v o U l t		1
+REVOLUTION 		r E v 2 l u S 2 n		2
+REWARD 		r I w O r d		2
+RHYTHM 		r I D 2 m		2
+RIB 		r I b		2
+RIBBON 		r I b 2 n		2
+RICE 		r E I s		0
+RIDE 		r E I d		2
+RIDER 		r E I d E R		2
+RIDING 		r E I d I N		2
+RIFLE 		r E I f 2 l		2
+RIFT 		r I f t		1
+RIGHT 		r E I t		1
+RIGHTEOUSNESS 		r E I tS 2 s n 2 s		0
+RIGHTS 		r E I t s		0
+RING 		r I N		2
+RINGLEADER 		r I N l i d E R		2
+RIP 		r I p		1
+RISE 		r E I z		0
+RISK 		r I s k		1
+RIVALRY 		r E I v 2 l r i		2
+RIVER 		r I v E R		2
+ROACH 		r o U tS		0
+ROAD 		r o U d		2
+ROADSIDE 		r o U d s E I d		2
+ROBBER 		r a b E R		2
+ROBE 		r o U b		2
+ROBOT 		r o U b a t		1
+ROCK 		r a k		1
+ROCKET 		r a k 2 t		1
+RODE 		r o U d		2
+RODENT 		r o U d 2 n t		1
+ROGUE 		r o U g		2
+ROLE 		r o U l		2
+ROLL 		r o U l		2
+ROLLBACK 		r o U l b ae k		1
+ROMAINE 		r o U m e I n		2
+ROMANCE 		r o U m ae n s		0
+ROOF 		r u f		1
+ROOFING 		r u f I N		2
+ROOM 		r u m		2
+ROOMFUL 		r u m f U l		2
+ROOSTER 		r u s t E R		2
+ROOT 		r u t		1
+ROSE 		r o U z		0
+ROSETTE 		r 2 s E t		1
+ROT 		r a t		1
+ROTATION 		r o U t e I S 2 n		2
+ROUGHHOUSE 		r 2 f h E U s		0
+ROUND 		r E U n d		2
+ROUTE 		r u t		1
+ROUTINE 		r u t i n		2
+ROW 		r o U		2
+RUBBER 		r 2 b E R		2
+RUBBISH 		r 2 b I S		0
+RUBBLE 		r 2 b 2 l		2
+RUDENESS 		r u d n 2 s		0
+RUG 		r 2 g		2
+RULE 		r u l		2
+RULER 		r u l E R		2
+RULING 		r u l I N		2
+RUMOR 		r u m E R		2
+RUN 		r 2 n		2
+RUNAROUND 		r 2 n 2 r E U n d		2
+RUNNER 		r 2 n E R		2
+RUNNING 		r 2 n I N		2
+RUT 		r 2 t		1
+SABER 		s e I b E R		2
+SABOTEUR 		s ae b 2 t E R		2
+SACKING 		s ae k I N		2
+SACRIFICE 		s ae k r 2 f E I s		0
+SACRISTY 		s ae k r I s t i		2
+SADDLE 		s ae d 2 l		2
+SAFEGUARD 		s e I f g a r d		2
+SAFETY 		s e I f t i		2
+SAGA 		s a g 2		2
+SAILING 		s e I l I N		2
+SAILOR 		s e I l E R		2
+SAKE 		s e I k		1
+SALAD 		s ae l 2 d		2
+SALARY 		s ae l E R i		2
+SALE 		s e I l		2
+SALES 		s e I l z		0
+SALESMAN 		s e I l z m 2 n		2
+SALESPEOPLE 		s e I l z p i p 2 l		2
+SALESPERSON 		s e I l z p E R s 2 n		2
+SALON 		s 2 l a n		2
+SALSA 		s a l s 2		2
+SALT 		s O l t		1
+SALVAGE 		s ae l v 2 dZ		0
+SAMPLE 		s ae m p 2 l		2
+SAMPLER 		s ae m p l E R		2
+SAMPLING 		s ae m p l I N		2
+SANCTION 		s ae N k S 2 n		2
+SANCTUARY 		s ae N k tS u E r i		2
+SAND 		s ae n d		2
+SANDALWOOD 		s ae n d 2 l w U d		2
+SANDBAG 		s ae n d b ae g		2
+SANDWICH 		s ae n d w I tS		0
+SAP 		s ae p		1
+SAPLING 		s ae p l I N		2
+SATELLITE 		s ae t 2 l E I t		1
+SATISFACTION 		s ae t 2 s f ae k S 2 n		2
+SAUCE 		s O s		0
+SAUSAGE 		s O s 2 dZ		0
+SAVIOUR 		s e I v j E R		2
+SAW 		s O		2
+SAYING 		s e I I N		2
+SCALE 		s k e I l		2
+SCALLOP 		s k ae l 2 p		1
+SCAM 		s k ae m		2
+SCAMPI 		s k ae m p i		2
+SCANDAL 		s k ae n d 2 l		2
+SCANNING 		s k ae n I N		2
+SCARE 		s k E r		2
+SCENARIO 		s I n E r i o U		2
+SCENE 		s i n		2
+SCENERY 		s i n E R i		2
+SCENT 		s E n t		1
+SCHEDULE 		s k E dZ U l		2
+SCHEDULED 		s k E dZ U l d		2
+SCHEDULER 		s k E dZ U l E R		2
+SCHEDULING 		s k E dZ U l I N		2
+SCHEME 		s k i m		2
+SCHOLAR 		s k a l E R		2
+SCHOLARSHIP 		s k a l E R S I p		1
+SCHOOL 		s k u l		2
+SCHOOLING 		s k u l I N		2
+SCHTICK 		S t I k		1
+SCIENCE 		s E I 2 n s		0
+SCIENTIST 		s E I 2 n t I s t		1
+SCOOP 		s k u p		1
+SCOOPING 		s k u p I N		2
+SCOPE 		s k o U p		1
+SCORE 		s k O r		2
+SCORING 		s k O r I N		2
+SCORN 		s k O r n		2
+SCRAMBLE 		s k r ae m b 2 l		2
+SCRAP 		s k r ae p		1
+SCRATCH 		s k r ae tS		0
+SCRATCHING 		s k r ae tS I N		2
+SCREAM 		s k r i m		2
+SCREEN 		s k r i n		2
+SCREW 		s k r u		2
+SCRUFF 		s k r 2 f		1
+SCRUTINY 		s k r u t 2 n i		2
+SCULPTING 		s k 2 l p t I N		2
+SCULPTURE 		s k 2 l p tS E R		2
+SEA 		s i		2
+SEAFOOD 		s i f u d		2
+SEAL 		s i l		2
+SEAMSTRESS 		s i m s t r I s		0
+SEARCH 		s E R tS		0
+SEARCHING 		s E R tS I N		2
+SEA 		s i		2
+SEASON 		s i z 2 n		2
+SEAT 		s i t		1
+SEATING 		s i t I N		2
+SECESSION 		s I s E S 2 n		2
+SECESSIONIST 		s I s E S 2 n I s t		1
+SECLUSION 		s I k l u Z 2 n		2
+SECOND 		s E k 2 n d		2
+SECRET 		s i k r 2 t		1
+SECRETARY 		s E k r 2 t E r i		2
+SECRETION 		s 2 k r i S 2 n		2
+SECT 		s E k t		1
+SECTION 		s E k S 2 n		2
+SECTOR 		s E k t E R		2
+SECURITY 		s I k j U r 2 t i		2
+SEED 		s i d		2
+SEEKER 		s i k E R		2
+SEGMENT 		s E g m 2 n t		1
+SEIZURE 		s i Z E R		2
+SELECTION 		s 2 l E k S 2 n		2
+SELF 		s E l f		1
+SELLER 		s E l E R		2
+SEMESTER 		s 2 m E s t E R		2
+SEMICOLON 		s E m i k o U l 2 n		2
+SENATE 		s E n 2 t		1
+SENATOR 		s E n 2 t E R		2
+SEND 		s E n d		2
+SENDER 		s E n d E R		2
+SENSATION 		s E n s e I S 2 n		2
+SENSE 		s E n s		0
+SENSITIVITY 		s E n s I t I v I t i		2
+SENSOR 		s E n s E R		2
+SENTENCE 		s E n t 2 n s		0
+SENTENCING 		s E n t 2 n s I N		2
+SENTIMENT 		s E n t 2 m 2 n t		1
+SEPARATION 		s E p E R e I S 2 n		2
+SEPARATIST 		s E p E R 2 t I s t		1
+SEQUENCE 		s i k w 2 n s		0
+SERGEANT 		s a r dZ 2 n t		1
+SERIOUSNESS 		s I r i 2 s n 2 s		0
+SERPENT 		s E R p 2 n t		1
+SERVANT 		s E R v 2 n t		1
+SERVER 		s E R v E R		2
+SERVICE 		s E R v 2 s		0
+SERVING 		s E R v I N		2
+SESAME 		s E s 2 m i		2
+SESSION 		s E S 2 n		2
+SET 		s E t		1
+SETBACK 		s E t b ae k		1
+SETTING 		s E t I N		2
+SETTLEMENT 		s E t 2 l m 2 n t		1
+SETUP 		s E t 2 p		1
+SEWAGE 		s u 2 dZ		0
+SEX 		s E k s		0
+SHADE 		S e I d		2
+SHADOW 		S ae d o U		2
+SHAFT 		S ae f t		1
+SHAM 		S ae m		2
+SHAME 		S e I m		2
+SHAMPOO 		S ae m p u		2
+SHANK 		S ae N k		1
+SHAPE 		S e I p		1
+SHARE 		S E r		2
+SHARK 		S a r k		1
+SHAVE 		S e I v		2
+SHED 		S E d		2
+SHEDDING 		S E d I N		2
+SHEET 		S i t		1
+SHEIK 		S i k		1
+SHEIKH 		S i k		1
+SHELF 		S E l f		1
+SHELL 		S E l		2
+SHELTER 		S E l t E R		2
+SHEPHERD 		S E p E R d		2
+SHERIFF 		S E r 2 f		1
+SHIELD 		S i l d		2
+SHIFT 		S I f t		1
+SHIFTING 		S I f t I N		2
+SHINE 		S E I n		2
+SHIP 		S I p		1
+SHIPMENT 		S I p m 2 n t		1
+SHIPPER 		S I p E R		2
+SHIPPING 		S I p I N		2
+SHIPYARD 		S I p j a r d		2
+SHIRT 		S E R t		1
+SHIRTSLEEVE 		S E R t s l i v		2
+SHIT 		S I t		1
+SHOCK 		S a k		1
+SHOE 		S u		2
+SHOOT 		S u t		1
+SHOOTING 		S u t I N		2
+SHOP 		S a p		1
+SHOPPER 		S a p E R		2
+SHOPPING 		S a p I N		2
+SHORE 		S O r		2
+SHORTAGE 		S O r t 2 dZ		0
+SHOT 		S a t		1
+SHOTGUN 		S a t g 2 n		2
+SHOULDER 		S o U l d E R		2
+SHOVEL 		S 2 v 2 l		2
+SHOW 		S o U		2
+SHOWDOWN 		S o U d E U n		2
+SHOWER 		S E U E R		2
+SHOWROOM 		S o U r U m		2
+SHRAPNEL 		S r ae p n 2 l		2
+SHRED 		S r E d		2
+SHREWDNESS 		S r u d n 2 s		0
+SHRIMP 		S r I m p		1
+SHRINE 		S r E I n		2
+SHRINK 		S r I N k		1
+SHRUB 		S r 2 b		2
+SHRUG 		S r 2 g		2
+SHUTTLE 		S 2 t 2 l		2
+SICK 		s I k		1
+SICKNESS 		s I k n 2 s		0
+SIDE 		s E I d		2
+SIDELINE 		s E I d l E I n		2
+SIEGE 		s i dZ		0
+SIGHT 		s E I t		1
+SIGN 		s E I n		2
+SIGNAL 		s I g n 2 l		2
+SIGNATORY 		s I g n 2 t O r i		2
+SIGNATURE 		s I g n 2 tS E R		2
+SIGNER 		s E I n E R		2
+SIGNING 		s E I n I N		2
+SILK 		s I l k		1
+SILKY 		s I l k i		2
+SILVER 		s I l v E R		2
+SILVERWARE 		s I l v E R w E r		2
+SIMILARITY 		s I m 2 l E r 2 t i		2
+SIMPLIFICATION 		s I m p l 2 f I k e I S 2 n		2
+SIMULATION 		s I m j 2 l e I S 2 n		2
+SINGLE 		s I N g 2 l		2
+SINGLES 		s I N g 2 l z		0
+SINK 		s I N k		1
+SINKING 		s I N k I N		2
+SIR 		s E R		2
+SIRLOIN 		s E R l U I n		2
+SISTER 		s I s t E R		2
+SIT 		s I t		1
+SITCOM 		s I t k a m		2
+SITE 		s E I t		1
+SITTING 		s I t I N		2
+SITUATION 		s I tS u e I S 2 n		2
+SIXTH 		s I k s T		1
+SIXTY 		s I k s t i		2
+SIZE 		s E I z		0
+SKATER 		s k e I t E R		2
+SKILL 		s k I l		2
+SKIN 		s k I n		2
+SKULL 		s k 2 l		2
+SKY 		s k E I		2
+SKYLIGHT 		s k E I l E I t		1
+SLANG 		s l ae N		2
+SLAT 		s l ae t		1
+SLAVE 		s l e I v		2
+SLAVERY 		s l e I v E R i		2
+SLEEP 		s l i p		1
+SLEEPER 		s l i p E R		2
+SLEEPING 		s l i p I N		2
+SLEEVE 		s l i v		2
+SLICE 		s l E I s		0
+SLIDE 		s l E I d		2
+SLIP 		s l I p		1
+SLIVER 		s l I v E R		2
+SLOT 		s l a t		1
+SLUM 		s l 2 m		2
+SLUT 		s l 2 t		1
+SMELL 		s m E l		2
+SMILE 		s m E I l		2
+SMIRK 		s m E R k		1
+SMOKE 		s m o U k		1
+SMOKER 		s m o U k E R		2
+SMOKING 		s m o U k I N		2
+SMUGGLING 		s m 2 g l I N		2
+SNACK 		s n ae k		1
+SNAFFLE 		s n ae f 2 l		2
+SNAIL 		s n e I l		2
+SNAKE 		s n e I k		1
+SNAP 		s n ae p		1
+SNIPER 		s n E I p E R		2
+SNORKELING 		s n O r k 2 l I N		2
+SNOW 		s n o U		2
+SNOWBOARD 		s n o U b O r d		2
+SNOWSTORM 		s n o U s t O r m		2
+SNUB 		s n 2 b		2
+SOAKING 		s o U k I N		2
+SOAP 		s o U p		1
+SOBRIQUET 		s o U b r 2 k e I		2
+SOCCER 		s a k E R		2
+SOCIALISM 		s o U S 2 l I z 2 m		2
+SOCIALIZATION 		s o U S 2 l I z e I S 2 n		2
+SOCIETY 		s o U s E I I t i		2
+SODA 		s o U d 2		2
+SODIUM 		s o U d i 2 m		2
+SOFA 		s o U f 2		2
+SOFTENER 		s O f 2 n E R		2
+SOFTWARE 		s O f t w E r		2
+SOIL 		s U I l		2
+SOLDIER 		s o U l dZ E R		2
+SOLEMNITY 		s 2 l E m n 2 t i		2
+SOLID 		s a l 2 d		2
+SOLIDARITY 		s a l 2 d E r 2 t i		2
+SOLUTION 		s 2 l u S 2 n		2
+SOLVING 		s a l v I N		2
+SOMEDAY 		s 2 m d e I		2
+SOMEPLACE 		s 2 m p l e I s		0
+SOMEWHERE 		s 2 m w E r		2
+SON 		s 2 n		2
+SONG 		s O N		2
+SONNY 		s 2 n i		2
+SOPHOMORE 		s a f m O r		2
+SORT 		s O r t		1
+SOUL 		s o U l		2
+SOUND 		s E U n d		2
+SOUP 		s u p		1
+SOURCE 		s O r s		0
+SOURCING 		s O r s I N		2
+SOUTH 		s E U T		1
+SOUTHEAST 		s E U T i s t		1
+SOUVENIR 		s u v 2 n I r		2
+SOVEREIGNTY 		s a v r 2 n t i		2
+SPA 		s p a		2
+SPACE 		s p e I s		0
+SPACECRAFT 		s p e I s k r ae f t		1
+SPACEFLIGHT 		s p e I s f l E I t		1
+SPACEWALK 		s p e I s w a k		1
+SPADEWORK 		s p e I d w E R k		1
+SPAGHETTI 		s p 2 g E t i		2
+SPARE 		s p E r		2
+SPAWNING 		s p a n I N		2
+SPAY 		s p e I		2
+SPEAK 		s p i k		1
+SPEAKER 		s p i k E R		2
+SPECIAL 		s p E S 2 l		2
+SPECIALIST 		s p E S 2 l I s t		1
+SPECIFICATION 		s p E s I f I k e I S 2 n		2
+SPECIFICS 		s p I s I f I k s		0
+SPEECH 		s p i tS		0
+SPEED 		s p i d		2
+SPELLING 		s p E l I N		2
+SPENDING 		s p E n d I N		2
+SPHERE 		s f I r		2
+SPICE 		s p E I s		0
+SPIEL 		s p i l		2
+SPIKE 		s p E I k		1
+SPIN 		s p I n		2
+SPINACH 		s p I n 2 tS		0
+SPINE 		s p E I n		2
+SPIRIT 		s p I r 2 t		1
+SPIRITUALITY 		s p I r I tS u ae l 2 t i		2
+SPITE 		s p E I t		1
+SPLASH 		s p l ae S		0
+SPLIT 		s p l I t		1
+SPOILAGE 		s p U I l 2 dZ		0
+SPOKESMAN 		s p o U k s m 2 n		2
+SPOKESPERSON 		s p o U k s p E R s 2 n		2
+SPONGE 		s p 2 n dZ		0
+SPONSORSHIP 		s p a n s E R S I p		1
+SPOON 		s p u n		2
+SPORE 		s p O r		2
+SPORT 		s p O r t		1
+SPOT 		s p a t		1
+SPOTLIGHT 		s p a t l E I t		1
+SPOUSE 		s p E U s		0
+SPRAY 		s p r e I		2
+SPRAYING 		s p r e I I N		2
+SPREAD 		s p r E d		2
+SPREADSHEET 		s p r E d S i t		1
+SPREE 		s p r i		2
+SPRING 		s p r I N		2
+SPUR 		s p E R		2
+SPURT 		s p E R t		1
+SPY 		s p E I		2
+SPYING 		s p E I I N		2
+SQUADRON 		s k w a d r 2 n		2
+SQUARE 		s k w E r		2
+SQUEAK 		s k w i k		1
+STABILITY 		s t 2 b I l I t i		2
+STABILIZATION 		s t e I b 2 l 2 z e I S 2 n		2
+STABLE 		s t e I b 2 l		2
+STADIUM 		s t e I d i 2 m		2
+STAFF 		s t ae f		1
+STAFFS 		s t ae f s		0
+STAGE 		s t e I dZ		0
+STAIN 		s t e I n		2
+STAIR 		s t E r		2
+STAKE 		s t e I k		1
+STALL 		s t O l		2
+STAMINA 		s t ae m 2 n 2		2
+STAMP 		s t ae m p		1
+STAND 		s t ae n d		2
+STANDARD 		s t ae n d E R d		2
+STANDING 		s t ae n d I N		2
+STANDPOINT 		s t ae n d p U I n t		1
+STAPLE 		s t e I p 2 l		2
+STAR 		s t a r		2
+STARDOM 		s t a r d 2 m		2
+STARE 		s t E r		2
+START 		s t a r t		1
+STARTER 		s t a r t E R		2
+STARTING 		s t a r t I N		2
+STARVATION 		s t a r v e I S 2 n		2
+STATE 		s t e I t		1
+STATEMENT 		s t e I t m 2 n t		1
+STATIC 		s t ae t I k		1
+STATION 		s t e I S 2 n		2
+STATIONERY 		s t e I S 2 n E r i		2
+STATUE 		s t ae tS u		2
+STATURE 		s t ae tS E R		2
+STATUS 		s t ae t 2 s		0
+STAY 		s t e I		2
+STEAK 		s t e I k		1
+STEAKHOUSE 		s t e I k h E U s		0
+STEAM 		s t i m		2
+STEEL 		s t i l		2
+STEER 		s t I r		2
+STEERING 		s t I r I N		2
+STEP 		s t E p		1
+STEREO 		s t E r i o U		2
+STICK 		s t I k		1
+STICKER 		s t I k E R		2
+STINT 		s t I n t		1
+STIPEND 		s t E I p 2 n d		2
+STIPULATION 		s t I p j 2 l e I S 2 n		2
+STIRRUP 		s t E R 2 p		1
+STOCK 		s t a k		1
+STOCKHOLDER 		s t a k h o U l d E R		2
+STOCKPILE 		s t a k p E I l		2
+STOMACH 		s t 2 m 2 k		1
+STONE 		s t o U n		2
+STOOGE 		s t u dZ		0
+STOP 		s t a p		1
+STORAGE 		s t O r 2 dZ		0
+STORE 		s t O r		2
+STOREFRONT 		s t O r f r a n t		1
+STORM 		s t O r m		2
+STORY 		s t O r i		2
+STOVE 		s t o U v		2
+STRAIN 		s t r e I n		2
+STRANGER 		s t r e I n dZ E R		2
+STRATEGY 		s t r ae t 2 dZ i		2
+STREAK 		s t r i k		1
+STREAM 		s t r i m		2
+STREET 		s t r i t		1
+STRENGTH 		s t r E N k T		1
+STRESS 		s t r E s		0
+STRETCH 		s t r E tS		0
+STRIDE 		s t r E I d		2
+STRIFE 		s t r E I f		1
+STRIKE 		s t r E I k		1
+STRING 		s t r I N		2
+STRIPE 		s t r E I p		1
+STRIPPER 		s t r I p E R		2
+STROBE 		s t r o U b		2
+STROKE 		s t r o U k		1
+STRONGHOLD 		s t r O N h o U l d		2
+STRUCTURE 		s t r 2 k tS E R		2
+STRUCTURING 		s t r 2 k tS E R I N		2
+STRUGGLE 		s t r 2 g 2 l		2
+STUB 		s t 2 b		2
+STUDENT 		s t u d 2 n t		1
+STUDIO 		s t u d i o U		2
+STUDY 		s t 2 d i		2
+STUFF 		s t 2 f		1
+STUPIDITY 		s t u p I d I t i		2
+STURDY 		s t E R d i		2
+STYLE 		s t E I l		2
+STYLIST 		s t E I l I s t		1
+SUB 		s 2 b		2
+SUBCONTINENT 		s 2 b k a n t I n 2 n t		1
+SUBJECT 		s 2 b dZ E k t		1
+SUBMARINE 		s 2 b m E R i n		2
+SUBMISSION 		s 2 b m I S 2 n		2
+SUBPOENA 		s 2 p i n 2		2
+SUBSCRIPTION 		s 2 b s k r I p S 2 n		2
+SUBSIDIARY 		s 2 b s I d i E r i		2
+SUBSIDY 		s 2 b s I d i		2
+SUBSTANCE 		s 2 b s t 2 n s		0
+SUBSTANTIATION 		s 2 b s t ae n tS i e I S 2 n		2
+SUBSTRATE 		s 2 b s t r e I t		1
+SUBTERFUGE 		s 2 b t E R f j u dZ		0
+SUBURB 		s 2 b E R b		2
+SUBWAY 		s 2 b w e I		2
+SUCCESS 		s 2 k s E s		0
+SUCCESSOR 		s 2 k s E s E R		2
+SUFFERING 		s 2 f E R I N		2
+SUFFIX 		s 2 f I k s		0
+SUGAR 		S U g E R		2
+SUGGESTION 		s 2 dZ E s tS 2 n		2
+SUICIDE 		s u 2 s E I d		2
+SUIT 		s u t		1
+SUITCASE 		s u t k e I s		0
+SUITE 		s w i t		1
+SULFUR 		s 2 l f E R		2
+SUM 		s 2 m		2
+SUMMARY 		s 2 m E R i		2
+SUMMER 		s 2 m E R		2
+SUMO 		s u m o U		2
+SUMP 		s 2 m p		1
+SUN 		s 2 n		2
+SUNLIGHT 		s 2 n l E I t		1
+SUPERIOR 		s u p I r i E R		2
+SUPERIORITY 		s u p I r i O r I t i		2
+SUPERMARKET 		s u p E R m a r k I t		1
+SUPERPOWER 		s u p E R p E U E R		2
+SUPERVISOR 		s u p E R v E I z E R		2
+SUPPLEMENT 		s 2 p l 2 m 2 n t		1
+SUPPLIER 		s 2 p l E I E R		2
+SUPPLY 		s 2 p l E I		2
+SUPPORT 		s 2 p O r t		1
+SUPPORTER 		s 2 p O r t E R		2
+SUPPOSITION 		s 2 p 2 z I S 2 n		2
+SUPREMACY 		s 2 p r E m 2 s i		2
+SURFACE 		s E R f 2 s		0
+SURGE 		s E R dZ		0
+SURGEON 		s E R dZ 2 n		2
+SURGERY 		s E R dZ E R i		2
+SURPLUS 		s E R p l 2 s		0
+SURPRISE 		s E R p r E I z		0
+SURRENDER 		s E R E n d E R		2
+SURVEILLANCE 		s E R v e I l 2 n s		0
+SURVEY 		s E R v e I		2
+SURVIVAL 		s E R v E I v 2 l		2
+SURVIVOR 		s E R v E I v E R		2
+SUSHI 		s u S i		2
+SUSPECT 		s 2 s p E k t		1
+SUSPENSION 		s 2 s p E n S 2 n		2
+SUSPICION 		s 2 s p I S 2 n		2
+SWALLOW 		s w a l o U		2
+SWAP 		s w a p		1
+SWEAT 		s w E t		1
+SWEEPER 		s w i p E R		2
+SWEET 		s w i t		1
+SWING 		s w I N		2
+SWITCH 		s w I tS		0
+SWITCHBOARD 		s w I tS b O r d		2
+SYMBOL 		s I m b 2 l		2
+SYMBOLISM 		s I m b 2 l I z 2 m		2
+SYMPATHIZER 		s I m p 2 T E I z E R		2
+SYMPATHY 		s I m p 2 T i		2
+SYMPTOM 		s I m p t 2 m		2
+SYNCH 		s I n tS		0
+SYNTHESIS 		s I n T 2 s 2 s		0
+SYSTEM 		s I s t 2 m		2
+TABLE 		t e I b 2 l		2
+TABLET 		t ae b l 2 t		1
+TAB 		t ae b		2
+TACO 		t a k o U		2
+TACTIC 		t ae k t I k		1
+TAG 		t ae g		2
+TAIL 		t e I l		2
+TAKE 		t e I k		1
+TAKEOVER 		t e I k o U v E R		2
+TAKING 		t e I k I N		2
+TALE 		t e I l		2
+TALENT 		t ae l 2 n t		1
+TALK 		t O k		1
+TALKING 		t O k I N		2
+TANDEM 		t ae n d 2 m		2
+TANK 		t ae N k		1
+TANKER 		t ae N k E R		2
+TAP 		t ae p		1
+TAPE 		t e I p		1
+TARGET 		t a r g 2 t		1
+TARIFF 		t E r 2 f		1
+TASK 		t ae s k		1
+TASKING 		t ae s k I N		2
+TASTE 		t e I s t		1
+TASTING 		t e I s t I N		2
+TATTOO 		t ae t u		2
+TAVERN 		t ae v E R n		2
+TAX 		t ae k s		0
+TAXI 		t ae k s i		2
+TAXPAYER 		t ae k s p e I E R		2
+TEA 		t i		2
+TEACHER 		t i tS E R		2
+TEACHING 		t i tS I N		2
+TEAM 		t i m		2
+TECHNICIAN 		t E k n I S 2 n		2
+TECHNIQUE 		t E k n i k		1
+TECHNOLOGY 		t E k n a l 2 dZ i		2
+TEE 		t i		2
+TEEN 		t i n		2
+TEENAGER 		t i n e I dZ E R		2
+TEETH 		t i T		1
+TELEPHONE 		t E l 2 f o U n		2
+TELEPHONY 		t E l 2 f o U n i		2
+TELEVISION 		t E l 2 v I Z 2 n		2
+TEMP 		t E m p		1
+TEMPER 		t E m p E R		2
+TEMPERAMENT 		t E m p r 2 m 2 n t		1
+TEMPERANCE 		t E m p E R 2 n s		0
+TEMPERATURE 		t E m p r 2 tS E R		2
+TEMPLE 		t E m p 2 l		2
+TEMPURA 		t E m p j 2 r 2		2
+TEN 		t E n		2
+TENACITY 		t 2 n ae s I t i		2
+TENANT 		t E n 2 n t		1
+TENDENCY 		t E n d 2 n s i		2
+TENNIS 		t E n 2 s		0
+TENSION 		t E n S 2 n		2
+TENT 		t E n t		1
+TENTH 		t E n T		1
+TERM 		t E R m		2
+TERMINAL 		t E R m 2 n 2 l		2
+TERMINATION 		t E R m 2 n e I S 2 n		2
+TERRITORY 		t E r I t O r i		2
+TERROR 		t E r E R		2
+TERRORISM 		t E r 2 r I z 2 m		2
+TERRORIST 		t E r 2 r I s t		1
+TEST 		t E s t		1
+TESTAMENT 		t E s t 2 m 2 n t		1
+TESTIMONY 		t E s t I m o U n i		2
+TESTING 		t E s t I N		2
+TESTOSTERONE 		t E s t a s t E R o U n		2
+TEXT 		t E k s t		1
+TEXTURE 		t E k s tS E R		2
+THANK 		T ae N k		1
+THAWED 		T O d		2
+THEATER 		T i e I t E R		2
+THEATRE 		T i 2 t E R		2
+THEFT 		T E f t		1
+THEME 		T i m		2
+THEORY 		T I r i		2
+THERAPIST 		T E r 2 p I s t		1
+THERAPY 		T E r 2 p i		2
+THERMOMETER 		T E R m a m 2 t E R		2
+THESIS 		T i s I s		0
+THICKNESS 		T I k n 2 s		0
+THIEF 		T i f		1
+THIEVERY 		T i v E R i		2
+THIGH 		T E I		2
+THING 		T I N		2
+THINK 		T I N k		1
+THINKING 		T I N k I N		2
+THIRD 		T E R d		2
+THIRST 		T E R s t		1
+THOUGHT 		T O t		1
+THOUSAND 		T E U z 2 n d		2
+THREAD 		T r E d		2
+THREAT 		T r E t		1
+THREATENED 		T r E t 2 n d		2
+THRESHOLD 		T r E S o U l d		2
+THROAT 		T r o U t		1
+THUG 		T 2 g		2
+THUMB 		T 2 m		2
+THYROID 		T E I r U I d		2
+TICKET 		t I k 2 t		1
+TIDBIT 		t I d b I t		1
+TIDE 		t E I d		2
+TIE 		t E I		2
+TILE 		t E I l		2
+TIMBER 		t I m b E R		2
+TIME 		t E I m		2
+TIMER 		t E I m E R		2
+TIMETABLE 		t E I m t e I b 2 l		2
+TIMING 		t E I m I N		2
+TIN 		t I n		2
+TINT 		t I n t		1
+TIP 		t I p		1
+TIRE 		t E I E R		2
+TISSUE 		t I s j u		2
+TITLE 		t E I t 2 l		2
+TOAST 		t o U s t		1
+TODAY 		t 2 d e I		2
+TODDLER 		t a d l E R		2
+TOE 		t o U		2
+TOENAIL 		t o U n e I l		2
+TOFU 		t o U f u		2
+TOILET 		t U I l 2 t		1
+TOLL 		t o U l		2
+TOM 		t a m		2
+TOMATO 		t 2 m e I t o U		2
+TOMORROW 		t 2 m a r o U		2
+TON 		t 2 n		2
+TONGUE 		t 2 N		2
+TONIGHT 		t 2 n E I t		1
+TONNAGE 		t 2 n 2 dZ		0
+TONNE 		t 2 n		2
+TOOL 		t u l		2
+TOOLING 		t u l I N		2
+TOOTHACHE 		t u T e I k		1
+TOP 		t a p		1
+TOPIC 		t a p I k		1
+TORCH 		t O r tS		0
+TORTILLA 		t O r t i 2		2
+TORTURE 		t O r tS E R		2
+TOTAL 		t o U t 2 l		2
+TOTE 		t o U t		1
+TOUCH 		t 2 tS		0
+TOUR 		t U r		2
+TOURISM 		t U r I z 2 m		2
+TOURIST 		t U r 2 s t		1
+TOURNAMENT 		t U r n 2 m 2 n t		1
+TOW 		t o U		2
+TOWEL 		t E U 2 l		2
+TOWER 		t E U E R		2
+TOWING 		t o U I N		2
+TOWN 		t E U n		2
+TOWNHOUSE 		t E U n h E U s		0
+TOWNSHIP 		t E U n S I p		1
+TOXIN 		t a k s 2 n		2
+TOY 		t U I		2
+TRACE 		t r e I s		0
+TRACK 		t r ae k		1
+TRACKING 		t r ae k I N		2
+TRACT 		t r ae k t		1
+TRACTOR 		t r ae k t E R		2
+TRADE 		t r e I d		2
+TRADEMARK 		t r e I d m a r k		1
+TRADEMARKING 		t r e I d m a r k I N		2
+TRADER 		t r e I d E R		2
+TRADING 		t r e I d I N		2
+TRADITION 		t r 2 d I S 2 n		2
+TRAFFIC 		t r ae f I k		1
+TRAFFICKER 		t r ae f I k E R		2
+TRAFFICKING 		t r ae f I k I N		2
+TRAGEDY 		t r ae dZ 2 d i		2
+TRAIL 		t r e I l		2
+TRAILER 		t r e I l E R		2
+TRAIN 		t r e I n		2
+TRAINER 		t r e I n E R		2
+TRAINING 		t r e I n I N		2
+TRAITOR 		t r e I t E R		2
+TRANSACTION 		t r ae n z ae k S 2 n		2
+TRANSCENDENCE 		t r ae n s E n d 2 n s		0
+TRANSCRIPT 		t r ae n s k r I p t		1
+TRANSFER 		t r ae n s f E R		2
+TRANSFORMATION 		t r ae n s f E R m e I S 2 n		2
+TRANSIT 		t r ae n z I t		1
+TRANSITION 		t r ae n z I S 2 n		2
+TRANSLATION 		t r ae n z l e I S 2 n		2
+TRANSMISSION 		t r ae n s m I S 2 n		2
+TRANSMUTATION 		t r ae n s m j u t e I S 2 n		2
+TRANSPORT 		t r ae n s p O r t		1
+TRANSPORTATION 		t r ae n s p E R t e I S 2 n		2
+TRAP 		t r ae p		1
+TRASH 		t r ae S		0
+TRAUMA 		t r O m 2		2
+TRAVEL 		t r ae v 2 l		2
+TRAVELER 		t r ae v 2 l E R		2
+TRAVELING 		t r ae v 2 l I N		2
+TRAVELLER 		t r ae v 2 l E R		2
+TRAVELLING 		t r ae v 2 l I N		2
+TRAY 		t r e I		2
+TREAT 		t r i t		1
+TREATMENT 		t r i t m 2 n t		1
+TREATY 		t r i t i		2
+TREE 		t r i		2
+TREND 		t r E n d		2
+TRESS 		t r E s		0
+TRIAGE 		t r E I I dZ		0
+TRIAL 		t r E I 2 l		2
+TRIBE 		t r E I b		2
+TRIBUTARY 		t r I b j 2 t E r i		2
+TRICK 		t r I k		1
+TRICKLE 		t r I k 2 l		2
+TRILLION 		t r I l j 2 n		2
+TRIMMER 		t r I m E R		2
+TRIO 		t r i o U		2
+TRIP 		t r I p		1
+TRIPLET 		t r I p l 2 t		1
+TRIVIA 		t r I v i 2		2
+TRIVIALITY 		t r I v i ae l 2 t i		2
+TROOP 		t r u p		1
+TROT 		t r a t		1
+TROTTER 		t r a t E R		2
+TROUBLE 		t r 2 b 2 l		2
+TRUCK 		t r 2 k		1
+TRUST 		t r 2 s t		1
+TRUSTEE 		t r 2 s t i		2
+TRUTH 		t r u T		1
+TRY 		t r E I		2
+TSAR 		z a r		2
+TSUNAMI 		t s u n a m i		2
+TUB 		t 2 b		2
+TUBE 		t u b		2
+TUG 		t 2 g		2
+TUMOR 		t u m E R		2
+TUNA 		t u n 2		2
+TUNDRA 		t 2 n d r 2		2
+TUNING 		t u n I N		2
+TURBINE 		t E R b E I n		2
+TURKEY 		t E R k i		2
+TURMOIL 		t E R m U I l		2
+TURN 		t E R n		2
+TURNOVER 		t E R n o U v E R		2
+TUSSOCK 		t 2 s 2 k		1
+TUTORIAL 		t u t O r i 2 l		2
+TWEEZER 		t w i z E R		2
+TWILIGHT 		t w E I l E I t		1
+TWIN 		t w I n		2
+TWIST 		t w I s t		1
+TYPE 		t E I p		1
+TYPO 		t E I p o U		2
+TYRANT 		t E I r 2 n t		1
+UMBRELLA 		2 m b r E l 2		2
+UNCERTAINTY 		2 n s E R t 2 n t i		2
+UNCLE 		2 N k 2 l		2
+UNDERCURRENT 		2 n d E R k E R 2 n t		1
+UNDERGRADUATE 		2 n d E R g r ae dZ 2 w 2 t		1
+UNDERGROUND 		2 n d E R g r E U n d		2
+UNDERSTANDING 		2 n d E R s t ae n d I N		2
+UNDERWEAR 		2 n d E R w E r		2
+UNDERWRITING 		2 n d E R r E I t I N		2
+UNEASINESS 		2 n i z i n 2 s		0
+UNIFORM 		j u n 2 f O r m		2
+UNION 		j u n j 2 n		2
+UNIT 		j u n 2 t		1
+UNITY 		j u n 2 t i		2
+UNIVERSE 		j u n 2 v E R s		0
+UNIVERSITY 		j u n 2 v E R s 2 t i		2
+UNLOADING 		2 n l o U d I N		2
+UNWILLINGNESS 		2 n w I l I N n I s		0
+UPBRINGING 		2 p b r I N I N		2
+UPDATE 		2 p d e I t		1
+UPGRADE 		2 p g r e I d		2
+UPHEAVAL 		2 p h i v 2 l		2
+UPLAND 		2 p l 2 n d		2
+UPRISING 		2 p r E I z I N		2
+URETHRA 		j E R i T r 2		2
+URGE 		E R dZ		0
+URGING 		E R dZ I N		2
+URINAL 		j U r 2 n 2 l		2
+URINATION 		j U r 2 n e I S 2 n		2
+URINE 		j E R 2 n		2
+USAGE 		j u s 2 dZ		0
+USE 		j u s		0
+USER 		j u z E R		2
+UTENSIL 		j u t E n s 2 l		2
+UTERINE 		j u t E R 2 n		2
+UTILITARIANISM 		j U t I l 2 t E r i 2 n I z 2 m		2
+UTILITY 		j u t I l 2 t i		2
+VACANCY 		v e I k 2 n s i		2
+VACATION 		v e I k e I S 2 n		2
+VACCINE 		v ae k s i n		2
+VACUUM 		v ae k j u m		2
+VALET 		v ae l e I		2
+VALIDITY 		v 2 l I d I t i		2
+VALLEY 		v ae l i		2
+VALUATION 		v ae l j u e I S 2 n		2
+VALUE 		v ae l j u		2
+VALVE 		v ae l v		2
+VAN 		v ae n		2
+VANILLA 		v 2 n I l 2		2
+VAPOR 		v e I p E R		2
+VARIETY 		v E R E I 2 t i		2
+VASTNESS 		v ae s t n 2 s		0
+VEGETABLE 		v E dZ t 2 b 2 l		2
+VEGETARIAN 		v E dZ 2 t E r i 2 n		2
+VEGGIE 		v E dZ i		2
+VEHICLE 		v i h I k 2 l		2
+VEIL 		v e I l		2
+VENDOR 		v E n d E R		2
+VENGEANCE 		v E n dZ 2 n s		0
+VENT 		v E n t		1
+VENTILATION 		v E n t I l e I S 2 n		2
+VENTILATOR 		v E n t I l e I t E R		2
+VENTURE 		v E n tS E R		2
+VENUE 		v E n j u		2
+VERDICT 		v E R d I k t		1
+VERSION 		v E R Z 2 n		2
+VESSEL 		v E s 2 l		2
+VEST 		v E s t		1
+VET 		v E t		1
+VETERAN 		v E t E R 2 n		2
+VETERINARIAN 		v E t r 2 n E r i 2 n		2
+VETO 		v i t o U		2
+VIABILITY 		v E I 2 b I l 2 t i		2
+VIAL 		v E I 2 l		2
+VIBE 		v E I b		2
+VICE 		v E I s		0
+VICTIM 		v I k t I m		2
+VICTORY 		v I k t 2 r i		2
+VIDEO 		v I d i o U		2
+VIDEOTAPE 		v I d i o U t e I p		1
+VIEW 		v j u		2
+VIEWER 		v j u E R		2
+VIEWPOINT 		v j u p U I n t		1
+VILLAGE 		v I l 2 dZ		0
+VINTAGE 		v I n t I dZ		0
+VIOLATION 		v E I 2 l e I S 2 n		2
+VIOLENCE 		v E I 2 l 2 n s		0
+VIRILITY 		v E R I l 2 t i		2
+VIRTUOSO 		v E R tS u o U s o U		2
+VIRUS 		v E I r 2 s		0
+VISA 		v i z 2		2
+VISIBILITY 		v I z 2 b I l I t i		2
+VISION 		v I Z 2 n		2
+VISIT 		v I z I t		1
+VISITOR 		v I z I t E R		2
+VISUALIZATION 		v I Z w 2 l 2 z e I S 2 n		2
+VITAMIN 		v E I t 2 m 2 n		2
+VOCAL 		v o U k 2 l		2
+VOICE 		v U I s		0
+VOID 		v U I d		2
+VOLATILITY 		v a l 2 t I l 2 t i		2
+VOLUME 		v a l j u m		2
+VOLUNTEER 		v a l 2 n t I r		2
+VOLUNTEERING 		v O l 2 n t I r I N		2
+VOMITING 		v a m 2 t I N		2
+VOTE 		v o U t		1
+VOTER 		v o U t E R		2
+VOTING 		v o U t I N		2
+VULNERABILITY 		v 2 l n E R 2 b I l I t i		2
+WADING 		w e I d I N		2
+WAFFLE 		w a f 2 l		2
+WAGER 		w e I dZ E R		2
+WAGON 		w ae g 2 n		2
+WAIST 		w e I s t		1
+WAIT 		w e I t		1
+WAITER 		w e I t E R		2
+WAITING 		w e I t I N		2
+WAITRESS 		w e I t r 2 s		0
+WAIVER 		w e I v E R		2
+WAKE 		w e I k		1
+WALK 		w O k		1
+WALKING 		w O k I N		2
+WALKWAY 		w O k w e I		2
+WALL 		w O l		2
+WALLET 		w O l 2 t		1
+WALNUT 		w O l n 2 t		1
+WANTON 		w O n t 2 n		2
+WAR 		w O r		2
+WARD 		w O r d		2
+WAREHOUSE 		w E r h E U s		0
+WARFARE 		w O r f E r		2
+WARLORD 		w O r l O r d		2
+WARM 		w O r m		2
+WARMING 		w O r m I N		2
+WARMONGER 		w O r m a N g E R		2
+WARMTH 		w O r m T		1
+WARNING 		w O r n I N		2
+WARRANTY 		w O r 2 n t i		2
+WARRIOR 		w O r i E R		2
+WASH 		w a S		0
+WASHER 		w a S E R		2
+WASP 		w a s p		1
+WASTE 		w e I s t		1
+WATCH 		w a tS		0
+WATCHER 		w a tS E R		2
+WATER 		w O t E R		2
+WATERFALL 		w O t E R f O l		2
+WATERFRONT 		w O t E R f r 2 n t		1
+WATT 		w a t		1
+WAVE 		w e I v		2
+WAX 		w ae k s		0
+WAY 		w e I		2
+WEALTH 		w E l T		1
+WEAPON 		w E p 2 n		2
+WEATHER 		w E D E R		2
+WEB 		w E b		2
+WEBSITE 		w E b s E I t		1
+WEDDING 		w E d I N		2
+WEDGE 		w E dZ		0
+WEEK 		w i k		1
+WEEKDAY 		w i k d e I		2
+WEEKEND 		w i k E n d		2
+WEIGHT 		w e I t		1
+WEIRDNESS 		w I r d n 2 s		0
+WELFARE 		w E l f E r		2
+WELL 		w E l		2
+WEST 		w E s t		1
+WHATNOT 		w 2 t n a t		1
+WHEAT 		w i t		1
+WHEEL 		w i l		2
+WHEELER 		w i l E R		2
+WHERE 		w E r		2
+WHILE 		w E I l		2
+WHIM 		w I m		2
+WHITE 		w E I t		1
+WHITING 		w E I t I N		2
+WHOLE 		h o U l		2
+WIDTH 		w I d T		1
+WIFE 		w E I f		1
+WIGHT 		w E I t		1
+WILD 		w E I l d		2
+WILDFLOWER 		w E I l d f l E U E R		2
+WILDLIFE 		w E I l d l E I f		1
+WILE 		w E I l		2
+WILL 		w I l		2
+WILLINGNESS 		w I l I N n 2 s		0
+WILLOW 		w I l o U		2
+WIND 		w E I n d		2
+WINDFALL 		w I n d f O l		2
+WINDOW 		w I n d o U		2
+WINE 		w E I n		2
+WING 		w I N		2
+WINGER 		w I N E R		2
+WINNER 		w I n E R		2
+WINTER 		w I n t E R		2
+WIRE 		w E I E R		2
+WIRING 		w E I r I N		2
+WISDOM 		w I z d 2 m		2
+WISH 		w I S		0
+WIT 		w I t		1
+WITHDRAWAL 		w I D d r O 2 l		2
+WITNESS 		w I t n 2 s		0
+WOK 		w a k		1
+WOLF 		w U l f		1
+WONDER 		w 2 n d E R		2
+WONDERLAND 		w 2 n d E R l ae n d		2
+WOOD 		w U d		2
+WOODPECKER 		w U d p E k E R		2
+WOOL 		w U l		2
+WOOLLY 		w U l i		2
+WORD 		w E R d		2
+WORDING 		w E R d I N		2
+WORK 		w E R k		1
+WORKER 		w E R k E R		2
+WORKFORCE 		w E R k f O r s		0
+WORKING 		w E R k I N		2
+WORKMANSHIP 		w E R k m 2 n S I p		1
+WORKPLACE 		w E R k p l e I s		0
+WORKSHEET 		w E R k S i t		1
+WORKSHOP 		w E R k S a p		1
+WORLD 		w E R l d		2
+WORM 		w E R m		2
+WORRY 		w E R i		2
+WORSHIP 		w E R S 2 p		1
+WORSHIPPER 		w E R S 2 p E R		2
+WORTH 		w E R T		1
+WOUND 		w E U n d		2
+WRAPPING 		r ae p I N		2
+WRATH 		r ae T		1
+WRECK 		r E k		1
+WRINKLE 		r I N k 2 l		2
+WRITER 		r E I t E R		2
+WRITING 		r E I t I N		2
+WRONG 		r O N		2
+YAHOO 		j a h u		2
+YAM 		j ae m		2
+YARD 		j a r d		2
+YARN 		j a r n		2
+YEAR 		j I r		2
+YELLING 		j E l I N		2
+YES 		j E s		0
+YESTERDAY 		j E s t E R d e I		2
+YOGA 		j o U g 2		2
+YOKE 		j o U k		1
+YOU 		j u		2
+YOUNG 		j 2 N		2
+YOUNGSTER 		j 2 N s t E R		2
+YOUTH 		j u T		1
+ZEALOT 		z E l 2 t		1
+ZEBRA 		z i b r 2		2
+ZERO 		z i r o U		2
+ZINC 		z I N k		1
+ZONE 		z o U n		2
+ZOO 		z u		2
+ZOOM 		z u m		2

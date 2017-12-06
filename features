@@ -1,0 +1,45 @@
+#special characters will be handled using the symbols given by the tipa
+#package for LaTex, with the exception of \o which is o| and Ln for 
+#textltailn
+#Features are from Zsiga 
+#
+#Format is phoneme (-/+/?)Feature ... where ? represents unary feature
+
+#Vowels
+i -Back +High -Low +ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+I -Back +High -Low -ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+e -Back -High -Low +ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+E -Back -High -Low -ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+ae -Back -High +Low -ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+u +Back +High -Low +ATR +Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+U +Back +High -Low -ATR +Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+o +Back -High -Low +ATR +Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+O +Back -High -Low -ATR +Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+a +Back -High +Low -ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+2 +Back -High -Low -ATR -Round +Syllabic -Consonantal +Sonorant +Continuant +Voice
+
+#Consonants
+p -Syllabic +Consonantal -Sonorant -Continuant -Voice ?Labial
+b -Syllabic +Consonantal -Sonorant -Continuant +Voice ?Labial
+t -Syllabic +Consonantal -Sonorant -Continuant -Voice ?Coronal +Anterior -Distributive
+tS -Syllabic +Consonantal -Sonorant -Continuant ?DR -Voice ?Coronal -Anterior +Distributive +Strident
+k -Syllabic +Consonantal -Sonorant -Continuant -Voice ?Dorsal +Back +High -Low
+g -Syllabic +Consonantal -Sonorant -Continuant +Voice ?Dorsal +Back +High -Low
+d -Syllabic +Consonantal -Sonorant -Continuant +Voice ?Coronal +Anterior -Distributive
+dZ -Syllabic +Consonantal -Sonorant -Continuant ?DR +Voice ?Coronal -Anterior +Distributive +Strident
+f -Syllabic +Consonantal -Sonorant +Continuant -Voice ?Labial +Strident
+v -Syllabic +Consonantal -Sonorant +Continuant +Voice ?Labial +Strident
+s -Syllabic +Consonantal -Sonorant +Continuant -Voice ?Coronal +Anterior -Distributive +Strident
+z -Syllabic +Consonantal -Sonorant +Continuant +Voice ?Coronal +Anterior -Distributive +Strident
+S -Syllabic +Consonantal -Sonorant +Continuant -Voice ?Coronal -Anterior +Distributive +Strident
+Z -Syllabic +Consonantal -Sonorant +Continuant +Voice ?Coronal -Anterior +Distributive +Strident
+h -Syllabic +Consonantal -Sonorant +Continuant -Voice ?Laryngeal
+m -Syllabic +Consonantal +Sonorant -Continuant ?Nasal +Voice ?Labial
+n -Syllabic +Consonantal +Sonorant -Continuant ?Nasal +Voice ?Coronal +Anterior -Distributive
+N -Syllabic +Consonantal +Sonorant -Continuant ?Nasal +Voice ?Dorsal +Back -High +Low
+w -Syllabic -Consonantal +Sonorant +Continuant +Voice ?Labial +Back +High -Low +Round
+l -Syllabic +Consonantal +Sonorant +Continuant ?Lateral +Voice ?Coronal +Anterior -Distributive
+j  -Syllabic -Consonantal +Sonorant +Continuant +Voice ?Dorsal -Back +High -Low 
+r -Syllabic +Consonantal +Sonorant +Continuant +Voice ?Coronal +Anterior -Distributive 
+T -Syllabic +Consonantal -Sonorant +Continuant -Voice ?Coronal +Anterior +Distributive -Strident
+D -Syllabic +Consonantal -Sonorant +Continuant +Voice ?Coronal +Anterior +Distributive -Strident
