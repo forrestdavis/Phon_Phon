@@ -934,7 +934,6 @@ COUNSELING 		k E U n s 2 l I N		2
 COUNSELOR 		k E U n s 2 l E R		2
 COUNT 		k E U n t		1
 COUNTER 		k E U n t E R		2
-COUNTERINTELLIGENCE 		k E U n t E R I n t E l I dZ 2 n s		0
 COUNTERWEIGHT 		k E U n t E R w e I t		1
 COUNTRY 		k 2 n t r i		2
 COUNTRYMAN 		k 2 n t r i m 2 n		2

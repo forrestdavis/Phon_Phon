@@ -52,10 +52,16 @@ def format_data(data_file = "../extra_data/data.txt"):
                 feat = feats[sound]
                 tmp = []
                 for value in features:
+                    #has feat
                     if '+'+value in feat:
                         tmp.append('1')
+                    #Has unary feat
                     elif '?'+value in feat:
                         tmp.append('1')
+                    #Doesn't have feat
+                    elif '-'+value in feat:
+                        tmp.append('-1')
+                    #Feature doesn't apply gets 0
                     else:
                         tmp.append('0')
                 tmp = ' '.join(tmp)

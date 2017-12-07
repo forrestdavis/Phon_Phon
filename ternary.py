@@ -66,39 +66,82 @@ class LogisticRegression(object):
         else:
             raise NotImplementedError()
 
-#UPDATE
-def load_data(dataset):
+def load_data_last_sound(data_dir):
 
-    # Download the MNIST dataset if it is not present
-    data_dir, data_file = os.path.split(dataset)
-    if data_dir == "" and not os.path.isfile(dataset):
-        # Check if dataset is in the data directory.
-        new_path = os.path.join(
-            os.path.split(__file__)[0],
-            ".",
-            "mnist_data",
-            dataset
-        )
-        if os.path.isfile(new_path) or data_file == 'mnist.pkl.gz':
-            dataset = new_path
+    rval = []
 
-    if (not os.path.isfile(dataset)) and data_file == 'mnist.pkl.gz':
-        from six.moves import urllib
-        origin = (
-            'http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz')
-        print('Downloading data from %s' % origin)
-        urllib.request.urlretrieve(origin, dataset)
+    train_data = open(data_dir+'train.data', 'r')
+    dev_data = open(data_dir+'dev.data', 'r')
+    test_data = open(data_dir+'test.data', 'r')
 
-    print('... loading data')
+    #Get x and y train values
+    temp_x = []
+    temp_y = []
+    for line in train_data:
+        line=line.strip()
+        if not line:
+            continue
+        line = line.split('\t\t')
 
-    # Load the dataset
-    with gzip.open(dataset, 'rb') as f:
-        try:
-            train_set, valid_set, test_set = pickle.load(f, encoding='latin1')
-        except:
-            train_set, valid_set, test_set = pickle.load(f)
+        #Get binary feature values for last sound
+        x_val = line[len(line)-2:len(line)-1]
+        x_val = x_val[0].split()
+        
+        #Turn list of strings into list of ints
+        x_val = [int(x) for x in x_val]
 
-    print(test_set)
+        temp_x.append(x_val)
+        temp_y.append(int(line[len(line)-1]))
+
+    train_data_x = numpy.array(temp_x)
+    train_data_y = numpy.array(temp_y)
+    train_set = (train_data_x, train_data_y)
+         
+    #Get x and y dev values
+    temp_x = []
+    temp_y = []
+    for line in dev_data:
+        line=line.strip()
+        if not line:
+            continue
+        line = line.split('\t\t')
+
+        #Get binary feature values for last sound
+        x_val = line[len(line)-2:len(line)-1]
+        x_val = x_val[0].split()
+        
+        #Turn list of strings into list of ints
+        x_val = [int(x) for x in x_val]
+
+        temp_x.append(x_val)
+        temp_y.append(int(line[len(line)-1]))
+
+    dev_data_x = numpy.array(temp_x)
+    dev_data_y = numpy.array(temp_y)
+    dev_set = (dev_data_x, dev_data_y)
+
+    #Get x and y test values
+    temp_x = []
+    temp_y = []
+    for line in test_data:
+        line=line.strip()
+        if not line:
+            continue
+        line = line.split('\t\t')
+
+        #Get binary feature values for last sound
+        x_val = line[len(line)-2:len(line)-1]
+        x_val = x_val[0].split()
+        
+        #Turn list of strings into list of ints
+        x_val = [int(x) for x in x_val]
+
+        temp_x.append(x_val)
+        temp_y.append(int(line[len(line)-1]))
+
+    test_data_x = numpy.array(temp_x)
+    test_data_y = numpy.array(temp_y)
+    test_set = (test_data_x, test_data_y)
 
     def shared_dataset(data_xy, borrow=True):
         data_x, data_y = data_xy
@@ -111,20 +154,24 @@ def load_data(dataset):
         return shared_x, T.cast(shared_y, 'int32')
 
     test_set_x, test_set_y = shared_dataset(test_set)
-    valid_set_x, valid_set_y = shared_dataset(valid_set)
+    dev_set_x, dev_set_y = shared_dataset(dev_set)
     train_set_x, train_set_y = shared_dataset(train_set)
 
-
-    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
+    rval = [(train_set_x, train_set_y), (dev_set_x, dev_set_y),
             (test_set_x, test_set_y)]
+
+    #Clean it up
+    train_data.close()
+    dev_data.close()
+    test_data.close()
     return rval
 
 
 def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
-                           dataset='mnist.pkl.gz',
-                           batch_size=600):
+                           data_dir = 'data_ternary/',
+                           batch_size=300):
 
-    datasets = load_data(dataset)
+    datasets = load_data_last_sound(data_dir)
 
     train_set_x, train_set_y = datasets[0]
     valid_set_x, valid_set_y = datasets[1]
@@ -145,10 +192,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     x = T.matrix('x')  # data, presented as rasterized images
     y = T.ivector('y')  # labels, presented as 1D vector of [int] labels
 
-    # construct the logistic regression class
-    # Each MNIST image has size 28*28
-    #TODO: update size of this 20 X 3
-    classifier = LogisticRegression(input=x, n_in=28 * 28, n_out=10)
+    classifier = LogisticRegression(input=x, n_in=20, n_out=3)
 
     # the cost we minimize during training is the negative log likelihood of
     # the model in symbolic format
@@ -203,7 +247,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     ###############
     print('... training the model')
     # early-stopping parameters
-    patience = 5000  # look as this many examples regardless
+    patience = 2500  # look as this many examples regardless
     patience_increase = 2  # wait this much longer when a new best is
                                   # found
     improvement_threshold = 0.995  # a relative improvement of this much is
@@ -292,7 +336,8 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     print(('The code for file ' +
            os.path.split(__file__)[1] +
            ' ran for %.1fs' % ((end_time - start_time))), file=sys.stderr)
-
+    print("Here we go")
+    print(classifier.W.get_value())
 
 def predict():
     """
@@ -309,15 +354,16 @@ def predict():
         outputs=classifier.y_pred)
 
     # We can test it on some examples from test test
-    dataset='mnist.pkl.gz'
-    datasets = load_data(dataset)
+    data_dir = "data_ternary/"
+    datasets = load_data_last_sound(data_dir)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()
 
-    predicted_values = predict_model(test_set_x[:10])
+    predicted_values = predict_model(test_set_x)
     print("Predicted values for the first 10 examples in test set:")
     print(predicted_values)
 
 
 if __name__ == '__main__':
     sgd_optimization_mnist()
+    #predict()
