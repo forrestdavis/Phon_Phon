@@ -2,9 +2,9 @@
 features = ['High', 'Back', 'Low', 'ATR', 'Round', 'Syllabic', 'Consonantal',
         'Sonorant', 'Continuant', 'Nasal', 'Lateral', 'DR', 'Voice', 
         'Labial', 'Coronal', 'Dorsal', 'Laryngeal', 'Anterior',
-        'Distributed', 'Strident']
+        'Distributive', 'Strident']
 
-def load_features(feat_file = "features"): 
+def load_features(feat_file = "../features"): 
 
     data = open(feat_file, 'r')
     feats = {}
@@ -27,7 +27,7 @@ def load_features(feat_file = "features"):
     return feats
 
 
-def format_data(data_file = "data.txt"):
+def format_data(data_file = "../extra_data/data.txt"):
 
     feats = load_features()
 

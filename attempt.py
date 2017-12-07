@@ -67,36 +67,9 @@ class LogisticRegression(object):
             raise NotImplementedError()
 
 #UPDATE
-def load_data(dataset):
+def load_data(data_dir):
 
-    # Download the MNIST dataset if it is not present
-    data_dir, data_file = os.path.split(dataset)
-    if data_dir == "" and not os.path.isfile(dataset):
-        # Check if dataset is in the data directory.
-        new_path = os.path.join(
-            os.path.split(__file__)[0],
-            ".",
-            "mnist_data",
-            dataset
-        )
-        if os.path.isfile(new_path) or data_file == 'mnist.pkl.gz':
-            dataset = new_path
-
-    if (not os.path.isfile(dataset)) and data_file == 'mnist.pkl.gz':
-        from six.moves import urllib
-        origin = (
-            'http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz')
-        print('Downloading data from %s' % origin)
-        urllib.request.urlretrieve(origin, dataset)
-
-    print('... loading data')
-
-    # Load the dataset
-    with gzip.open(dataset, 'rb') as f:
-        try:
-            train_set, valid_set, test_set = pickle.load(f, encoding='latin1')
-        except:
-            train_set, valid_set, test_set = pickle.load(f)
+    train_data 
 
     def shared_dataset(data_xy, borrow=True):
         data_x, data_y = data_xy
@@ -118,10 +91,10 @@ def load_data(dataset):
 
 
 def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
-                           dataset='mnist.pkl.gz',
+                           data_dir = 'data/',
                            batch_size=600):
 
-    datasets = load_data(dataset)
+    datasets = load_data(data_dir)
 
     train_set_x, train_set_y = datasets[0]
     valid_set_x, valid_set_y = datasets[1]
@@ -306,8 +279,8 @@ def predict():
         outputs=classifier.y_pred)
 
     # We can test it on some examples from test test
-    dataset='mnist.pkl.gz'
-    datasets = load_data(dataset)
+    data_dir = "data/"
+    datasets = load_data(data_dir)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()
 
