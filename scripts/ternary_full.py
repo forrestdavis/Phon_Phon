@@ -83,6 +83,7 @@ def load_data_last_sound(data_dir):
             continue
         line = line.split('\t\t')
 
+        #TODO: UPDATE FOR WHOLE WORD
         #Get binary feature values for last sound
         x_val = line[len(line)-2:len(line)-1]
         x_val = x_val[0].split()
@@ -168,7 +169,7 @@ def load_data_last_sound(data_dir):
 
 
 def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
-                           data_dir = 'data_ternary/',
+                           data_dir = '../data_ternary/',
                            batch_size=300):
 
     datasets = load_data_last_sound(data_dir)
@@ -247,7 +248,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     ###############
     print('... training the model')
     # early-stopping parameters
-    patience = 2500  # look as this many examples regardless
+    patience = 500  # look as this many examples regardless
     patience_increase = 2  # wait this much longer when a new best is
                                   # found
     improvement_threshold = 0.995  # a relative improvement of this much is
@@ -316,7 +317,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
                     )
 
                     # save the best model
-                    with open('best_model.pkl', 'wb') as f:
+                    with open('../saved_models/ternary.pkl', 'wb') as f:
                         pickle.dump(classifier, f)
 
             if patience <= iter:
@@ -327,7 +328,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     print(
         (
             'Optimization complete with best validation score of %f %%,'
-            'with test performance %f %%'
+            ' with test performance %f %%'
         )
         % (best_validation_loss * 100., test_score * 100.)
     )
@@ -346,7 +347,7 @@ def predict():
     """
 
     # load the saved model
-    classifier = pickle.load(open('best_model.pkl'))
+    classifier = pickle.load(open('../saved_models/ternary_model.pkl'))
 
     # compile a predictor function
     predict_model = theano.function(
@@ -354,7 +355,7 @@ def predict():
         outputs=classifier.y_pred)
 
     # We can test it on some examples from test test
-    data_dir = "data_ternary/"
+    data_dir = "../data_ternary/"
     datasets = load_data_last_sound(data_dir)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()

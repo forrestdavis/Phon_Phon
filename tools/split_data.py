@@ -1,5 +1,5 @@
 
-data = open('output', 'r')
+data = open('../data/output', 'r')
 train = open('train.data', 'w')
 dev = open('dev.data', 'w')
 test = open('test.data', 'w')

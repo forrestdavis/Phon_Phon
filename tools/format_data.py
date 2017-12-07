@@ -1,3 +1,6 @@
+import os
+import sys
+
 #Feature order for data
 features = ['High', 'Back', 'Low', 'ATR', 'Round', 'Syllabic', 'Consonantal',
         'Sonorant', 'Continuant', 'Nasal', 'Lateral', 'DR', 'Voice', 
@@ -27,12 +30,12 @@ def load_features(feat_file = "../features"):
     return feats
 
 
-def format_data(data_file = "../extra_data/data.txt"):
+def format_data(data_file = "../data/data.txt"):
 
     feats = load_features()
 
     data = open(data_file, 'r')
-    output = open('output', 'w')
+    output = open('../data/output', 'w')
 
     
     for line in data:
@@ -78,6 +81,7 @@ def format_data(data_file = "../extra_data/data.txt"):
     data.close()
     output.close()
 
+    os.system("sh random.sh")
 
 if __name__ == "__main__":
 
