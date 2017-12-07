@@ -10,7 +10,6 @@ import numpy
 import theano
 import theano.tensor as T
 
-
 class LogisticRegression(object):
 
     def __init__(self, input, n_in, n_out):
@@ -68,10 +67,11 @@ class LogisticRegression(object):
             # the T.neq operator returns a vector of 0s and 1s, where 1
             # represents a mistake in prediction
             return T.mean(T.neq(self.y_pred, y))
+
         else:
             raise NotImplementedError()
 
-
+#UPDATE
 def load_data(dataset):
 
     # Download the MNIST dataset if it is not present
@@ -90,8 +90,7 @@ def load_data(dataset):
     if (not os.path.isfile(dataset)) and data_file == 'mnist.pkl.gz':
         from six.moves import urllib
         origin = (
-            'http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz'
-        )
+            'http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz')
         print('Downloading data from %s' % origin)
         urllib.request.urlretrieve(origin, dataset)
 
@@ -150,6 +149,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
 
     # construct the logistic regression class
     # Each MNIST image has size 28*28
+    #TODO: update size of this 20 X 3
     classifier = LogisticRegression(input=x, n_in=28 * 28, n_out=10)
 
     # the cost we minimize during training is the negative log likelihood of

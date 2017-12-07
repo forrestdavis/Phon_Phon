@@ -1,6 +1,6 @@
 
 vowels = {'AO':'O', 'AA':'a', 'IY':'i', 'IH':'I', 'EY':'e I', 'EH':'E',
-        'AE':'ae', 'OW':'o U', 'UH':'U', 'UW':'u', 'ER':'E R', 'AH':'2', 
+        'AE':'ae', 'OW':'o U', 'UH':'U', 'UW':'u', 'ER':'E r', 'AH':'2', 
         'AY':'E I', 'AW':'E U', 'OY':'U I', 'AX':'E'}
 
 consonants = {'P':'p', 'T':'t', 'K':'k', 'B':'b', 'D':'d', 
