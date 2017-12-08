@@ -395,7 +395,7 @@ def stats():
         median = numpy.median(values)
         MAD = numpy.median(
                 [numpy.abs(value-median) for value in values])
-        modified_z_scores = [0.6745 * (value - median) 
+        modified_z_scores = [1.4826 * (value - median) 
                 / MAD for value in values]
         return [numpy.where(numpy.abs(modified_z_scores) > threshold), modified_z_scores]
 
@@ -406,7 +406,9 @@ def stats():
 
     #print(a_1_outliers)
     #print(a_2_z_scores)
-    print(a_3_z_scores)
+    numpy.savetxt(sys.stdout, weights)
+    #print(a_1_z_scores)
+    #print(a_1_outliers)
 
 
 if __name__ == '__main__':
