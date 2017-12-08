@@ -41,7 +41,7 @@ p19
 I410
 S'<module>'
 p20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp21
 a(S'full.py'
 p22
@@ -161,7 +161,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp63
 a(g22
 I201
@@ -209,7 +209,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp79
 a(g22
 I201
@@ -252,7 +252,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp92
 a(g22
 I201
@@ -295,7 +295,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp105
 a(g22
 I201
@@ -337,7 +337,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp118
 a(g22
 I198
@@ -386,7 +386,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp131
 a(g22
 I201
@@ -504,7 +504,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp159
 a(g22
 I201
@@ -721,7 +721,7 @@ g16
 (g19
 I410
 g20
-S'sgd_optimization_mnist()'
+S'weights = sgd_optimization_mnist()'
 tp231
 a(g22
 I201

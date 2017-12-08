@@ -247,7 +247,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     ###############
     print('... training the model')
     # early-stopping parameters
-    patience = 500  # look as this many examples regardless
+    patience = 3000  # look as this many examples regardless
     patience_increase = 2  # wait this much longer when a new best is
                                   # found
     improvement_threshold = 0.995  # a relative improvement of this much is
@@ -337,7 +337,17 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
            os.path.split(__file__)[1] +
            ' ran for %.1fs' % ((end_time - start_time))), file=sys.stderr)
     print("Here we go")
-    print(classifier.W.get_value())
+    return_value = classifier.W.get_value()
+    return_1 = []
+    return_2 = []
+    return_3 = []
+    for item in return_value:
+        return_1.append(item[0])
+        return_2.append(item[1])
+        return_3.append(item[2])
+    print(return_1)
+    print(return_2)
+    print(return_3)
 
 def predict():
     """
@@ -363,7 +373,42 @@ def predict():
     print("Predicted values for the first 10 examples in test set:")
     print(predicted_values)
 
+def stats():
+
+    #load saved model
+    classifier = pickle.load(open('../saved_models/ternary.pkl'))
+    weights = classifier.W.get_value()
+
+    #Get each weight
+    w_1 = []
+    w_2 = []
+    w_3 = []
+    for w in weights:
+        w_1.append(w[0])
+        w_2.append(w[1])
+        w_3.append(w[2])
+    a_1 = numpy.array(w_1)
+    a_2 = numpy.array(w_2)
+    a_3 = numpy.array(w_3)
+
+    #Detect outliers
+    def detect_outliers(values):
+
+        threshold = 3.5
+
+        median = numpy.median(values)
+        MAD = numpy.median(
+                [numpy.abs(value-median) for value in values])
+        modified_z_scores = [0.6745 * (value - median) 
+                / MAD for value in values]
+        return numpy.where(numpy.abs(modified_z_scores) > threshold)
+
+    print(detect_outliers(a_1))
+    print(detect_outliers(a_2))
+    print(detect_outliers(a_3))
+
 
 if __name__ == '__main__':
-    sgd_optimization_mnist()
+    #sgd_optimization_mnist()
     #predict()
+    stats()

@@ -66,13 +66,11 @@ class LogisticRegression(object):
         else:
             raise NotImplementedError()
 
-def load_data_last_sound(data_dir):
+def load_data(data_dir):
 
-    rval = []
-
-    train_data = open(data_dir+'train.data', 'r')
-    dev_data = open(data_dir+'dev.data', 'r')
-    test_data = open(data_dir+'test.data', 'r')
+    train_data = open(data_dir+'train_pad.data', 'r')
+    dev_data = open(data_dir+'dev_pad.data', 'r')
+    test_data = open(data_dir+'test_pad.data', 'r')
 
     #Get x and y train values
     temp_x = []
@@ -83,21 +81,22 @@ def load_data_last_sound(data_dir):
             continue
         line = line.split('\t\t')
 
-        #TODO: UPDATE FOR WHOLE WORD
-        #Get binary feature values for last sound
-        x_val = line[len(line)-2:len(line)-1]
-        x_val = x_val[0].split()
+        #Get binary feature values for all sounds
+        x_val = line[2:len(line)-1]
+
+        #Join all x values
+        x_val = ' '.join(x_val)
+        x_val = x_val.split()
         
         #Turn list of strings into list of ints
         x_val = [int(x) for x in x_val]
-
         temp_x.append(x_val)
         temp_y.append(int(line[len(line)-1]))
 
     train_data_x = numpy.array(temp_x)
     train_data_y = numpy.array(temp_y)
     train_set = (train_data_x, train_data_y)
-         
+
     #Get x and y dev values
     temp_x = []
     temp_y = []
@@ -107,9 +106,12 @@ def load_data_last_sound(data_dir):
             continue
         line = line.split('\t\t')
 
-        #Get binary feature values for last sound
-        x_val = line[len(line)-2:len(line)-1]
-        x_val = x_val[0].split()
+        #Get binary feature values for all sounds
+        x_val = line[2:len(line)-1]
+
+        #Join all x values
+        x_val = ' '.join(x_val)
+        x_val = x_val.split()
         
         #Turn list of strings into list of ints
         x_val = [int(x) for x in x_val]
@@ -130,9 +132,12 @@ def load_data_last_sound(data_dir):
             continue
         line = line.split('\t\t')
 
-        #Get binary feature values for last sound
-        x_val = line[len(line)-2:len(line)-1]
-        x_val = x_val[0].split()
+        #Get binary feature values for all sounds
+        x_val = line[2:len(line)-1]
+
+        #Join all x values
+        x_val = ' '.join(x_val)
+        x_val = x_val.split()
         
         #Turn list of strings into list of ints
         x_val = [int(x) for x in x_val]
@@ -172,7 +177,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
                            data_dir = '../data_ternary/',
                            batch_size=300):
 
-    datasets = load_data_last_sound(data_dir)
+    datasets = load_data(data_dir)
 
     train_set_x, train_set_y = datasets[0]
     valid_set_x, valid_set_y = datasets[1]
@@ -193,7 +198,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     x = T.matrix('x')  # data, presented as rasterized images
     y = T.ivector('y')  # labels, presented as 1D vector of [int] labels
 
-    classifier = LogisticRegression(input=x, n_in=20, n_out=3)
+    classifier = LogisticRegression(input=x, n_in=20*17, n_out=3)
 
     # the cost we minimize during training is the negative log likelihood of
     # the model in symbolic format
@@ -248,7 +253,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
     ###############
     print('... training the model')
     # early-stopping parameters
-    patience = 500  # look as this many examples regardless
+    patience = 3000  # look as this many examples regardless
     patience_increase = 2  # wait this much longer when a new best is
                                   # found
     improvement_threshold = 0.995  # a relative improvement of this much is
@@ -317,7 +322,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
                     )
 
                     # save the best model
-                    with open('../saved_models/ternary.pkl', 'wb') as f:
+                    with open('../saved_models/full_ternary.pkl', 'wb') as f:
                         pickle.dump(classifier, f)
 
             if patience <= iter:
@@ -338,7 +343,7 @@ def sgd_optimization_mnist(learning_rate=0.13, n_epochs=1000,
            os.path.split(__file__)[1] +
            ' ran for %.1fs' % ((end_time - start_time))), file=sys.stderr)
     print("Here we go")
-    print(classifier.W.get_value())
+    return classifier.W.get_value()
 
 def predict():
     """
@@ -347,7 +352,7 @@ def predict():
     """
 
     # load the saved model
-    classifier = pickle.load(open('../saved_models/ternary_model.pkl'))
+    classifier = pickle.load(open('../saved_models/full_ternary.pkl'))
 
     # compile a predictor function
     predict_model = theano.function(
@@ -356,7 +361,7 @@ def predict():
 
     # We can test it on some examples from test test
     data_dir = "../data_ternary/"
-    datasets = load_data_last_sound(data_dir)
+    datasets = load_data(data_dir)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()
 
@@ -364,7 +369,48 @@ def predict():
     print("Predicted values for the first 10 examples in test set:")
     print(predicted_values)
 
+def stats():
+
+    #load saved model
+    classifier = pickle.load(open('../saved_models/full_ternary.pkl'))
+    weights = classifier.W.get_value()
+
+    #Get each weight
+    w_1 = []
+    w_2 = []
+    w_3 = []
+    for w in weights:
+        w_1.append(w[0])
+        w_2.append(w[1])
+        w_3.append(w[2])
+    a_1 = numpy.array(w_1)
+    a_2 = numpy.array(w_2)
+    a_3 = numpy.array(w_3)
+
+    #Detect outliers
+    def detect_outliers(values):
+
+        threshold = 70.0
+
+        median = numpy.median(values)
+        MAD = numpy.median(
+                [numpy.abs(value-median) for value in values])
+        modified_z_scores = [0.6745 * (value - median) 
+                / MAD for value in values]
+        return [numpy.where(numpy.abs(modified_z_scores) > threshold), modified_z_scores]
+
+    a_1_outliers, a_1_z_scores = detect_outliers(a_1)
+    a_2_outliers, a_2_z_scores = detect_outliers(a_2)
+    a_3_outliers, a_3_z_scores = detect_outliers(a_3)
+
+
+    #print(a_1_outliers)
+    #print(a_2_z_scores)
+    print(a_3_z_scores)
+
 
 if __name__ == '__main__':
-    sgd_optimization_mnist()
-    #predict()
+
+    #weights = sgd_optimization_mnist()
+    #numpy.savetxt(sys.stdout, weights)
+    stats()

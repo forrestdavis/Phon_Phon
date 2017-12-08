@@ -20,7 +20,7 @@ for line in train_data:
 
     line = line.split('\t\t')
     x_data = line[2:len(line)-1]
-    while(len(x_data)<16):
+    while(len(x_data)<17):
         x_data.insert(0, pad_element)
 
 
@@ -39,7 +39,7 @@ for line in dev_data:
 
     line = line.split('\t\t')
     x_data = line[2:len(line)-1]
-    while(len(x_data)<16):
+    while(len(x_data)<17):
         x_data.insert(0, pad_element)
 
 
@@ -58,7 +58,7 @@ for line in test_data:
 
     line = line.split('\t\t')
     x_data = line[2:len(line)-1]
-    while(len(x_data)<16):
+    while(len(x_data)<17):
         x_data.insert(0, pad_element)
 
 
