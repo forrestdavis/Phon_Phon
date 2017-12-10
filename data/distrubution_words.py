@@ -15,3 +15,20 @@ for word in words:
     dist[size] += 1
 
 print dist
+
+count = 0.0
+total = 0.0
+for key in dist:
+    count += key * dist[key]
+    total += dist[key]
+
+print count/total
+print count
+
+count = 0
+for key in dist:
+    if key > 11:
+        break
+    count += key*dist[key]
+
+print count

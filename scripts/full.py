@@ -390,7 +390,7 @@ def stats():
     #Detect outliers
     def detect_outliers(values):
 
-        threshold = 70.0
+        threshold = 2.5
 
         median = numpy.median(values)
         MAD = numpy.median(
@@ -403,10 +403,37 @@ def stats():
     a_2_outliers, a_2_z_scores = detect_outliers(a_2)
     a_3_outliers, a_3_z_scores = detect_outliers(a_3)
 
+    values = numpy.where(numpy.abs(a_1)>1)[0]
+    for value in values:
+        print(value, a_1[value])
 
-    #print(a_1_outliers)
+    """
+    mod_a_1 = a_1
+
+    while(keep_reducing):
+
+        #Get smallest significant index
+        threshold = a_1_outliers[0][0]
+        mod_a_1 = mod_a_1[threshold:]
+
+        mod_a_1_outliers, mod_a_1_z_scores = detect_outliers(mod_a_1)
+        #print(mod_a_1_outliers)
+        #print(mod_a_1_z_scores)
+
+        if len(mod_a_1_outliers[0]) == 0:
+            break
+
+    mod_a_1 = a_1[len(a_1)-40:]
+    print(mod_a_1)
+    print(len(mod_a_1))
+    mod_a_1_outliers, mod_a_1_z_scores = detect_outliers(mod_a_1)
+    print(mod_a_1_outliers)
+    print(mod_a_1_z_scores)
+    """
+
+
     #print(a_2_z_scores)
-    numpy.savetxt(sys.stdout, weights)
+    #numpy.savetxt(sys.stdout, weights)
     #print(a_1_z_scores)
     #print(a_1_outliers)
 
