@@ -8,9 +8,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 
 def load_data(data_dir='../data_ternary/'):
 
-    train_data = open(data_dir+'train_pad.data', 'r')
-    dev_data = open(data_dir+'dev_pad.data', 'r')
-    test_data = open(data_dir+'test_pad.data', 'r')
+    train_data = open(data_dir+'train_pad_1.data', 'r')
 
     #Get x and y train values
     temp_x = []
@@ -32,7 +30,7 @@ def load_data(data_dir='../data_ternary/'):
         x_val = [int(x) for x in x_val]
         temp_x.append(x_val)
 
-        if int(line[len(line)-1]) == 2:
+        if int(line[len(line)-1]) == 0:
             temp_y.append(1)
         else:
             temp_y.append(0)
@@ -44,17 +42,52 @@ def load_data(data_dir='../data_ternary/'):
 
     return train_data_x, train_data_y
 
+def load_data_last_sound(data_dir='../data_ternary/'):
+
+    train_data = open(data_dir+'reduced/train_6.data', 'r')
+    #train_data = open(data_dir+'train.data', 'r')
+
+    #Get x and y train values
+    temp_x = []
+    temp_y = []
+    for line in train_data:
+        line=line.strip()
+        if not line:
+            continue
+        line = line.split('\t\t')
+
+        #Get binary feature values for last sound
+        x_val = line[len(line)-2:len(line)-1]
+        x_val = x_val[0].split()
+        
+        #Turn list of strings into list of ints
+        x_val = [int(x) for x in x_val]
+
+        temp_x.append(x_val)
+
+        if int(line[len(line)-1]) == 0:
+            temp_y.append(1)
+        else:
+            temp_y.append(0)
+
+    train_data_x = np.array(temp_x)
+    train_data_y = np.array(temp_y)
+
+    return train_data_x, train_data_y
 
 def get_importances():
 
-    X, y = load_data()
+    #X, y = load_data()
+    X, y = load_data_last_sound()
 
+    '''
     X_reduced = []
     for x in X:
         X_reduced.append(x[320:])
     X_reduced = np.array(X_reduced)
+    '''
     
-    #X_reduced = X
+    X_reduced = X
 
     forest = ExtraTreesClassifier(n_estimators=250, random_state=0)
 
@@ -94,7 +127,7 @@ def get_importances():
            color="r", yerr=std[indices], align="center")
     plt.xticks(range(X_reduced.shape[1]), sub_features)
     plt.xlim([-1, X_reduced.shape[1]])
-    plt.show()
+    plt.show() 
 
 if __name__ == '__main__':
     get_importances()
