@@ -8,7 +8,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 
 def load_data(data_dir='../data_ternary/'):
 
-    train_data = open(data_dir+'train_pad_1.data', 'r')
+    train_data = open(data_dir+'train_pad.data', 'r')
 
     #Get x and y train values
     temp_x = []
@@ -44,7 +44,7 @@ def load_data(data_dir='../data_ternary/'):
 
 def load_data_last_sound(data_dir='../data_ternary/'):
 
-    train_data = open(data_dir+'reduced/train_6.data', 'r')
+    train_data = open(data_dir+'class_1/train_f.data', 'r')
     #train_data = open(data_dir+'train.data', 'r')
 
     #Get x and y train values
@@ -65,7 +65,7 @@ def load_data_last_sound(data_dir='../data_ternary/'):
 
         temp_x.append(x_val)
 
-        if int(line[len(line)-1]) == 0:
+        if int(line[len(line)-1]) == 1:
             temp_y.append(1)
         else:
             temp_y.append(0)

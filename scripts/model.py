@@ -77,11 +77,11 @@ def load_data_last_sound(data_dir):
     test_data = open(data_dir+'test.data', 'r')
     '''
 
-    #train_data = open(data_dir+'class_1/train_f_t.data', 'r')
-    train_data = open(data_dir+'train.data', 'r')
+    train_data = open(data_dir+'class_1/train_f.data', 'r')
+    #train_data = open(data_dir+'train.data', 'r')
     dev_data = open(data_dir+'dev.data', 'r')
-    test_data = open(data_dir+'test.data', 'r')
-    #test_data = open(data_dir+'voiceless_test.data', 'r')
+    #test_data = open(data_dir+'test.data', 'r')
+    test_data = open(data_dir+'voiceless_test.data', 'r')
 
     #Get x and y train values
     temp_x = []
@@ -689,6 +689,7 @@ def stats():
 
 
     pairs = pairs[:5]
+    print(pairs)
     x_values = []
     y_values = []
     for pair in pairs:
@@ -713,6 +714,7 @@ def stats():
 
 
     pairs = pairs[:5]
+    print(pairs)
     x_values = []
     y_values = []
     for pair in pairs:
@@ -737,6 +739,7 @@ def stats():
 
 
     pairs = pairs[:5]
+    print(pairs)
     x_values = []
     y_values = []
     for pair in pairs:
@@ -760,7 +763,7 @@ if __name__ == '__main__':
     stats()
     #predict()
 
-    if 1:
+    if 0:
         plt.plot(costs)
         plt.xlabel('Training Iterations')
         plt.ylabel('Cost')

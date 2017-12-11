@@ -23,12 +23,11 @@ for key in dist:
     total += dist[key]
 
 print count/total
-print count
 
 count = 0
 for key in dist:
-    if key > 11:
+    if key <= 3:
         break
     count += key*dist[key]
 
-print count
+print 210.0/total
