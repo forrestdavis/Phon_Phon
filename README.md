@@ -35,15 +35,15 @@ presented data effects the feature set learned.
 
 First clone the repo:
 
-'''
+```
 git clone https://github.com/forrestdavis/Phon_Phon.git
-'''
+```
 
 Then navigate to the scripts directory:
 
-'''
+```
 cd scripts/
-'''
+```
 
 Within scripts you have two programs, model.py and stats.py. In model.py, 
 there are methods for loading different types of data (only stem final or
