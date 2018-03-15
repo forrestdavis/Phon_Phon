@@ -44,8 +44,8 @@ def load_data(data_dir='../data_ternary/'):
 
 def load_data_last_sound(data_dir='../data_ternary/'):
 
-    train_data = open(data_dir+'class_1/train_f.data', 'r')
-    #train_data = open(data_dir+'train.data', 'r')
+    #train_data = open(data_dir+'class_1/train_f.data', 'r')
+    train_data = open(data_dir+'train.data', 'r')
 
     #Get x and y train values
     temp_x = []

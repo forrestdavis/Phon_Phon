@@ -1,3 +1,8 @@
+#########################################################
+# This is a modified version of the example from
+# deeplearning.net that classifies MNSIT digits using
+# Logistic Regression
+#########################################################
 from __future__ import print_function
 
 import six.moves.cPickle as pickle
@@ -15,14 +20,16 @@ class LogisticRegression(object):
 
     def __init__(self, input, n_in, n_out):
 
-        # initialize with 0 the weights W as a matrix of shape (n_in, n_out)
+        # Initialize a matrix of dimensions n_in * n_out with all zeros, 
+        # set to be weights (W)
         self.W = theano.shared(
             value=numpy.zeros(
                 (n_in, n_out),
                 dtype=theano.config.floatX
             ), name='W', borrow=True)
 
-        # initialize the biases b as a vector of n_out 0s
+        # Initialize a vector of length n_out with all zeros, 
+        # set to be biases (linear affix) (b) 
         self.b = theano.shared(
             value=numpy.zeros(
                 (n_out,),
@@ -38,16 +45,6 @@ class LogisticRegression(object):
         self.input = input
 
     def negative_log_likelihood(self, y):
-        # y.shape[0] is (symbolically) the number of rows in y, i.e.,
-        # number of examples (call it n) in the minibatch
-        # T.arange(y.shape[0]) is a symbolic vector which will contain
-        # [0,1,2,... n-1] T.log(self.p_y_given_x) is a matrix of
-        # Log-Probabilities (call it LP) with one row per example and
-        # one column per class LP[T.arange(y.shape[0]),y] is a vector
-        # v containing [LP[0,y[0]], LP[1,y[1]], LP[2,y[2]], ...,
-        # LP[n-1,y[n-1]]] and T.mean(LP[T.arange(y.shape[0]),y]) is
-        # the mean (across minibatch examples) of the elements in v,
-        # i.e., the mean log-likelihood across the minibatch.
         return -T.mean(T.log(self.p_y_given_x)[T.arange(y.shape[0]), y])
 
     def errors(self, y):
@@ -67,6 +64,7 @@ class LogisticRegression(object):
         else:
             raise NotImplementedError()
 
+#Load data representing only the last sound in the stem
 def load_data_last_sound(data_dir):
 
     rval = []
@@ -77,11 +75,11 @@ def load_data_last_sound(data_dir):
     test_data = open(data_dir+'test.data', 'r')
     '''
 
-    train_data = open(data_dir+'class_1/train_f.data', 'r')
-    #train_data = open(data_dir+'train.data', 'r')
+    #train_data = open(data_dir+'class_1/train_f.data', 'r')
+    train_data = open(data_dir+'train.data', 'r')
     dev_data = open(data_dir+'dev.data', 'r')
-    #test_data = open(data_dir+'test.data', 'r')
-    test_data = open(data_dir+'voiceless_test.data', 'r')
+    test_data = open(data_dir+'test.data', 'r')
+    #test_data = open(data_dir+'voiceless_test.data', 'r')
 
     #Get x and y train values
     temp_x = []
@@ -175,6 +173,7 @@ def load_data_last_sound(data_dir):
     test_data.close()
     return rval
 
+#Load data representing the full stem (padded to max length)
 def load_data_full(data_dir):
 
     train_data = open(data_dir+'train_pad.data', 'r')
@@ -282,7 +281,8 @@ def load_data_full(data_dir):
     return rval
 
 
-def sgd_optimization_mnist(data_type, learning_rate=0.13, 
+#Gradient descent 
+def sgd_optimization(data_type, learning_rate=0.13, 
                            n_epochs=1000,
                            data_dir = '../data_ternary/',
                            batch_size=300):
@@ -567,78 +567,6 @@ def predict():
     print('f', count_f[0], count_f[1], count_f[2], count_f[3])
     print('T', count_T[0], count_T[1], count_T[2], count_T[3])
 
-    '''
-    count_s = [0, 0, 0, 0]
-    count_z = [0, 0, 0, 0]
-    count_S = [0, 0, 0, 0]
-    count_Z = [0, 0, 0, 0]
-    count_tS = [0, 0, 0, 0]
-    count_dZ = [0, 0, 0, 0]
-
-    for x, y in zip(test_set_x, predicted_values):
-        if numpy.array_equal(x, s):
-            if y == 0:
-                count_s[0] += 1
-            if y == 1:
-                count_s[1] += 1
-            if y == 2:
-                count_s[2] += 1
-            count_s[3] += 1
-
-        if numpy.array_equal(x, z):
-            if y == 0:
-                count_z[0] += 1
-            if y == 1:
-                count_z[1] += 1
-            if y == 2:
-                count_z[2] += 1
-            count_z[3] += 1
-
-        if numpy.array_equal(x, S):
-            if y == 0:
-                count_S[0] += 1
-            if y == 1:
-                count_S[1] += 1
-            if y == 2:
-                count_S[2] += 1
-            count_S[3] += 1
-
-        if numpy.array_equal(x, Z):
-            if y == 0:
-                count_Z[0] += 1
-            if y == 1:
-                count_Z[1] += 1
-            if y == 2:
-                count_Z[2] += 1
-            count_Z[3] += 1
-
-        if numpy.array_equal(x, tS):
-            if y == 0:
-                count_tS[0] += 1
-            if y == 1:
-                count_tS[1] += 1
-            if y == 2:
-                count_tS[2] += 1
-            count_tS[3] += 1
-
-        if numpy.array_equal(x, dZ):
-            if y == 0:
-                count_dZ[0] += 1
-            if y == 1:
-                count_dZ[1] += 1
-            if y == 2:
-                count_dZ[2] += 1
-            count_dZ[3] += 1
-
-    print('sound', '0', '1', '2', 'total')
-    print('s', count_s[0], count_s[1], count_s[2], count_s[3])
-    print('z', count_z[0], count_z[1], count_z[2], count_z[3])
-    print('S', count_S[0], count_S[1], count_S[2], count_S[3])
-    print('Z', count_Z[0], count_Z[1], count_Z[2], count_Z[3])
-    print('tS', count_tS[0], count_tS[1], count_tS[2], count_tS[3])
-    print('dZ', count_dZ[0], count_dZ[1], count_dZ[2], count_dZ[3])
-    '''
-
 def stats():
 
     #load saved model
@@ -757,13 +685,13 @@ def stats():
 
 if __name__ == '__main__':
 
-    #weights, costs = sgd_optimization_mnist('full')
-    weights, costs = sgd_optimization_mnist('final')
+    #weights, costs = sgd_optimization('full')
+    weights, costs = sgd_optimization('final')
 
     stats()
     #predict()
 
-    if 0:
+    if 1:
         plt.plot(costs)
         plt.xlabel('Training Iterations')
         plt.ylabel('Cost')
